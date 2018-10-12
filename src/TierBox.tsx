@@ -13,8 +13,18 @@ interface Props {
 	chosenDiff: Difficulty;
 	selection: Selection[];
 	alreadyChosenChallenges: Challenge[];
-	onSelect: (challenge: Challenge, inputIndex: number, tierIndex: number) => void;
-	onSelectAnime: (anime: Anime, inputIndex: number, tierIndex: number) => void;
+	alreadyChosenAnime: Anime[],
+	onSelect: (
+		challenge: Challenge,
+		inputIndex: number,
+		tierIndex: number
+	) => void;
+	onSelectAnime: (
+		anime: Anime,
+		inputIndex: number,
+		tierIndex: number
+	) => void;
+	onSetStatus: (completed: boolean, inputIndex: number, tierIndex: number) => void;
 }
 
 class TierBox extends React.Component<Props, {}> {
@@ -24,21 +34,27 @@ class TierBox extends React.Component<Props, {}> {
 	public render() {
 		return (
 			<div className="">
-				<div className="label">Tier {this.props.index + 1}</div>
+				<div>Tier {this.props.index + 1}</div>
 				{this.props.selection.map((sel, index) => (
 					<ChallengeItem
 						key={index}
-						selection={this.props.selection}
-						{...sel}
+						selection={sel}
 						index={index}
 						onSelect={this.onSelect.bind(this)}
 						allChallenges={this.props.tier.challenges}
-						alreadyChosenChallenges={this.props.alreadyChosenChallenges}
+						alreadyChosenChallenges={
+							this.props.alreadyChosenChallenges
+						}
+						alreadyChosenAnime={this.props.alreadyChosenAnime}
 						onSelectAnime={this.onSelectAnime.bind(this)}
+						onSetStatus={this.onComplete.bind(this)}
 					/>
 				))}
 			</div>
 		);
+	}
+	private onComplete(completed: boolean, inputIndex: number) {
+		this.props.onSetStatus(completed, inputIndex, this.props.index);
 	}
 	private onSelect(challenge: Challenge, inputIndex: number) {
 		this.props.onSelect(challenge, inputIndex, this.props.index);

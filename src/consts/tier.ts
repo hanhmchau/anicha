@@ -33,7 +33,10 @@ const tier: Tier[] = [
 			},
 			{ id: 11, name: 'Watch an Original anime' },
 			{ id: 12, name: 'Watch an anime adapted from a Visual Novel' },
-			{ id: 13, name: 'Watch an anime adapted from a Novel or Light Novel' },
+			{
+				id: 13,
+				name: 'Watch an anime adapted from a Novel or Light Novel'
+			},
 			{ id: 14, name: 'Watch an anime adapted from a 4-koma Manga' },
 			{
 				id: 15,
@@ -47,12 +50,14 @@ const tier: Tier[] = [
 			},
 			{
 				id: 17,
-				name: 'Watch a completed anime with a popularity of or lower than #701',
+				name:
+					'Watch a completed anime with a popularity of or lower than #701',
 				helptext: '16 minutes or more per episode'
 			},
 			{
 				id: 18,
-				name: 'Watch a completed anime with less than 5,000 completed members'
+				name:
+					'Watch a completed anime with less than 5,000 completed members'
 			},
 			{
 				id: 19,
@@ -113,7 +118,10 @@ const tier: Tier[] = [
 	{
 		challenges: [
 			{ id: 34, name: 'Watch a stand-alone OVA' },
-			{ id: 35, name: 'Watch a Movie with a duration of 90 minutes or more' },
+			{
+				id: 35,
+				name: 'Watch a Movie with a duration of 90 minutes or more'
+			},
 			{ id: 36, name: 'Watch the last movie part of a Movie-Series' },
 			{ id: 37, name: 'Watch a short anime with 35 episodes or more' },
 			{ id: 38, name: 'Watch a Korean or Chinese anime' },
@@ -124,11 +132,13 @@ const tier: Tier[] = [
 			},
 			{
 				id: 40,
-				name: 'Watch an anime without the Producer, Licensor nor Studio listed'
+				name:
+					'Watch an anime without the Producer, Licensor nor Studio listed'
 			},
 			{
 				id: 41,
-				name: 'Watch an anime by a studio with 3 to 30 anime in MAL`s database'
+				name:
+					'Watch an anime by a studio with 3 to 30 anime in MAL`s database'
 			},
 			{
 				id: 42,
@@ -137,11 +147,13 @@ const tier: Tier[] = [
 			},
 			{
 				id: 43,
-				name: 'Watch an anime with a voice actor that worked on 5 or less anime'
+				name:
+					'Watch an anime with a voice actor that worked on 5 or less anime'
 			},
 			{
 				id: 44,
-				name: 'Watch an anime which began airing the same month you joined MAL'
+				name:
+					'Watch an anime which began airing the same month you joined MAL'
 			},
 			{
 				id: 45,
@@ -162,7 +174,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 52,
-				name: 'Watch a completed anime with less than 2,500 completed members'
+				name:
+					'Watch a completed anime with less than 2,500 completed members'
 			},
 			{
 				id: 53,
@@ -174,7 +187,10 @@ const tier: Tier[] = [
 				name:
 					'Watch a completed anime scored 4 or less from another challenger who posted on your sign up page'
 			},
-			{ id: 55, name: 'Watch a completed anime scored by less than 50 users' },
+			{
+				id: 55,
+				name: 'Watch a completed anime scored by less than 50 users'
+			},
 			{
 				id: 56,
 				name: 'Watch a completed anime which 0 members have favorited'
@@ -185,7 +201,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 58,
-				name: 'Watch an anime with 3 or more human adults as the main cast'
+				name:
+					'Watch an anime with 3 or more human adults as the main cast'
 			},
 			{
 				id: 59,
@@ -194,7 +211,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 60,
-				name: 'Watch an anime with a human main character that is not Japanese'
+				name:
+					'Watch an anime with a human main character that is not Japanese'
 			},
 			{
 				id: 61,
@@ -204,14 +222,19 @@ const tier: Tier[] = [
 			{ id: 62, name: 'Watch an anime rated G or R' },
 			{
 				id: 63,
-				name: 'Watch an anime tagged as Dementia, Psychological and/or Thriller'
+				name:
+					'Watch an anime tagged as Dementia, Psychological and/or Thriller'
 			},
-			{ id: 64, name: 'Watch an anime tagged as Martial Arts and/or Samurai' },
+			{
+				id: 64,
+				name: 'Watch an anime tagged as Martial Arts and/or Samurai'
+			},
 			{ id: 65, name: 'Watch an anime tagged as Cars and/or Game' },
 			{ id: 66, name: 'Watch an anime tagged with 5 or more genres' },
 			{
 				id: 67,
-				name: 'Watch an anime featured in another participant`s forum set'
+				name:
+					'Watch an anime featured in another participant`s forum set'
 			},
 			{ id: 68, name: 'Watch an active staff member`s favorite anime' },
 			{ id: 69, name: 'Watch an anime that was recently reviewed' },
@@ -221,7 +244,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 71,
-				name: 'Watch an anime with a special character or symbol in the title'
+				name:
+					'Watch an anime with a special character or symbol in the title'
 			},
 			{
 				id: 72,
@@ -235,7 +259,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 74,
-				name: 'Watch one of the Top 5 anime recommended to your Favorite Anime'
+				name:
+					'Watch one of the Top 5 anime recommended to your Favorite Anime'
 			},
 			{
 				id: 75,
@@ -251,7 +276,10 @@ const tier: Tier[] = [
 	},
 	{
 		challenges: [
-			{ id: 77, name: 'Watch a Movie with a duration of 120 minutes or more' },
+			{
+				id: 77,
+				name: 'Watch a Movie with a duration of 120 minutes or more'
+			},
 			{ id: 78, name: 'Watch a short anime with 70 episodes or more' },
 			{
 				id: 79,
@@ -265,7 +293,8 @@ const tier: Tier[] = [
 			},
 			{
 				id: 81,
-				name: 'Watch an anime which began airing the same day you joined MAL'
+				name:
+					'Watch an anime which began airing the same day you joined MAL'
 			},
 			{
 				id: 82,
@@ -276,7 +305,10 @@ const tier: Tier[] = [
 				name: 'Watch an anime which began airing between 1960 and 1979'
 			},
 			{ id: 84, name: 'Watch an anime with 50 episodes or more' },
-			{ id: 85, name: 'Watch an anime with 30 minutes or more per episode' },
+			{
+				id: 85,
+				name: 'Watch an anime with 30 minutes or more per episode'
+			},
 			{
 				id: 86,
 				name:
@@ -291,7 +323,10 @@ const tier: Tier[] = [
 				name:
 					'Watch a completed anime adapted from a manga with a score of 6.50 or lower'
 			},
-			{ id: 92, name: 'Watch a completed anime with a score of or below 5.00' },
+			{
+				id: 92,
+				name: 'Watch a completed anime with a score of or below 5.00'
+			},
 			{
 				id: 93,
 				name:
@@ -299,30 +334,46 @@ const tier: Tier[] = [
 			},
 			{
 				id: 94,
-				name: 'Watch a completed anime with less than 1,000 completed members'
+				name:
+					'Watch a completed anime with less than 1,000 completed members'
 			},
-			{ id: 95, name: 'Watch a completed anime with less than 5 favorites' },
+			{
+				id: 95,
+				name: 'Watch a completed anime with less than 5 favorites'
+			},
 			{
 				id: 96,
-				name: 'Watch an anime with 5 or more human adults as the main cast'
+				name:
+					'Watch an anime with 5 or more human adults as the main cast'
 			},
-			{ id: 97, name: 'Watch an anime with a non-humanoid main character' },
+			{
+				id: 97,
+				name: 'Watch an anime with a non-humanoid main character'
+			},
 			{
 				id: 98,
 				name:
 					'Watch an anime that combines one of your favorite and least favorite genres'
 			},
 			{ id: 99, name: 'Watch an anime rated R+' },
-			{ id: 100, name: 'Watch an anime tagged as Shounen Ai or Shoujo Ai' },
+			{
+				id: 100,
+				name: 'Watch an anime tagged as Shounen Ai or Shoujo Ai'
+			},
 			{ id: 101, name: 'Watch an anime tagged with 7 or more genres' },
 			{
 				id: 102,
-				name: 'Watch an anime recommended to you by a challenge staff member'
+				name:
+					'Watch an anime recommended to you by a challenge staff member'
 			},
-			{ id: 103, name: 'Watch a completed anime that hasn`t been reviewed' },
+			{
+				id: 103,
+				name: 'Watch a completed anime that hasn`t been reviewed'
+			},
 			{
 				id: 104,
-				name: 'Watch a completed anime with no Opening nor Ending themes listed'
+				name:
+					'Watch a completed anime with no Opening nor Ending themes listed'
 			},
 			{
 				id: 105,

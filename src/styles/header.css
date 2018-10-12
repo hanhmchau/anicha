@@ -1,4 +1,3 @@
-
 .top-menu {
 	line-height: 64px;
 }
@@ -11,13 +10,14 @@
 	cursor: default !important;
 }
 
-.ant-menu-item.title:hover, .ant-menu-item.title.ant-menu-item-selected {
+.ant-menu-item.title:hover,
+.ant-menu-item.title.ant-menu-item-selected {
 	border-bottom: 2px solid transparent;
 	color: rgba(0, 0, 0, 0.65) !important;
 }
 
 .subtitle {
-	color: #d9d9d9
+	color: #d9d9d9;
 }
 
 .ant-menu-item a {

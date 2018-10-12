@@ -1,4 +1,5 @@
 import { Select, Tooltip } from 'antd';
+import FormItem from 'antd/lib/form/FormItem';
 import { OptionProps, SelectValue } from 'antd/lib/select';
 import * as React from 'react';
 import Challenge from './models/challenge';
@@ -17,22 +18,23 @@ class ChallengeSelect extends React.Component<Props, {}> {
 	}
 	public render() {
 		const select = (
-			<Select
-				style={{
-					width: '100%'
-				}}
-				onChange={this.onChange.bind(this)}
-				value={this.props.value ? this.props.value.name : undefined}
-				showSearch
-				filterOption={(input, option) => this.matches(input, option)}
-			>
-				{this.getUnselectedChallenges.call(this)}
-			</Select>
+			<FormItem>
+				<Select
+					style={{
+						width: '100%'
+					}}
+					onChange={this.onChange.bind(this)}
+					value={this.props.value ? this.props.value.name : undefined}
+					showSearch
+					filterOption={(input, option) => this.matches(input, option)}>
+					{this.getUnselectedChallenges.call(this)}
+				</Select>
+			</FormItem>
 		);
 		if (this.props.value && this.props.value.helptext) {
-			return <Tooltip title={this.props.value.helptext}>
-				{select}
-			</Tooltip>
+			return (
+				<Tooltip title={this.props.value.helptext}>{select}</Tooltip>
+			);
 		}
 		return select;
 	}

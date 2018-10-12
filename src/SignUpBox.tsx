@@ -20,9 +20,10 @@ interface State {
 class SignUpBox extends React.Component<{}, State> {
 	constructor(props: any) {
 		super(props);
+		const selections = [[], [], []];
 		this.state = {
 			difficulties,
-			selections: [[], [], []]
+			selections
 		};
 	}
 	public render() {
@@ -37,6 +38,11 @@ class SignUpBox extends React.Component<{}, State> {
 					/>
 					{this.state.chosenDiff && (
 						<MultiTierBox
+							onCheckAll={this.checkAll.bind(this)}
+							isAllDisabled={this.isAllDisabled()}
+							checkAll={this.isAllChecked()}
+							indeterminate={this.isIndeterminate()}
+							onSetStatus={this.onSetStatus.bind(this)}
 							onSelectAnime={this.onSelectAnime.bind(this)}
 							onSort={this.onSort.bind(this)}
 							selections={this.state.selections}
@@ -47,6 +53,66 @@ class SignUpBox extends React.Component<{}, State> {
 				</div>
 			</Content>
 		);
+	}
+	private checkAll(checked: boolean) {
+		const newSelections = this.state.selections.slice();
+		newSelections.forEach(tierSelections => {
+			tierSelections.forEach(sel => {
+				if (sel.challenge && sel.anime) {
+					sel.completed = checked;
+				}
+			});
+		});
+		this.setState({
+			selections: newSelections
+		});
+	}
+	private isAllDisabled() {
+		const flattenedSelections: Selection[] = [].concat.apply(
+			[],
+			this.state.selections
+		);
+		return flattenedSelections.every(sel => !(sel.anime && sel.challenge));
+	}
+	private isAllChecked() {
+		const flattenedSelections: Selection[] = [].concat.apply(
+			[],
+			this.state.selections
+		);
+		if (flattenedSelections.every(sel => !(sel.anime && sel.challenge))) {
+			return false;
+		}
+		return flattenedSelections.every(sel => {
+			if (sel.anime && sel.challenge) {
+				return sel.completed;
+			}
+			return true;
+		});
+	}
+	private isIndeterminate() {
+		const flattenedSelections: Selection[] = [].concat.apply(
+			[],
+			this.state.selections
+		);
+		const indeterminate =
+			flattenedSelections.some(sel => !sel.completed) &&
+			flattenedSelections.some(sel => sel.completed);
+		return indeterminate;
+	}
+	private onSetStatus(
+		completed: boolean,
+		inputIndex: number,
+		tierIndex: number
+	) {
+		const newSelections = this.state.selections.slice();
+		const currentSelection = newSelections[tierIndex][inputIndex];
+		newSelections[tierIndex][inputIndex] = {
+			...currentSelection,
+			completed
+		};
+		this.setState({
+			selections: newSelections
+		});
 	}
 	private onSort() {
 		const newSelections: Selection[][] = [];
@@ -84,11 +150,7 @@ class SignUpBox extends React.Component<{}, State> {
 			selections: newSelections
 		});
 	}
-	private onSelectAnime(
-		anime: Anime,
-		inputIndex: number,
-		tierIndex: number
-	) {
+	private onSelectAnime(anime: Anime, inputIndex: number, tierIndex: number) {
 		const newSelections = this.state.selections.slice();
 		const currentSelection = newSelections[tierIndex][inputIndex];
 		newSelections[tierIndex][inputIndex] = {

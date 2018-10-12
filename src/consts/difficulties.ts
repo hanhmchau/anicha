@@ -3,7 +3,7 @@ import Difficulty from 'src/models/difficulty';
 const difficulties: Difficulty[] = [
 	{
 		name: 'Knight',
-		required: [10, 8, 2],
+		required: [10, 8, 2]
 	},
 	{
 		name: 'Baron',

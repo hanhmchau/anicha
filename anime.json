@@ -1,0 +1,5350 @@
+[
+  {
+    "id": 1,
+    "name": "Cowboy Bebop",
+    "english": "Cowboy Bebop",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/19644.jpg",
+    "link": "https://myanimelist.net/anime/1/Cowboy_Bebop"
+  },
+  {
+    "id": 5,
+    "name": "Cowboy Bebop: Tengoku no Tobira",
+    "english": "Cowboy Bebop: The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1439/93480.jpg",
+    "link": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira"
+  },
+  {
+    "id": 6,
+    "name": "Trigun",
+    "english": "Trigun",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/20310.jpg",
+    "link": "https://myanimelist.net/anime/6/Trigun"
+  },
+  {
+    "id": 8,
+    "name": "Bouken Ou Beet",
+    "english": "Beet the Vandel Buster",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/21569.jpg",
+    "link": "https://myanimelist.net/anime/8/Bouken_Ou_Beet"
+  },
+  {
+    "id": 15,
+    "name": "Eyeshield 21",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/66961.jpg",
+    "link": "https://myanimelist.net/anime/15/Eyeshield_21"
+  },
+  {
+    "id": 16,
+    "name": "Hachimitsu to Clover",
+    "english": "Honey and Clover",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/73923.jpg",
+    "link": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover"
+  },
+  {
+    "id": 17,
+    "name": "Hungry Heart: Wild Striker",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/49655.jpg",
+    "link": "https://myanimelist.net/anime/17/Hungry_Heart__Wild_Striker"
+  },
+  {
+    "id": 18,
+    "name": "Initial D Fourth Stage",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/43927.jpg",
+    "link": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage"
+  },
+  {
+    "id": 21,
+    "name": "One Piece",
+    "english": "One Piece",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg",
+    "link": "https://myanimelist.net/anime/21/One_Piece"
+  },
+  {
+    "id": 22,
+    "name": "Tennis no Ouji-sama",
+    "english": "The Prince of Tennis",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/21624.jpg",
+    "link": "https://myanimelist.net/anime/22/Tennis_no_Ouji-sama"
+  },
+  {
+    "id": 25,
+    "name": "Sunabouzu",
+    "english": "Desert Punk",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75536.jpg",
+    "link": "https://myanimelist.net/anime/25/Sunabouzu"
+  },
+  {
+    "id": 26,
+    "name": "Texhnolyze",
+    "english": "Texhnolyze",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/18165.jpg",
+    "link": "https://myanimelist.net/anime/26/Texhnolyze"
+  },
+  {
+    "id": 31,
+    "name": "Neon Genesis Evangelion: Death & Rebirth",
+    "english": "Neon Genesis Evangelion: Death & Rebirth",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/75963.jpg",
+    "link": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth"
+  },
+  {
+    "id": 33,
+    "name": "Kenpuu Denki Berserk",
+    "english": "Berserk",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/18520.jpg",
+    "link": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk"
+  },
+  {
+    "id": 43,
+    "name": "Ghost in the Shell",
+    "english": "Ghost in the Shell",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/82594.jpg",
+    "link": "https://myanimelist.net/anime/43/Ghost_in_the_Shell"
+  },
+  {
+    "id": 44,
+    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+    "english": "Samurai X: Trust and Betrayal",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/13160.jpg",
+    "link": "https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen"
+  },
+  {
+    "id": 45,
+    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "english": "Rurouni Kenshin",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/6803.jpg",
+    "link": "https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+  },
+  {
+    "id": 46,
+    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+    "english": "Samurai X: The Motion Picture",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/47845.jpg",
+    "link": "https://myanimelist.net/anime/46/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Ishinshishi_e_no_Chinkonka"
+  },
+  {
+    "id": 50,
+    "name": "Aa! Megami-sama! (TV)",
+    "english": "Ah! My Goddess",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/17841.jpg",
+    "link": "https://myanimelist.net/anime/50/Aa_Megami-sama_TV"
+  },
+  {
+    "id": 55,
+    "name": "Arc the Lad",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/49041.jpg",
+    "link": "https://myanimelist.net/anime/55/Arc_the_Lad"
+  },
+  {
+    "id": 56,
+    "name": "Avenger",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/19921.jpg",
+    "link": "https://myanimelist.net/anime/56/Avenger"
+  },
+  {
+    "id": 58,
+    "name": "Blue Gender",
+    "english": "Blue Gender",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2023.jpg",
+    "link": "https://myanimelist.net/anime/58/Blue_Gender"
+  },
+  {
+    "id": 59,
+    "name": "Chobits",
+    "english": "Chobits",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/24648.jpg",
+    "link": "https://myanimelist.net/anime/59/Chobits"
+  },
+  {
+    "id": 62,
+    "name": "D.C.: Da Capo",
+    "english": "D.C.~Da Capo~",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/73936.jpg",
+    "link": "https://myanimelist.net/anime/62/DC__Da_Capo"
+  },
+  {
+    "id": 63,
+    "name": "DearS",
+    "english": "DearS",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/23426.jpg",
+    "link": "https://myanimelist.net/anime/63/DearS"
+  },
+  {
+    "id": 65,
+    "name": "Rozen Maiden: Träumend",
+    "english": "Rozen Maiden: Träumend",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/10242.jpg",
+    "link": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend"
+  },
+  {
+    "id": 72,
+    "name": "Full Metal Panic? Fumoffu",
+    "english": "Full Metal Panic? Fumoffu",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75260.jpg",
+    "link": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+  },
+  {
+    "id": 74,
+    "name": "Gakuen Alice",
+    "english": "Gakuen Alice",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/18118.jpg",
+    "link": "https://myanimelist.net/anime/74/Gakuen_Alice"
+  },
+  {
+    "id": 75,
+    "name": "Soukyuu no Fafner: Dead Aggressor",
+    "english": "Fafner of the Blue Sky",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/50365.jpg",
+    "link": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor"
+  },
+  {
+    "id": 76,
+    "name": "Mahou Shoujo Lyrical Nanoha",
+    "english": "Magical Girl Lyrical Nanoha",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/6770.jpg",
+    "link": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha"
+  },
+  {
+    "id": 79,
+    "name": "Shuffle!",
+    "english": "Shuffle!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/19622.jpg",
+    "link": "https://myanimelist.net/anime/79/Shuffle"
+  },
+  {
+    "id": 80,
+    "name": "Mobile Suit Gundam",
+    "english": "Mobile Suit Gundam",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/88524.jpg",
+    "link": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam"
+  },
+  {
+    "id": 83,
+    "name": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/16057.jpg",
+    "link": "https://myanimelist.net/anime/83/Mobile_Suit_Gundam__The_08th_MS_Team_-_Millers_Report"
+  },
+  {
+    "id": 84,
+    "name": "Mobile Suit Gundam 0083: Stardust Memory",
+    "english": "Mobile Suit Gundam 0083: Stardust Memory",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/26654.jpg",
+    "link": "https://myanimelist.net/anime/84/Mobile_Suit_Gundam_0083__Stardust_Memory"
+  },
+  {
+    "id": 86,
+    "name": "Mobile Suit Gundam ZZ",
+    "english": "Mobile Suit Gundam ZZ",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1848/91078.jpg",
+    "link": "https://myanimelist.net/anime/86/Mobile_Suit_Gundam_ZZ"
+  },
+  {
+    "id": 88,
+    "name": "Mobile Suit Gundam F91",
+    "english": "Mobile Suit Gundam F91",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1637/95288.jpg",
+    "link": "https://myanimelist.net/anime/88/Mobile_Suit_Gundam_F91"
+  },
+  {
+    "id": 89,
+    "name": "Mobile Suit Victory Gundam",
+    "english": "Mobile Suit V Gundam",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/9993.jpg",
+    "link": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam"
+  },
+  {
+    "id": 91,
+    "name": "Mobile Suit Gundam Wing: Endless Waltz",
+    "english": "Mobile Suit Gundam Wing: Endless Waltz",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/91.jpg",
+    "link": "https://myanimelist.net/anime/91/Mobile_Suit_Gundam_Wing__Endless_Waltz"
+  },
+  {
+    "id": 96,
+    "name": "Mobile Fighter G Gundam",
+    "english": "Mobile Fighter G Gundam",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1596/92392.jpg",
+    "link": "https://myanimelist.net/anime/96/Mobile_Fighter_G_Gundam"
+  },
+  {
+    "id": 97,
+    "name": "Last Exile",
+    "english": "Last Exile",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/10888.jpg",
+    "link": "https://myanimelist.net/anime/97/Last_Exile"
+  },
+  {
+    "id": 104,
+    "name": "Ayashi no Ceres",
+    "english": "Ceres, Celestial Legend",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/23580.jpg",
+    "link": "https://myanimelist.net/anime/104/Ayashi_no_Ceres"
+  },
+  {
+    "id": 110,
+    "name": "Chuuka Ichiban!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75283.jpg",
+    "link": "https://myanimelist.net/anime/110/Chuuka_Ichiban"
+  },
+  {
+    "id": 111,
+    "name": "Corrector Yui",
+    "english": "Corrector Yui",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/20229.jpg",
+    "link": "https://myanimelist.net/anime/111/Corrector_Yui"
+  },
+  {
+    "id": 115,
+    "name": "El Hazard: The Alternative World",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/61047.jpg",
+    "link": "https://myanimelist.net/anime/115/El_Hazard__The_Alternative_World"
+  },
+  {
+    "id": 120,
+    "name": "Fruits Basket",
+    "english": "Fruits Basket",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75204.jpg",
+    "link": "https://myanimelist.net/anime/120/Fruits_Basket"
+  },
+  {
+    "id": 121,
+    "name": "Fullmetal Alchemist",
+    "english": "Fullmetal Alchemist",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/75815.jpg",
+    "link": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+  },
+  {
+    "id": 123,
+    "name": "Fushigi Yuugi",
+    "english": "Mysterious Play",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/20140.jpg",
+    "link": "https://myanimelist.net/anime/123/Fushigi_Yuugi"
+  },
+  {
+    "id": 127,
+    "name": "Gate Keepers",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/15226.jpg",
+    "link": "https://myanimelist.net/anime/127/Gate_Keepers"
+  },
+  {
+    "id": 128,
+    "name": "Gate Keepers 21",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75569.jpg",
+    "link": "https://myanimelist.net/anime/128/Gate_Keepers_21"
+  },
+  {
+    "id": 129,
+    "name": "Gensoumaden Saiyuuki",
+    "english": "Saiyuki",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/75282.jpg",
+    "link": "https://myanimelist.net/anime/129/Gensoumaden_Saiyuuki"
+  },
+  {
+    "id": 132,
+    "name": "GetBackers",
+    "english": "Getbackers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/7547.jpg",
+    "link": "https://myanimelist.net/anime/132/GetBackers"
+  },
+  {
+    "id": 137,
+    "name": "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/137.jpg",
+    "link": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Yorkshin_City_Kanketsu-hen"
+  },
+  {
+    "id": 142,
+    "name": "Kamikaze Kaitou Jeanne",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/20389.jpg",
+    "link": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne"
+  },
+  {
+    "id": 143,
+    "name": "Kannazuki no Miko",
+    "english": "Destiny of the Shrine Maiden",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/73955.jpg",
+    "link": "https://myanimelist.net/anime/143/Kannazuki_no_Miko"
+  },
+  {
+    "id": 144,
+    "name": "Kanon",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/144.jpg",
+    "link": "https://myanimelist.net/anime/144/Kanon"
+  },
+  {
+    "id": 150,
+    "name": "Blood+",
+    "english": "Blood+",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/10183.jpg",
+    "link": "https://myanimelist.net/anime/150/Blood_"
+  },
+  {
+    "id": 153,
+    "name": "Juuni Kokuki",
+    "english": "The Twelve Kingdoms",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/50859.jpg",
+    "link": "https://myanimelist.net/anime/153/Juuni_Kokuki"
+  },
+  {
+    "id": 155,
+    "name": "X/1999",
+    "english": "X - The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/23579.jpg",
+    "link": "https://myanimelist.net/anime/155/X_1999"
+  },
+  {
+    "id": 157,
+    "name": "Mahou Sensei Negima!",
+    "english": "Negima!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/89535.jpg",
+    "link": "https://myanimelist.net/anime/157/Mahou_Sensei_Negima"
+  },
+  {
+    "id": 158,
+    "name": "Maria-sama ga Miteru",
+    "english": "Maria Watches Over Us",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75207.jpg",
+    "link": "https://myanimelist.net/anime/158/Maria-sama_ga_Miteru"
+  },
+  {
+    "id": 161,
+    "name": "Peace Maker Kurogane",
+    "english": "Peace Maker Kurogane",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/77408.jpg",
+    "link": "https://myanimelist.net/anime/161/Peace_Maker_Kurogane"
+  },
+  {
+    "id": 165,
+    "name": "RahXephon",
+    "english": "RahXephon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/75168.jpg",
+    "link": "https://myanimelist.net/anime/165/RahXephon"
+  },
+  {
+    "id": 166,
+    "name": "Samurai 7",
+    "english": "Samurai 7",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/9399.jpg",
+    "link": "https://myanimelist.net/anime/166/Samurai_7"
+  },
+  {
+    "id": 167,
+    "name": "Scrapped Princess",
+    "english": "Scrapped Princess",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/73985.jpg",
+    "link": "https://myanimelist.net/anime/167/Scrapped_Princess"
+  },
+  {
+    "id": 170,
+    "name": "Slam Dunk",
+    "english": "Slam Dunk",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/86890.jpg",
+    "link": "https://myanimelist.net/anime/170/Slam_Dunk"
+  },
+  {
+    "id": 171,
+    "name": "Strange Dawn",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/74782.jpg",
+    "link": "https://myanimelist.net/anime/171/Strange_Dawn"
+  },
+  {
+    "id": 173,
+    "name": "Tactics",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/37549.jpg",
+    "link": "https://myanimelist.net/anime/173/Tactics"
+  },
+  {
+    "id": 174,
+    "name": "Tenjou Tenge",
+    "english": "Tenjho Tenge",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/8380.jpg",
+    "link": "https://myanimelist.net/anime/174/Tenjou_Tenge"
+  },
+  {
+    "id": 177,
+    "name": "Tsubasa Chronicle",
+    "english": "Tsubasa RESERVoir CHRoNiCLE",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/6555.jpg",
+    "link": "https://myanimelist.net/anime/177/Tsubasa_Chronicle"
+  },
+  {
+    "id": 178,
+    "name": "Ultra Maniac",
+    "english": "Ultramaniac - Magical Girl",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/53571.jpg",
+    "link": "https://myanimelist.net/anime/178/Ultra_Maniac"
+  },
+  {
+    "id": 179,
+    "name": "Ultra Maniac OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/3132.jpg",
+    "link": "https://myanimelist.net/anime/179/Ultra_Maniac_OVA"
+  },
+  {
+    "id": 181,
+    "name": "Vandread: The Second Stage",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75447.jpg",
+    "link": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage"
+  },
+  {
+    "id": 187,
+    "name": "Initial D Third Stage",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/40397.jpg",
+    "link": "https://myanimelist.net/anime/187/Initial_D_Third_Stage"
+  },
+  {
+    "id": 189,
+    "name": "Love Hina",
+    "english": "Love Hina",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/189.jpg",
+    "link": "https://myanimelist.net/anime/189/Love_Hina"
+  },
+  {
+    "id": 190,
+    "name": "Love Hina Again",
+    "english": "Love Hina Again",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/10289.jpg",
+    "link": "https://myanimelist.net/anime/190/Love_Hina_Again"
+  },
+  {
+    "id": 191,
+    "name": "Love Hina Christmas Special: Silent Eve",
+    "english": "Love Hina Christmas Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/82467.jpg",
+    "link": "https://myanimelist.net/anime/191/Love_Hina_Christmas_Special__Silent_Eve"
+  },
+  {
+    "id": 193,
+    "name": "Maburaho",
+    "english": "Maburaho",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/79204.jpg",
+    "link": "https://myanimelist.net/anime/193/Maburaho"
+  },
+  {
+    "id": 194,
+    "name": "Macross Zero",
+    "english": "Macross Zero",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/76289.jpg",
+    "link": "https://myanimelist.net/anime/194/Macross_Zero"
+  },
+  {
+    "id": 195,
+    "name": "Onegai☆Teacher",
+    "english": "Please Teacher!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/5241.jpg",
+    "link": "https://myanimelist.net/anime/195/Onegai☆Teacher"
+  },
+  {
+    "id": 196,
+    "name": "Onegai☆Twins",
+    "english": "Please Twins",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/7090.jpg",
+    "link": "https://myanimelist.net/anime/196/Onegai☆Twins"
+  },
+  {
+    "id": 198,
+    "name": "Speed Grapher",
+    "english": "Speed Grapher",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/26128.jpg",
+    "link": "https://myanimelist.net/anime/198/Speed_Grapher"
+  },
+  {
+    "id": 199,
+    "name": "Sen to Chihiro no Kamikakushi",
+    "english": "Spirited Away",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/79597.jpg",
+    "link": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi"
+  },
+  {
+    "id": 206,
+    "name": "Lodoss-tou Senki: Eiyuu Kishi Den",
+    "english": "Record of Lodoss War: Chronicles of the Heroic Knight",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1065/92495.jpg",
+    "link": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den"
+  },
+  {
+    "id": 207,
+    "name": "Lodoss-tou Senki",
+    "english": "Record of Lodoss War",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1644/92493.jpg",
+    "link": "https://myanimelist.net/anime/207/Lodoss-tou_Senki"
+  },
+  {
+    "id": 208,
+    "name": "R.O.D OVA",
+    "english": "R.O.D - Read or Die",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/208.jpg",
+    "link": "https://myanimelist.net/anime/208/ROD_OVA"
+  },
+  {
+    "id": 213,
+    "name": "Pia Carrot e Youkoso!!",
+    "english": "Welcome to Pia Carrot",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/50779.jpg",
+    "link": "https://myanimelist.net/anime/213/Pia_Carrot_e_Youkoso"
+  },
+  {
+    "id": 216,
+    "name": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+    "english": "Welcome to Pia Carrot! Sayaka's Love Story",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/33511.jpg",
+    "link": "https://myanimelist.net/anime/216/Pia_Carrot_e_Youkoso__Sayaka_no_Koi_Monogatari"
+  },
+  {
+    "id": 218,
+    "name": "Kidou Senkan Nadesico",
+    "english": "Martian Successor Nadesico",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/53955.jpg",
+    "link": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico"
+  },
+  {
+    "id": 219,
+    "name": "Kidou Senkan Nadesico: The Prince of Darkness",
+    "english": "Martian Successor Nadesico: The Prince of Darkness",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/51253.jpg",
+    "link": "https://myanimelist.net/anime/219/Kidou_Senkan_Nadesico__The_Prince_of_Darkness"
+  },
+  {
+    "id": 220,
+    "name": "Kuro no Danshou",
+    "english": "Mystery of the Necronomicon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/29841.jpg",
+    "link": "https://myanimelist.net/anime/220/Kuro_no_Danshou"
+  },
+  {
+    "id": 221,
+    "name": "Mezzo Forte",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/37391.jpg",
+    "link": "https://myanimelist.net/anime/221/Mezzo_Forte"
+  },
+  {
+    "id": 225,
+    "name": "Dragon Ball GT",
+    "english": "Dragon Ball GT",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/20727.jpg",
+    "link": "https://myanimelist.net/anime/225/Dragon_Ball_GT"
+  },
+  {
+    "id": 230,
+    "name": "Air Master",
+    "english": "Air Master",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/21019.jpg",
+    "link": "https://myanimelist.net/anime/230/Air_Master"
+  },
+  {
+    "id": 232,
+    "name": "Cardcaptor Sakura",
+    "english": "Cardcaptor Sakura",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/60781.jpg",
+    "link": "https://myanimelist.net/anime/232/Cardcaptor_Sakura"
+  },
+  {
+    "id": 235,
+    "name": "Detective Conan",
+    "english": "Case Closed",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75199.jpg",
+    "link": "https://myanimelist.net/anime/235/Detective_Conan"
+  },
+  {
+    "id": 236,
+    "name": "E's Otherwise",
+    "english": "E's Otherwise",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/6260.jpg",
+    "link": "https://myanimelist.net/anime/236/Es_Otherwise"
+  },
+  {
+    "id": 237,
+    "name": "Eureka Seven",
+    "english": "Eureka Seven",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/34443.jpg",
+    "link": "https://myanimelist.net/anime/237/Eureka_Seven"
+  },
+  {
+    "id": 239,
+    "name": "Gankutsuou",
+    "english": "Gankutsuou: The Count of Monte Cristo",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/2235.jpg",
+    "link": "https://myanimelist.net/anime/239/Gankutsuou"
+  },
+  {
+    "id": 244,
+    "name": "Agatha Christie no Meitantei Poirot to Marple",
+    "english": "Agatha Christie's Great Detectives Poirot and Marple",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/3149.jpg",
+    "link": "https://myanimelist.net/anime/244/Agatha_Christie_no_Meitantei_Poirot_to_Marple"
+  },
+  {
+    "id": 246,
+    "name": "Groove Adventure Rave",
+    "english": "Rave Master",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/20134.jpg",
+    "link": "https://myanimelist.net/anime/246/Groove_Adventure_Rave"
+  },
+  {
+    "id": 249,
+    "name": "InuYasha",
+    "english": "InuYasha",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/20483.jpg",
+    "link": "https://myanimelist.net/anime/249/InuYasha"
+  },
+  {
+    "id": 251,
+    "name": "Kyou kara Maou!",
+    "english": "King From Now On!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/75544.jpg",
+    "link": "https://myanimelist.net/anime/251/Kyou_kara_Maou"
+  },
+  {
+    "id": 252,
+    "name": "Madlax",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/57237.jpg",
+    "link": "https://myanimelist.net/anime/252/Madlax"
+  },
+  {
+    "id": 255,
+    "name": "Jungle wa Itsumo Hare nochi Guu Final",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/14520.jpg",
+    "link": "https://myanimelist.net/anime/255/Jungle_wa_Itsumo_Hare_nochi_Guu_Final"
+  },
+  {
+    "id": 256,
+    "name": "Hoshi no Koe",
+    "english": "Voices of a Distant Star",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2389.jpg",
+    "link": "https://myanimelist.net/anime/256/Hoshi_no_Koe"
+  },
+  {
+    "id": 258,
+    "name": "Hitsuji no Uta",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/18066.jpg",
+    "link": "https://myanimelist.net/anime/258/Hitsuji_no_Uta"
+  },
+  {
+    "id": 259,
+    "name": "Happy☆Lesson",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/15349.jpg",
+    "link": "https://myanimelist.net/anime/259/Happy☆Lesson"
+  },
+  {
+    "id": 261,
+    "name": "Happy☆Lesson: Advance",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75575.jpg",
+    "link": "https://myanimelist.net/anime/261/Happy☆Lesson__Advance"
+  },
+  {
+    "id": 265,
+    "name": "Hajime no Ippo: Mashiba vs. Kimura",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/64737.jpg",
+    "link": "https://myanimelist.net/anime/265/Hajime_no_Ippo__Mashiba_vs_Kimura"
+  },
+  {
+    "id": 272,
+    "name": "Noir",
+    "english": "Noir",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/46139.jpg",
+    "link": "https://myanimelist.net/anime/272/Noir"
+  },
+  {
+    "id": 273,
+    "name": "Mahoutsukai ni Taisetsu na Koto",
+    "english": "Someday's Dreamers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/2597.jpg",
+    "link": "https://myanimelist.net/anime/273/Mahoutsukai_ni_Taisetsu_na_Koto"
+  },
+  {
+    "id": 278,
+    "name": "Viewtiful Joe",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/278.jpg",
+    "link": "https://myanimelist.net/anime/278/Viewtiful_Joe"
+  },
+  {
+    "id": 279,
+    "name": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+    "english": "Requiem from the Darkness",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/30681.jpg",
+    "link": "https://myanimelist.net/anime/279/Kyougoku_Natsuhiko__Kousetsu_Hyaku_Monogatari"
+  },
+  {
+    "id": 281,
+    "name": "Akane Maniax",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/5237.jpg",
+    "link": "https://myanimelist.net/anime/281/Akane_Maniax"
+  },
+  {
+    "id": 285,
+    "name": "Argento Soma",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/9440.jpg",
+    "link": "https://myanimelist.net/anime/285/Argento_Soma"
+  },
+  {
+    "id": 287,
+    "name": "Grappler Baki (TV)",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/7604.jpg",
+    "link": "https://myanimelist.net/anime/287/Grappler_Baki_TV"
+  },
+  {
+    "id": 288,
+    "name": "Bakuten Shoot Beyblade",
+    "english": "Beyblade",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/21118.jpg",
+    "link": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade"
+  },
+  {
+    "id": 289,
+    "name": "Comic Party",
+    "english": "Comic Party",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/75455.jpg",
+    "link": "https://myanimelist.net/anime/289/Comic_Party"
+  },
+  {
+    "id": 290,
+    "name": "Seikai no Monshou",
+    "english": "Crest of the Stars",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/5524.jpg",
+    "link": "https://myanimelist.net/anime/290/Seikai_no_Monshou"
+  },
+  {
+    "id": 291,
+    "name": "D.C.S.S: Da Capo Second Season",
+    "english": "D.C.S.S. ~Da Capo Second Season~",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/73937.jpg",
+    "link": "https://myanimelist.net/anime/291/DCSS__Da_Capo_Second_Season"
+  },
+  {
+    "id": 294,
+    "name": "Divergence Eve",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/3570.jpg",
+    "link": "https://myanimelist.net/anime/294/Divergence_Eve"
+  },
+  {
+    "id": 299,
+    "name": ".hack//Liminality",
+    "english": ".hack//Liminality",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/23079.jpg",
+    "link": "https://myanimelist.net/anime/299/hack__Liminality"
+  },
+  {
+    "id": 301,
+    "name": "Cinderella Boy",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/89194.jpg",
+    "link": "https://myanimelist.net/anime/301/Cinderella_Boy"
+  },
+  {
+    "id": 303,
+    "name": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+    "english": "Oh! My Goddess: The Adventures of Mini-Goddess",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/303.jpg",
+    "link": "https://myanimelist.net/anime/303/Aa_Megami-sama__Chichaitte_Koto_wa_Benri_da_ne"
+  },
+  {
+    "id": 306,
+    "name": "Abenobashi Mahou☆Shoutengai",
+    "english": "Magical☆Shopping Arcade Abenobashi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1145/92325.jpg",
+    "link": "https://myanimelist.net/anime/306/Abenobashi_Mahou☆Shoutengai"
+  },
+  {
+    "id": 308,
+    "name": "Zettai Shounen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/4905.jpg",
+    "link": "https://myanimelist.net/anime/308/Zettai_Shounen"
+  },
+  {
+    "id": 309,
+    "name": "Akahori Gedou Hour Rabuge",
+    "english": "Akahori's Heretical Hour Love Game",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75541.jpg",
+    "link": "https://myanimelist.net/anime/309/Akahori_Gedou_Hour_Rabuge"
+  },
+  {
+    "id": 311,
+    "name": "Ace wo Nerae!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/3144.jpg",
+    "link": "https://myanimelist.net/anime/311/Ace_wo_Nerae"
+  },
+  {
+    "id": 313,
+    "name": "Ace wo Nerae! (1979)",
+    "english": "Aim for the Ace! (1979)",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/32785.jpg",
+    "link": "https://myanimelist.net/anime/313/Ace_wo_Nerae_1979"
+  },
+  {
+    "id": 314,
+    "name": "Ace wo Nerae! 2",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/71785.jpg",
+    "link": "https://myanimelist.net/anime/314/Ace_wo_Nerae_2"
+  },
+  {
+    "id": 315,
+    "name": "Xiao Qian",
+    "english": "A Chinese Ghost Story",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/28202.jpg",
+    "link": "https://myanimelist.net/anime/315/Xiao_Qian"
+  },
+  {
+    "id": 316,
+    "name": "Nageki no Kenkou Yuuryouji",
+    "english": "F3: Frantic, Frustrated & Female",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/41561.jpg",
+    "link": "https://myanimelist.net/anime/316/Nageki_no_Kenkou_Yuuryouji"
+  },
+  {
+    "id": 321,
+    "name": "Najica Dengeki Sakusen",
+    "english": "Najica Blitz Tactics",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/22210.jpg",
+    "link": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen"
+  },
+  {
+    "id": 324,
+    "name": "Kidou Keisatsu Patlabor: On Television",
+    "english": "Patlabor: The Mobile Police - The TV Series",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/59293.jpg",
+    "link": "https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television"
+  },
+  {
+    "id": 331,
+    "name": "Mahoujin Guruguru",
+    "english": "Magical Circle Guru Guru",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/75814.jpg",
+    "link": "https://myanimelist.net/anime/331/Mahoujin_Guruguru"
+  },
+  {
+    "id": 333,
+    "name": "Mama wa Shougaku 4 Nensei",
+    "english": "Mama is Just a Fourth Grade Pupil",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/87408.jpg",
+    "link": "https://myanimelist.net/anime/333/Mama_wa_Shougaku_4_Nensei"
+  },
+  {
+    "id": 335,
+    "name": "Matantei Loki Ragnarok",
+    "english": "Mythical Detective Loki Ragnarok",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/75300.jpg",
+    "link": "https://myanimelist.net/anime/335/Matantei_Loki_Ragnarok"
+  },
+  {
+    "id": 336,
+    "name": "Ginyuu Mokushiroku Meine Liebe",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/75547.jpg",
+    "link": "https://myanimelist.net/anime/336/Ginyuu_Mokushiroku_Meine_Liebe"
+  },
+  {
+    "id": 340,
+    "name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+    "english": "Time of Shura",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/56847.jpg",
+    "link": "https://myanimelist.net/anime/340/Mutsu_Enmei_Ryuu_Gaiden__Shura_no_Toki"
+  },
+  {
+    "id": 342,
+    "name": "Starship Operators",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/21303.jpg",
+    "link": "https://myanimelist.net/anime/342/Starship_Operators"
+  },
+  {
+    "id": 345,
+    "name": "Eikoku Koi Monogatari Emma",
+    "english": "Emma: A Victorian Romance",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/80117.jpg",
+    "link": "https://myanimelist.net/anime/345/Eikoku_Koi_Monogatari_Emma"
+  },
+  {
+    "id": 346,
+    "name": "W: Wish",
+    "english": "Double Wish",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/346.jpg",
+    "link": "https://myanimelist.net/anime/346/W__Wish"
+  },
+  {
+    "id": 350,
+    "name": "Ojamajo Doremi",
+    "english": "Magical DoReMi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/32609.jpg",
+    "link": "https://myanimelist.net/anime/350/Ojamajo_Doremi"
+  },
+  {
+    "id": 351,
+    "name": "Ojamajo Doremi Sharp",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/27123.jpg",
+    "link": "https://myanimelist.net/anime/351/Ojamajo_Doremi_Sharp"
+  },
+  {
+    "id": 352,
+    "name": "Motto! Ojamajo Doremi",
+    "english": "More! Useless Witch Doremi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/36629.jpg",
+    "link": "https://myanimelist.net/anime/352/Motto_Ojamajo_Doremi"
+  },
+  {
+    "id": 354,
+    "name": "UG☆Ultimate Girls",
+    "english": "Ultimate Girls",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2455.jpg",
+    "link": "https://myanimelist.net/anime/354/UG☆Ultimate_Girls"
+  },
+  {
+    "id": 355,
+    "name": "Shakugan no Shana",
+    "english": "Shakugan no Shana: Season I",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/21197.jpg",
+    "link": "https://myanimelist.net/anime/355/Shakugan_no_Shana"
+  },
+  {
+    "id": 359,
+    "name": "I'll/CKBC",
+    "english": "I'll/CKBC",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/359.jpg",
+    "link": "https://myanimelist.net/anime/359/Ill_CKBC"
+  },
+  {
+    "id": 363,
+    "name": "Memories Off 3.5",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/3289.jpg",
+    "link": "https://myanimelist.net/anime/363/Memories_Off_35"
+  },
+  {
+    "id": 366,
+    "name": "AIKa",
+    "english": "Agent AIKa",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/61673.jpg",
+    "link": "https://myanimelist.net/anime/366/AIKa"
+  },
+  {
+    "id": 367,
+    "name": "Akazukin Chacha OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/23206.jpg",
+    "link": "https://myanimelist.net/anime/367/Akazukin_Chacha_OVA"
+  },
+  {
+    "id": 368,
+    "name": "Bible Black",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/12768.jpg",
+    "link": "https://myanimelist.net/anime/368/Bible_Black"
+  },
+  {
+    "id": 370,
+    "name": "Burn Up Excess",
+    "english": "Burn Up Excess",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75501.jpg",
+    "link": "https://myanimelist.net/anime/370/Burn_Up_Excess"
+  },
+  {
+    "id": 376,
+    "name": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+    "english": "Elfen Lied: In the Passing Rain",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/80498.jpg",
+    "link": "https://myanimelist.net/anime/376/Elfen_Lied__Tooriame_nite_Arui_wa_Shoujo_wa_Ikani_Shite_Sono_Shinjou_ni_Itatta_ka_-_Regenschauer"
+  },
+  {
+    "id": 382,
+    "name": "Futari Ecchi",
+    "english": "Step Up Love Story",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/20029.jpg",
+    "link": "https://myanimelist.net/anime/382/Futari_Ecchi"
+  },
+  {
+    "id": 385,
+    "name": "Gilgamesh",
+    "english": "Gilgamesh",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/6640.jpg",
+    "link": "https://myanimelist.net/anime/385/Gilgamesh"
+  },
+  {
+    "id": 386,
+    "name": "H2",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/386.jpg",
+    "link": "https://myanimelist.net/anime/386/H2"
+  },
+  {
+    "id": 387,
+    "name": "Haibane Renmei",
+    "english": "Haibane Renmei",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/13134.jpg",
+    "link": "https://myanimelist.net/anime/387/Haibane_Renmei"
+  },
+  {
+    "id": 391,
+    "name": "Tales of Phantasia The Animation",
+    "english": "Tales of Phantasia",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/78319.jpg",
+    "link": "https://myanimelist.net/anime/391/Tales_of_Phantasia_The_Animation"
+  },
+  {
+    "id": 393,
+    "name": "Escaflowne",
+    "english": "Escaflowne: A Girl in Gaea",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/50419.jpg",
+    "link": "https://myanimelist.net/anime/393/Escaflowne"
+  },
+  {
+    "id": 394,
+    "name": "Ai Yori Aoshi: Enishi",
+    "english": "Ai Yori Aoshi: Enishi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/71425.jpg",
+    "link": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi"
+  },
+  {
+    "id": 401,
+    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "english": "Samurai X: Reflection",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1971/90877.jpg",
+    "link": "https://myanimelist.net/anime/401/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Seisou-hen"
+  },
+  {
+    "id": 402,
+    "name": "Otogi Juushi Akazukin OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/3243.jpg",
+    "link": "https://myanimelist.net/anime/402/Otogi_Juushi_Akazukin_OVA"
+  },
+  {
+    "id": 403,
+    "name": "Hanaukyou Maid-tai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/3066.jpg",
+    "link": "https://myanimelist.net/anime/403/Hanaukyou_Maid-tai"
+  },
+  {
+    "id": 404,
+    "name": "Bastard!!: Ankoku no Hakaishin",
+    "english": "Bastard!!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/9601.jpg",
+    "link": "https://myanimelist.net/anime/404/Bastard__Ankoku_no_Hakaishin"
+  },
+  {
+    "id": 405,
+    "name": "Blood: The Last Vampire",
+    "english": "Blood: The Last Vampire",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/18913.jpg",
+    "link": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire"
+  },
+  {
+    "id": 407,
+    "name": "Tantei Gakuen Q",
+    "english": "Detective School Q",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/407.jpg",
+    "link": "https://myanimelist.net/anime/407/Tantei_Gakuen_Q"
+  },
+  {
+    "id": 412,
+    "name": "Kore ga Watashi no Goshujinsama",
+    "english": "He is My Master",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/80500.jpg",
+    "link": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama"
+  },
+  {
+    "id": 413,
+    "name": "Hametsu no Mars",
+    "english": "Mars of Destruction",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/68855.jpg",
+    "link": "https://myanimelist.net/anime/413/Hametsu_no_Mars"
+  },
+  {
+    "id": 415,
+    "name": "Tonari no Yamada-kun",
+    "english": "My Neighbors the Yamadas",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75926.jpg",
+    "link": "https://myanimelist.net/anime/415/Tonari_no_Yamada-kun"
+  },
+  {
+    "id": 423,
+    "name": "Stratos 4 Advance",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/67335.jpg",
+    "link": "https://myanimelist.net/anime/423/Stratos_4_Advance"
+  },
+  {
+    "id": 427,
+    "name": "Kaleido Star",
+    "english": "Kaleido Star",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/75487.jpg",
+    "link": "https://myanimelist.net/anime/427/Kaleido_Star"
+  },
+  {
+    "id": 428,
+    "name": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
+    "english": "Kaleido Star: New Wings Extra Stage",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/23761.jpg",
+    "link": "https://myanimelist.net/anime/428/Kaleido_Star__Aratanaru_Tsubasa_-_Extra_Stage"
+  },
+  {
+    "id": 430,
+    "name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+    "english": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/20113.jpg",
+    "link": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa"
+  },
+  {
+    "id": 432,
+    "name": "Iria: Zeiram The Animation",
+    "english": "Iria: Zeiram The Animation",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/22105.jpg",
+    "link": "https://myanimelist.net/anime/432/Iria__Zeiram_The_Animation"
+  },
+  {
+    "id": 435,
+    "name": "Magic Knight Rayearth",
+    "english": "Magic Knight Rayearth",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1957/92265.jpg",
+    "link": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth"
+  },
+  {
+    "id": 440,
+    "name": "Shoujo Kakumei Utena",
+    "english": "Revolutionary Girl Utena",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1078/95285.jpg",
+    "link": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena"
+  },
+  {
+    "id": 442,
+    "name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+    "english": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/76015.jpg",
+    "link": "https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo"
+  },
+  {
+    "id": 443,
+    "name": "Onegai☆Teacher: Himitsu na Futari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/33671.jpg",
+    "link": "https://myanimelist.net/anime/443/Onegai☆Teacher__Himitsu_na_Futari"
+  },
+  {
+    "id": 444,
+    "name": "Maria-sama ga Miteru: Haru",
+    "english": "Maria Watches Over Us: Printemps",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/75208.jpg",
+    "link": "https://myanimelist.net/anime/444/Maria-sama_ga_Miteru__Haru"
+  },
+  {
+    "id": 447,
+    "name": "Weiß Kreuz",
+    "english": "Knight Hunters",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/23697.jpg",
+    "link": "https://myanimelist.net/anime/447/Weiß_Kreuz"
+  },
+  {
+    "id": 449,
+    "name": "InuYasha: Guren no Houraijima",
+    "english": "InuYasha the Movie 4: Fire on the Mystic Island",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/20109.jpg",
+    "link": "https://myanimelist.net/anime/449/InuYasha__Guren_no_Houraijima"
+  },
+  {
+    "id": 450,
+    "name": "InuYasha: Kagami no Naka no Mugenjo",
+    "english": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1162/92219.jpg",
+    "link": "https://myanimelist.net/anime/450/InuYasha__Kagami_no_Naka_no_Mugenjo"
+  },
+  {
+    "id": 452,
+    "name": "InuYasha: Toki wo Koeru Omoi",
+    "english": "InuYasha the Movie: Affections Touching Across Time",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/20111.jpg",
+    "link": "https://myanimelist.net/anime/452/InuYasha__Toki_wo_Koeru_Omoi"
+  },
+  {
+    "id": 454,
+    "name": ".hack//Gift",
+    "english": ".hack//Gift",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/23085.jpg",
+    "link": "https://myanimelist.net/anime/454/hack__Gift"
+  },
+  {
+    "id": 458,
+    "name": "Buttobi!! CPU",
+    "english": "I Dream of Mimi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/53479.jpg",
+    "link": "https://myanimelist.net/anime/458/Buttobi_CPU"
+  },
+  {
+    "id": 460,
+    "name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+    "english": "One Piece: Clockwork Island Adventure",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/3299.jpg",
+    "link": "https://myanimelist.net/anime/460/One_Piece_Movie_2__Nejimaki-jima_no_Daibouken"
+  },
+  {
+    "id": 461,
+    "name": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+    "english": "One Piece: Chopper Kingdom of Strange Animal Island",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/6937.jpg",
+    "link": "https://myanimelist.net/anime/461/One_Piece_Movie_3__Chinjuu-jima_no_Chopper_Oukoku"
+  },
+  {
+    "id": 463,
+    "name": "One Piece Movie 5: Norowareta Seiken",
+    "english": "One Piece: The Curse of the Sacred Sword",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/25413.jpg",
+    "link": "https://myanimelist.net/anime/463/One_Piece_Movie_5__Norowareta_Seiken"
+  },
+  {
+    "id": 465,
+    "name": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/20927.jpg",
+    "link": "https://myanimelist.net/anime/465/One_Piece_Movie_7__Karakuri-jou_no_Mecha_Kyohei"
+  },
+  {
+    "id": 467,
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "english": "Ghost in the Shell: Stand Alone Complex",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/50857.jpg",
+    "link": "https://myanimelist.net/anime/467/Ghost_in_the_Shell__Stand_Alone_Complex"
+  },
+  {
+    "id": 470,
+    "name": "Okusama wa Joshikousei (TV)",
+    "english": "My Wife is a High School Girl",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/18925.jpg",
+    "link": "https://myanimelist.net/anime/470/Okusama_wa_Joshikousei_TV"
+  },
+  {
+    "id": 471,
+    "name": "To Heart 2",
+    "english": "To Heart 2",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/57423.jpg",
+    "link": "https://myanimelist.net/anime/471/To_Heart_2"
+  },
+  {
+    "id": 481,
+    "name": "Yu☆Gi☆Oh! Duel Monsters",
+    "english": "Yu-Gi-Oh!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/77055.jpg",
+    "link": "https://myanimelist.net/anime/481/Yu☆Gi☆Oh_Duel_Monsters"
+  },
+  {
+    "id": 482,
+    "name": "Yu☆Gi☆Oh!: Duel Monsters GX",
+    "english": "Yu-Gi-Oh! GX",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/20873.jpg",
+    "link": "https://myanimelist.net/anime/482/Yu☆Gi☆Oh__Duel_Monsters_GX"
+  },
+  {
+    "id": 487,
+    "name": "Girls Bravo: Second Season",
+    "english": "Girls Bravo: Second Season",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/20149.jpg",
+    "link": "https://myanimelist.net/anime/487/Girls_Bravo__Second_Season"
+  },
+  {
+    "id": 489,
+    "name": "Kamichu!",
+    "english": "Kamichu!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/24641.jpg",
+    "link": "https://myanimelist.net/anime/489/Kamichu"
+  },
+  {
+    "id": 493,
+    "name": "Armitage III: Poly-Matrix",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/2859.jpg",
+    "link": "https://myanimelist.net/anime/493/Armitage_III__Poly-Matrix"
+  },
+  {
+    "id": 495,
+    "name": "Bakuretsu Hunters",
+    "english": "Sorcerer Hunters",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/74075.jpg",
+    "link": "https://myanimelist.net/anime/495/Bakuretsu_Hunters"
+  },
+  {
+    "id": 497,
+    "name": "Yami to Boushi to Hon no Tabibito",
+    "english": "Yamibo: Darkness, The Hat and the Travelers of the Books",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/23094.jpg",
+    "link": "https://myanimelist.net/anime/497/Yami_to_Boushi_to_Hon_no_Tabibito"
+  },
+  {
+    "id": 501,
+    "name": "Doraemon",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/33865.jpg",
+    "link": "https://myanimelist.net/anime/501/Doraemon"
+  },
+  {
+    "id": 503,
+    "name": "Eien no Aselia",
+    "english": "The Eternal Aseria",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2356.jpg",
+    "link": "https://myanimelist.net/anime/503/Eien_no_Aselia"
+  },
+  {
+    "id": 504,
+    "name": "Fatal Fury: The Motion Picture",
+    "english": "Fatal Fury: The Motion Picture",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1460/92435.jpg",
+    "link": "https://myanimelist.net/anime/504/Fatal_Fury__The_Motion_Picture"
+  },
+  {
+    "id": 505,
+    "name": "Fushigiboshi no☆Futagohime",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/49793.jpg",
+    "link": "https://myanimelist.net/anime/505/Fushigiboshi_no☆Futagohime"
+  },
+  {
+    "id": 507,
+    "name": "Gravitation: Lyrics of Love",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/12667.jpg",
+    "link": "https://myanimelist.net/anime/507/Gravitation__Lyrics_of_Love"
+  },
+  {
+    "id": 509,
+    "name": "I My Me! Strawberry Eggs",
+    "english": "I My Me! Strawberry Eggs",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1414/93964.jpg",
+    "link": "https://myanimelist.net/anime/509/I_My_Me_Strawberry_Eggs"
+  },
+  {
+    "id": 511,
+    "name": "Kidou Shinsengumi Moeyo Ken TV",
+    "english": "Moeyo Ken TV",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/3461.jpg",
+    "link": "https://myanimelist.net/anime/511/Kidou_Shinsengumi_Moeyo_Ken_TV"
+  },
+  {
+    "id": 518,
+    "name": "Mahou no Princess Minky Momo",
+    "english": "Magical Princess Minky Momo",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/56747.jpg",
+    "link": "https://myanimelist.net/anime/518/Mahou_no_Princess_Minky_Momo"
+  },
+  {
+    "id": 522,
+    "name": "Metropolis",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75601.jpg",
+    "link": "https://myanimelist.net/anime/522/Metropolis"
+  },
+  {
+    "id": 523,
+    "name": "Tonari no Totoro",
+    "english": "My Neighbor Totoro",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75923.jpg",
+    "link": "https://myanimelist.net/anime/523/Tonari_no_Totoro"
+  },
+  {
+    "id": 524,
+    "name": "Onegai☆Twins: Natsu wa Owaranai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/67017.jpg",
+    "link": "https://myanimelist.net/anime/524/Onegai☆Twins__Natsu_wa_Owaranai"
+  },
+  {
+    "id": 525,
+    "name": "Otogizoushi",
+    "english": "Otogi Zoshi: The Legend of Magatama",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/16736.jpg",
+    "link": "https://myanimelist.net/anime/525/Otogizoushi"
+  },
+  {
+    "id": 526,
+    "name": "Boku no Chikyuu wo Mamotte",
+    "english": "Please Save My Earth",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/25035.jpg",
+    "link": "https://myanimelist.net/anime/526/Boku_no_Chikyuu_wo_Mamotte"
+  },
+  {
+    "id": 528,
+    "name": "Pokemon: Mewtwo no Gyakushuu",
+    "english": "Pokemon: The First Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/65699.jpg",
+    "link": "https://myanimelist.net/anime/528/Pokemon__Mewtwo_no_Gyakushuu"
+  },
+  {
+    "id": 529,
+    "name": "Saishuu Heiki Kanojo",
+    "english": "She, The Ultimate Weapon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/529.jpg",
+    "link": "https://myanimelist.net/anime/529/Saishuu_Heiki_Kanojo"
+  },
+  {
+    "id": 533,
+    "name": "Sensei no Ojikan: Doki Doki School Hours",
+    "english": "Teacher's Time",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/65565.jpg",
+    "link": "https://myanimelist.net/anime/533/Sensei_no_Ojikan__Doki_Doki_School_Hours"
+  },
+  {
+    "id": 534,
+    "name": "Slayers",
+    "english": "Slayers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/19870.jpg",
+    "link": "https://myanimelist.net/anime/534/Slayers"
+  },
+  {
+    "id": 535,
+    "name": "Slayers Next",
+    "english": "Slayers Next",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1165/92536.jpg",
+    "link": "https://myanimelist.net/anime/535/Slayers_Next"
+  },
+  {
+    "id": 536,
+    "name": "Slayers: The Motion Picture",
+    "english": "Slayers: The Motion Picture",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/2644.jpg",
+    "link": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture"
+  },
+  {
+    "id": 538,
+    "name": "Shin Tenchi Muyou!",
+    "english": "Tenchi in Tokyo",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/61149.jpg",
+    "link": "https://myanimelist.net/anime/538/Shin_Tenchi_Muyou"
+  },
+  {
+    "id": 540,
+    "name": "Tenchi Muyou! Ryououki 2nd Season",
+    "english": "Tenchi Muyo! Ryo-Ohki",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2437.jpg",
+    "link": "https://myanimelist.net/anime/540/Tenchi_Muyou_Ryououki_2nd_Season"
+  },
+  {
+    "id": 544,
+    "name": "Venus Senki",
+    "english": "Venus Wars",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/50815.jpg",
+    "link": "https://myanimelist.net/anime/544/Venus_Senki"
+  },
+  {
+    "id": 545,
+    "name": "Mousou Kagaku Series: Wandaba Style",
+    "english": "Mousou Kagaku Series: Wandaba Style",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/14824.jpg",
+    "link": "https://myanimelist.net/anime/545/Mousou_Kagaku_Series__Wandaba_Style"
+  },
+  {
+    "id": 551,
+    "name": "Grappler Baki: Saidai Tournament-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/551.jpg",
+    "link": "https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen"
+  },
+  {
+    "id": 554,
+    "name": "Koutetsu Tenshi Kurumi",
+    "english": "Steel Angel Kurumi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2244.jpg",
+    "link": "https://myanimelist.net/anime/554/Koutetsu_Tenshi_Kurumi"
+  },
+  {
+    "id": 556,
+    "name": "Koutetsu Tenshi Kurumi Zero",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/13729.jpg",
+    "link": "https://myanimelist.net/anime/556/Koutetsu_Tenshi_Kurumi_Zero"
+  },
+  {
+    "id": 558,
+    "name": "Major S2",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/73972.jpg",
+    "link": "https://myanimelist.net/anime/558/Major_S2"
+  },
+  {
+    "id": 559,
+    "name": "RahXephon Kansoukyoku: Kanojo to Kanojo Jishin to - Thatness and Thereness",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75739.jpg",
+    "link": "https://myanimelist.net/anime/559/RahXephon_Kansoukyoku__Kanojo_to_Kanojo_Jishin_to_-_Thatness_and_Thereness"
+  },
+  {
+    "id": 561,
+    "name": "Sakura Taisen",
+    "english": "Sakura Wars",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/20378.jpg",
+    "link": "https://myanimelist.net/anime/561/Sakura_Taisen"
+  },
+  {
+    "id": 562,
+    "name": "Sakura Taisen: Le Nouveau Paris",
+    "english": "Sakura Wars: The New Paris",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/30803.jpg",
+    "link": "https://myanimelist.net/anime/562/Sakura_Taisen__Le_Nouveau_Paris"
+  },
+  {
+    "id": 564,
+    "name": "Puni Puni☆Poemii",
+    "english": "Puni Puni Poemy",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/20464.jpg",
+    "link": "https://myanimelist.net/anime/564/Puni_Puni☆Poemii"
+  },
+  {
+    "id": 569,
+    "name": "Musekinin Kanchou Tylor",
+    "english": "The Irresponsible Captain Tylor",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/14898.jpg",
+    "link": "https://myanimelist.net/anime/569/Musekinin_Kanchou_Tylor"
+  },
+  {
+    "id": 576,
+    "name": "Magikano",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/75539.jpg",
+    "link": "https://myanimelist.net/anime/576/Magikano"
+  },
+  {
+    "id": 577,
+    "name": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+    "english": "Eternal Alice",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/28822.jpg",
+    "link": "https://myanimelist.net/anime/577/Kagi_Hime_Monogatari__Eikyuu_Alice_Rondo"
+  },
+  {
+    "id": 578,
+    "name": "Hotaru no Haka",
+    "english": "Grave of the Fireflies",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75808.jpg",
+    "link": "https://myanimelist.net/anime/578/Hotaru_no_Haka"
+  },
+  {
+    "id": 582,
+    "name": "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/39595.jpg",
+    "link": "https://myanimelist.net/anime/582/Sexy_Commando_Gaiden__Sugoiyo_Masaru-san"
+  },
+  {
+    "id": 589,
+    "name": "Ginga Nagareboshi Gin",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/47461.jpg",
+    "link": "https://myanimelist.net/anime/589/Ginga_Nagareboshi_Gin"
+  },
+  {
+    "id": 590,
+    "name": "Kage kara Mamoru!",
+    "english": "Guardian Ninja Mamoru",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/20040.jpg",
+    "link": "https://myanimelist.net/anime/590/Kage_kara_Mamoru"
+  },
+  {
+    "id": 593,
+    "name": "Mugen no Ryvius",
+    "english": "Infinite Ryvius",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/16734.jpg",
+    "link": "https://myanimelist.net/anime/593/Mugen_no_Ryvius"
+  },
+  {
+    "id": 594,
+    "name": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "english": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/20921.jpg",
+    "link": "https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo"
+  },
+  {
+    "id": 596,
+    "name": "Chobits: Chibits",
+    "english": "Chobits: Chibits - Sumomo and Kotoko Deliver",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/34375.jpg",
+    "link": "https://myanimelist.net/anime/596/Chobits__Chibits"
+  },
+  {
+    "id": 597,
+    "name": "Neko no Ongaeshi",
+    "english": "The Cat Returns",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/597.jpg",
+    "link": "https://myanimelist.net/anime/597/Neko_no_Ongaeshi"
+  },
+  {
+    "id": 598,
+    "name": "Jinzou Ningen Kikaider The Animation",
+    "english": "Android Kikaider",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/75542.jpg",
+    "link": "https://myanimelist.net/anime/598/Jinzou_Ningen_Kikaider_The_Animation"
+  },
+  {
+    "id": 603,
+    "name": "Futari wa Precure",
+    "english": "Pretty Cure",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/7533.jpg",
+    "link": "https://myanimelist.net/anime/603/Futari_wa_Precure"
+  },
+  {
+    "id": 605,
+    "name": "Tenshi ni Narumon!",
+    "english": "I'm Gonna Be an Angel!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1079/92436.jpg",
+    "link": "https://myanimelist.net/anime/605/Tenshi_ni_Narumon"
+  },
+  {
+    "id": 606,
+    "name": "Kazemakase Tsukikage Ran",
+    "english": "Carried by the Wind: Tsukikage Ran",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/16745.jpg",
+    "link": "https://myanimelist.net/anime/606/Kazemakase_Tsukikage_Ran"
+  },
+  {
+    "id": 608,
+    "name": "Sakura Taisen: Katsudou Shashin",
+    "english": "Sakura Wars: The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/20234.jpg",
+    "link": "https://myanimelist.net/anime/608/Sakura_Taisen__Katsudou_Shashin"
+  },
+  {
+    "id": 617,
+    "name": "Juubee Ninpuuchou",
+    "english": "Ninja Scroll",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/66727.jpg",
+    "link": "https://myanimelist.net/anime/617/Juubee_Ninpuuchou"
+  },
+  {
+    "id": 618,
+    "name": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+    "english": "Ninja Scroll: The Series",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/2642.jpg",
+    "link": "https://myanimelist.net/anime/618/Juubee_Ninpuuchou__Ryuuhougyoku-hen"
+  },
+  {
+    "id": 627,
+    "name": "Major S1",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/73973.jpg",
+    "link": "https://myanimelist.net/anime/627/Major_S1"
+  },
+  {
+    "id": 632,
+    "name": "Mahoromatic End Year Special",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/13439.jpg",
+    "link": "https://myanimelist.net/anime/632/Mahoromatic_End_Year_Special"
+  },
+  {
+    "id": 635,
+    "name": "Juubee-chan: Lovely Gantai no Himitsu",
+    "english": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/60987.jpg",
+    "link": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu"
+  },
+  {
+    "id": 641,
+    "name": "Ichigo 100% Special 2",
+    "english": "Strawberry 100%",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/5229.jpg",
+    "link": "https://myanimelist.net/anime/641/Ichigo_100_Special_2"
+  },
+  {
+    "id": 645,
+    "name": "Hikaru no Go: Kita Hokutohai e no Michi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/78453.jpg",
+    "link": "https://myanimelist.net/anime/645/Hikaru_no_Go__Kita_Hokutohai_e_no_Michi"
+  },
+  {
+    "id": 647,
+    "name": "Harukanaru Toki no Naka de: Ajisai Yumegatari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/72171.jpg",
+    "link": "https://myanimelist.net/anime/647/Harukanaru_Toki_no_Naka_de__Ajisai_Yumegatari"
+  },
+  {
+    "id": 649,
+    "name": "Hanaukyou Maid-tai: La Verite",
+    "english": "Hanaukyo Maid Team: La Verite",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/10518.jpg",
+    "link": "https://myanimelist.net/anime/649/Hanaukyou_Maid-tai__La_Verite"
+  },
+  {
+    "id": 654,
+    "name": "Galaxy Angel 3 Specials",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/6758.jpg",
+    "link": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials"
+  },
+  {
+    "id": 660,
+    "name": "Denshin Mamotte Shugogetten",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/3896.jpg",
+    "link": "https://myanimelist.net/anime/660/Denshin_Mamotte_Shugogetten"
+  },
+  {
+    "id": 665,
+    "name": "JoJo no Kimyou na Bouken: Adventure",
+    "english": "JoJo's Bizarre Adventure",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/53147.jpg",
+    "link": "https://myanimelist.net/anime/665/JoJo_no_Kimyou_na_Bouken__Adventure"
+  },
+  {
+    "id": 666,
+    "name": "JoJo no Kimyou na Bouken",
+    "english": "JoJo's Bizarre Adventure",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/65385.jpg",
+    "link": "https://myanimelist.net/anime/666/JoJo_no_Kimyou_na_Bouken"
+  },
+  {
+    "id": 667,
+    "name": "Kashimashi: Girl Meets Girl",
+    "english": "Girl Meets Girl",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/19498.jpg",
+    "link": "https://myanimelist.net/anime/667/Kashimashi__Girl_Meets_Girl"
+  },
+  {
+    "id": 671,
+    "name": "Lemon Angel Project",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/36417.jpg",
+    "link": "https://myanimelist.net/anime/671/Lemon_Angel_Project"
+  },
+  {
+    "id": 682,
+    "name": "Otogi Story Tenshi no Shippo",
+    "english": "Angel Tales",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/21092.jpg",
+    "link": "https://myanimelist.net/anime/682/Otogi_Story_Tenshi_no_Shippo"
+  },
+  {
+    "id": 684,
+    "name": "Tenshi no Shippo Chu!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/4406.jpg",
+    "link": "https://myanimelist.net/anime/684/Tenshi_no_Shippo_Chu"
+  },
+  {
+    "id": 690,
+    "name": "Kyuuketsuhime Miyu (TV)",
+    "english": "Vampire Princess Miyu",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/61317.jpg",
+    "link": "https://myanimelist.net/anime/690/Kyuuketsuhime_Miyu_TV"
+  },
+  {
+    "id": 713,
+    "name": "Air Movie",
+    "english": "Air: The Motion Picture",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/26507.jpg",
+    "link": "https://myanimelist.net/anime/713/Air_Movie"
+  },
+  {
+    "id": 721,
+    "name": "Princess Tutu",
+    "english": "Princess Tutu",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1145/93646.jpg",
+    "link": "https://myanimelist.net/anime/721/Princess_Tutu"
+  },
+  {
+    "id": 733,
+    "name": "Kizuna",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/8172.jpg",
+    "link": "https://myanimelist.net/anime/733/Kizuna"
+  },
+  {
+    "id": 743,
+    "name": "Umi ga Kikoeru",
+    "english": "The Ocean Waves",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/52359.jpg",
+    "link": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru"
+  },
+  {
+    "id": 744,
+    "name": "Trouble Chocolate",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/61293.jpg",
+    "link": "https://myanimelist.net/anime/744/Trouble_Chocolate"
+  },
+  {
+    "id": 747,
+    "name": "Haru wo Daite Ita",
+    "english": "Embracing Love",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/3718.jpg",
+    "link": "https://myanimelist.net/anime/747/Haru_wo_Daite_Ita"
+  },
+  {
+    "id": 749,
+    "name": "Nanami-chan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/64205.jpg",
+    "link": "https://myanimelist.net/anime/749/Nanami-chan"
+  },
+  {
+    "id": 753,
+    "name": "Chijoku Shinsatsushitsu",
+    "english": "Doctor Shameless",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/20015.jpg",
+    "link": "https://myanimelist.net/anime/753/Chijoku_Shinsatsushitsu"
+  },
+  {
+    "id": 754,
+    "name": "Yuki no Joou (TV)",
+    "english": "The Snow Queen",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/26180.jpg",
+    "link": "https://myanimelist.net/anime/754/Yuki_no_Joou_TV"
+  },
+  {
+    "id": 758,
+    "name": "RahXephon: Tagen Hensoukyoku",
+    "english": "RahXephon: Pluralitas Concentio",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1771/94881.jpg",
+    "link": "https://myanimelist.net/anime/758/RahXephon__Tagen_Hensoukyoku"
+  },
+  {
+    "id": 759,
+    "name": "Tokyo Godfathers",
+    "english": "Tokyo Godfathers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1144/93627.jpg",
+    "link": "https://myanimelist.net/anime/759/Tokyo_Godfathers"
+  },
+  {
+    "id": 761,
+    "name": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+    "english": "Naruto: Find the Crimson Four-leaf Clover!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/11240.jpg",
+    "link": "https://myanimelist.net/anime/761/Naruto__Akaki_Yotsuba_no_Clover_wo_Sagase"
+  },
+  {
+    "id": 769,
+    "name": "Burn Up! W",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/20426.jpg",
+    "link": "https://myanimelist.net/anime/769/Burn_Up_W"
+  },
+  {
+    "id": 776,
+    "name": "Nanaka 6/17",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/46927.jpg",
+    "link": "https://myanimelist.net/anime/776/Nanaka_6_17"
+  },
+  {
+    "id": 777,
+    "name": "Hellsing Ultimate",
+    "english": "Hellsing Ultimate",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/7333.jpg",
+    "link": "https://myanimelist.net/anime/777/Hellsing_Ultimate"
+  },
+  {
+    "id": 779,
+    "name": "Detective Conan Movie 01: The Timed Skyscraper",
+    "english": "Case Closed The Movie: The Time Bombed Skyscraper",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/77131.jpg",
+    "link": "https://myanimelist.net/anime/779/Detective_Conan_Movie_01__The_Timed_Skyscraper"
+  },
+  {
+    "id": 782,
+    "name": "Gasaraki",
+    "english": "Gasaraki",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1790/91070.jpg",
+    "link": "https://myanimelist.net/anime/782/Gasaraki"
+  },
+  {
+    "id": 785,
+    "name": "Otaku no Video",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/3817.jpg",
+    "link": "https://myanimelist.net/anime/785/Otaku_no_Video"
+  },
+  {
+    "id": 786,
+    "name": "Pugyuru",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/4405.jpg",
+    "link": "https://myanimelist.net/anime/786/Pugyuru"
+  },
+  {
+    "id": 788,
+    "name": "Eiken: Eikenbu yori Ai wo Komete",
+    "english": "Eiken",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/42861.jpg",
+    "link": "https://myanimelist.net/anime/788/Eiken__Eikenbu_yori_Ai_wo_Komete"
+  },
+  {
+    "id": 791,
+    "name": "Arion",
+    "english": "Arion",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/37901.jpg",
+    "link": "https://myanimelist.net/anime/791/Arion"
+  },
+  {
+    "id": 795,
+    "name": "Oniisama e...",
+    "english": "Brother, Dear Brother",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/18531.jpg",
+    "link": "https://myanimelist.net/anime/795/Oniisama_e"
+  },
+  {
+    "id": 796,
+    "name": "Mahoujin Guru Guru Movie",
+    "english": "Magical Circle Guru Guru Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/49583.jpg",
+    "link": "https://myanimelist.net/anime/796/Mahoujin_Guru_Guru_Movie"
+  },
+  {
+    "id": 800,
+    "name": "NieA Under 7",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/18922.jpg",
+    "link": "https://myanimelist.net/anime/800/NieA_Under_7"
+  },
+  {
+    "id": 810,
+    "name": "Android Ana Maico 2010",
+    "english": "Android Announcer Maico 2010",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/30397.jpg",
+    "link": "https://myanimelist.net/anime/810/Android_Ana_Maico_2010"
+  },
+  {
+    "id": 814,
+    "name": "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri",
+    "english": "Prince of Tennis: Atobe Kara no Okurimono",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/6381.jpg",
+    "link": "https://myanimelist.net/anime/814/Tennis_no_Ouji-sama__Atobe_kara_no_Okurimono_-_Kimi_ni_Sasageru_Tennis_Prince_Matsuri"
+  },
+  {
+    "id": 820,
+    "name": "Ginga Eiyuu Densetsu",
+    "english": "Legend of the Galactic Heroes",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/13225.jpg",
+    "link": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
+  },
+  {
+    "id": 821,
+    "name": "Initial D Battle Stage",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/13168.jpg",
+    "link": "https://myanimelist.net/anime/821/Initial_D_Battle_Stage"
+  },
+  {
+    "id": 822,
+    "name": "Initial D Extra Stage",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/13169.jpg",
+    "link": "https://myanimelist.net/anime/822/Initial_D_Extra_Stage"
+  },
+  {
+    "id": 823,
+    "name": "Virgin Night",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/80149.jpg",
+    "link": "https://myanimelist.net/anime/823/Virgin_Night"
+  },
+  {
+    "id": 824,
+    "name": "Guardian Hearts",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/20741.jpg",
+    "link": "https://myanimelist.net/anime/824/Guardian_Hearts"
+  },
+  {
+    "id": 825,
+    "name": "King of Fighters: Another Day",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/12676.jpg",
+    "link": "https://myanimelist.net/anime/825/King_of_Fighters__Another_Day"
+  },
+  {
+    "id": 833,
+    "name": "Choujuushin Gravion",
+    "english": "Super Heavy God Gravion",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/75166.jpg",
+    "link": "https://myanimelist.net/anime/833/Choujuushin_Gravion"
+  },
+  {
+    "id": 836,
+    "name": "Sister Princess",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/23692.jpg",
+    "link": "https://myanimelist.net/anime/836/Sister_Princess"
+  },
+  {
+    "id": 850,
+    "name": "Gakuen Heaven",
+    "english": "Gakuen Heaven",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/70143.jpg",
+    "link": "https://myanimelist.net/anime/850/Gakuen_Heaven"
+  },
+  {
+    "id": 851,
+    "name": "Kyou kara Ore wa!!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/43779.jpg",
+    "link": "https://myanimelist.net/anime/851/Kyou_kara_Ore_wa"
+  },
+  {
+    "id": 853,
+    "name": "Ouran Koukou Host Club",
+    "english": "Ouran High School Host Club",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/71992.jpg",
+    "link": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club"
+  },
+  {
+    "id": 854,
+    "name": "Soul Link",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/854.jpg",
+    "link": "https://myanimelist.net/anime/854/Soul_Link"
+  },
+  {
+    "id": 864,
+    "name": "Mobile Suit Gundam SEED MSV Astray",
+    "english": "Mobile Suit Gundam SEED MSV Astray",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/864.jpg",
+    "link": "https://myanimelist.net/anime/864/Mobile_Suit_Gundam_SEED_MSV_Astray"
+  },
+  {
+    "id": 876,
+    "name": "Street Fighter II V",
+    "english": "Street Fighter II: The Animated Series",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/29992.jpg",
+    "link": "https://myanimelist.net/anime/876/Street_Fighter_II_V"
+  },
+  {
+    "id": 879,
+    "name": "Simoun",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/29109.jpg",
+    "link": "https://myanimelist.net/anime/879/Simoun"
+  },
+  {
+    "id": 894,
+    "name": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+    "english": "Dragon Ball Z: Dead Zone",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1258/90343.jpg",
+    "link": "https://myanimelist.net/anime/894/Dragon_Ball_Z_Movie_01__Ora_no_Gohan_wo_Kaese"
+  },
+  {
+    "id": 895,
+    "name": "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu",
+    "english": "Dragon Ball Z: The World's Strongest",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1017/90344.jpg",
+    "link": "https://myanimelist.net/anime/895/Dragon_Ball_Z_Movie_02__Kono_Yo_de_Ichiban_Tsuyoi_Yatsu"
+  },
+  {
+    "id": 897,
+    "name": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+    "english": "Dragon Ball Z: Lord Slug",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1620/93667.jpg",
+    "link": "https://myanimelist.net/anime/897/Dragon_Ball_Z_Movie_04__Super_Saiyajin_da_Son_Gokuu"
+  },
+  {
+    "id": 916,
+    "name": "Tokkou",
+    "english": "Tokko",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/18280.jpg",
+    "link": "https://myanimelist.net/anime/916/Tokkou"
+  },
+  {
+    "id": 919,
+    "name": "Ray The Animation",
+    "english": "Ray The Animation",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/33315.jpg",
+    "link": "https://myanimelist.net/anime/919/Ray_The_Animation"
+  },
+  {
+    "id": 924,
+    "name": "Transformers: Choujin Master Force",
+    "english": "Transformers Super-God Masterforce",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1437/92789.jpg",
+    "link": "https://myanimelist.net/anime/924/Transformers__Choujin_Master_Force"
+  },
+  {
+    "id": 926,
+    "name": "Transformers Victory",
+    "english": "Transformers Victory",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1182/92790.jpg",
+    "link": "https://myanimelist.net/anime/926/Transformers_Victory"
+  },
+  {
+    "id": 928,
+    "name": "Transformers Galaxy Force",
+    "english": "Transformers Cybertron",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/87406.jpg",
+    "link": "https://myanimelist.net/anime/928/Transformers_Galaxy_Force"
+  },
+  {
+    "id": 929,
+    "name": "Seisenshi Dunbine",
+    "english": "Aura Battler Dunbine",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/86450.jpg",
+    "link": "https://myanimelist.net/anime/929/Seisenshi_Dunbine"
+  },
+  {
+    "id": 930,
+    "name": "Densetsu Kyojin Ideon",
+    "english": "Space Runaway Ideon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/77068.jpg",
+    "link": "https://myanimelist.net/anime/930/Densetsu_Kyojin_Ideon"
+  },
+  {
+    "id": 934,
+    "name": "Higurashi no Naku Koro ni",
+    "english": "When They Cry",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/19634.jpg",
+    "link": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni"
+  },
+  {
+    "id": 935,
+    "name": "Witchblade",
+    "english": "Witchblade",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/935.jpg",
+    "link": "https://myanimelist.net/anime/935/Witchblade"
+  },
+  {
+    "id": 936,
+    "name": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+    "english": "Naruto the Movie 2: Legend of the Stone of Gelel",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/76016.jpg",
+    "link": "https://myanimelist.net/anime/936/Naruto_Movie_2__Dai_Gekitotsu_Maboroshi_no_Chiteiiseki_Dattebayo"
+  },
+  {
+    "id": 937,
+    "name": "Appleseed",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/27979.jpg",
+    "link": "https://myanimelist.net/anime/937/Appleseed"
+  },
+  {
+    "id": 942,
+    "name": "Nishi no Yoki Majo: Astraea Testament",
+    "english": "The Good Witch Of The West",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/75549.jpg",
+    "link": "https://myanimelist.net/anime/942/Nishi_no_Yoki_Majo__Astraea_Testament"
+  },
+  {
+    "id": 964,
+    "name": "Hit wo Nerae!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/75237.jpg",
+    "link": "https://myanimelist.net/anime/964/Hit_wo_Nerae"
+  },
+  {
+    "id": 968,
+    "name": "Kakutou Bijin Wulong: Rebirth",
+    "english": "Fighting Beauty Wulong Rebirth",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/23598.jpg",
+    "link": "https://myanimelist.net/anime/968/Kakutou_Bijin_Wulong__Rebirth"
+  },
+  {
+    "id": 970,
+    "name": "Yokoyama Mitsuteru Sangokushi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/76348.jpg",
+    "link": "https://myanimelist.net/anime/970/Yokoyama_Mitsuteru_Sangokushi"
+  },
+  {
+    "id": 973,
+    "name": "Glass no Kantai: La Legende du Vent de l'Univers",
+    "english": "Glass Fleet: The Legend of the Wind of the Universe",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/75835.jpg",
+    "link": "https://myanimelist.net/anime/973/Glass_no_Kantai__La_Legende_du_Vent_de_lUnivers"
+  },
+  {
+    "id": 974,
+    "name": "Dead Leaves",
+    "english": "Dead Leaves",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/8621.jpg",
+    "link": "https://myanimelist.net/anime/974/Dead_Leaves"
+  },
+  {
+    "id": 978,
+    "name": "Change!! Getter Robo: Sekai Saigo no Hi",
+    "english": "Getter Robo: Armageddon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/23767.jpg",
+    "link": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi"
+  },
+  {
+    "id": 983,
+    "name": "Cosplay Complex: Extra Identification",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/59969.jpg",
+    "link": "https://myanimelist.net/anime/983/Cosplay_Complex__Extra_Identification"
+  },
+  {
+    "id": 984,
+    "name": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/28845.jpg",
+    "link": "https://myanimelist.net/anime/984/Dragon_Ball_Z__Saiya-jin_Zetsumetsu_Keikaku"
+  },
+  {
+    "id": 991,
+    "name": "Usagi-chan de Cue!!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/2999.jpg",
+    "link": "https://myanimelist.net/anime/991/Usagi-chan_de_Cue"
+  },
+  {
+    "id": 992,
+    "name": "Dual Parallel! Trouble Adventures",
+    "english": "Dual! Parallel Trouble Adventure",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/31223.jpg",
+    "link": "https://myanimelist.net/anime/992/Dual_Parallel_Trouble_Adventures"
+  },
+  {
+    "id": 1000,
+    "name": "Uchuu Kaizoku Captain Herlock",
+    "english": "Space Pirate Captain Harlock",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1362/90305.jpg",
+    "link": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock"
+  },
+  {
+    "id": 1006,
+    "name": "Tenchi Muyou! in Love",
+    "english": "Tenchi Muyo! In Love",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1543/92823.jpg",
+    "link": "https://myanimelist.net/anime/1006/Tenchi_Muyou_in_Love"
+  },
+  {
+    "id": 1008,
+    "name": "Ranma ½ Specials",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/63453.jpg",
+    "link": "https://myanimelist.net/anime/1008/Ranma_½_Specials"
+  },
+  {
+    "id": 1018,
+    "name": "Majutsushi Orphen: Revenge",
+    "english": "Orphen 2: Revenge",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/61841.jpg",
+    "link": "https://myanimelist.net/anime/1018/Majutsushi_Orphen__Revenge"
+  },
+  {
+    "id": 1019,
+    "name": "Honoo no Mirage",
+    "english": "Mirage of Blaze",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/22614.jpg",
+    "link": "https://myanimelist.net/anime/1019/Honoo_no_Mirage"
+  },
+  {
+    "id": 1020,
+    "name": "Honoo no Mirage: Minagiwa no Hangyakusha",
+    "english": "Mirage of Blaze: Rebels of the River Edge",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/24778.jpg",
+    "link": "https://myanimelist.net/anime/1020/Honoo_no_Mirage__Minagiwa_no_Hangyakusha"
+  },
+  {
+    "id": 1022,
+    "name": "Generator Gawl",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/19006.jpg",
+    "link": "https://myanimelist.net/anime/1022/Generator_Gawl"
+  },
+  {
+    "id": 1024,
+    "name": "Weiß Kreuz OVA",
+    "english": "Knight Hunters OVA",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/15408.jpg",
+    "link": "https://myanimelist.net/anime/1024/Weiß_Kreuz_OVA"
+  },
+  {
+    "id": 1025,
+    "name": "Kachou Ouji",
+    "english": "Legend of Black Heaven",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/80134.jpg",
+    "link": "https://myanimelist.net/anime/1025/Kachou_Ouji"
+  },
+  {
+    "id": 1027,
+    "name": "Psychic Force",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/4030.jpg",
+    "link": "https://myanimelist.net/anime/1027/Psychic_Force"
+  },
+  {
+    "id": 1028,
+    "name": "Arete Hime",
+    "english": "Princess Arete",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/4327.jpg",
+    "link": "https://myanimelist.net/anime/1028/Arete_Hime"
+  },
+  {
+    "id": 1030,
+    "name": "Heisei Tanuki Gassen Ponpoko",
+    "english": "Pom Poko",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/75925.jpg",
+    "link": "https://myanimelist.net/anime/1030/Heisei_Tanuki_Gassen_Ponpoko"
+  },
+  {
+    "id": 1031,
+    "name": "Hanare Toride no Yonna",
+    "english": "Yonna in the Solitary Fortress",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/24282.jpg",
+    "link": "https://myanimelist.net/anime/1031/Hanare_Toride_no_Yonna"
+  },
+  {
+    "id": 1032,
+    "name": "Kumo no You ni Kaze no You ni",
+    "english": "Like the Clouds, Like the Wind",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/43205.jpg",
+    "link": "https://myanimelist.net/anime/1032/Kumo_no_You_ni_Kaze_no_You_ni"
+  },
+  {
+    "id": 1033,
+    "name": "Sennen Joyuu",
+    "english": "Millennium Actress",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1648/93626.jpg",
+    "link": "https://myanimelist.net/anime/1033/Sennen_Joyuu"
+  },
+  {
+    "id": 1037,
+    "name": "Saint Beast: Seijuu Kourin-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/23705.jpg",
+    "link": "https://myanimelist.net/anime/1037/Saint_Beast__Seijuu_Kourin-hen"
+  },
+  {
+    "id": 1041,
+    "name": "Zetsuai 1989",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/73226.jpg",
+    "link": "https://myanimelist.net/anime/1041/Zetsuai_1989"
+  },
+  {
+    "id": 1043,
+    "name": "Tokyo Babylon",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/20546.jpg",
+    "link": "https://myanimelist.net/anime/1043/Tokyo_Babylon"
+  },
+  {
+    "id": 1045,
+    "name": "Elf wo Karu Mono-tachi",
+    "english": "Those Who Hunt Elves",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/74219.jpg",
+    "link": "https://myanimelist.net/anime/1045/Elf_wo_Karu_Mono-tachi"
+  },
+  {
+    "id": 1048,
+    "name": "The SoulTaker: Tamashii-gari",
+    "english": "SoulTaker",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/11004.jpg",
+    "link": "https://myanimelist.net/anime/1048/The_SoulTaker__Tamashii-gari"
+  },
+  {
+    "id": 1049,
+    "name": "Cello Hiki no Gauche (1982)",
+    "english": "Gauche the Cellist",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/36627.jpg",
+    "link": "https://myanimelist.net/anime/1049/Cello_Hiki_no_Gauche_1982"
+  },
+  {
+    "id": 1050,
+    "name": "Bobobo-bo Bo-bobo",
+    "english": "Bobobo-bo Bo-bobo",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/44540.jpg",
+    "link": "https://myanimelist.net/anime/1050/Bobobo-bo_Bo-bobo"
+  },
+  {
+    "id": 1052,
+    "name": "Tokyo Juushouden",
+    "english": "Ten Tokyo Warriors",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/49037.jpg",
+    "link": "https://myanimelist.net/anime/1052/Tokyo_Juushouden"
+  },
+  {
+    "id": 1055,
+    "name": "Blame!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/2713.jpg",
+    "link": "https://myanimelist.net/anime/1055/Blame"
+  },
+  {
+    "id": 1059,
+    "name": "Mutant Turtles: Choujin Densetsu-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/44255.jpg",
+    "link": "https://myanimelist.net/anime/1059/Mutant_Turtles__Choujin_Densetsu-hen"
+  },
+  {
+    "id": 1064,
+    "name": "Mazinkaiser",
+    "english": "Mazinkaiser",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1620/92796.jpg",
+    "link": "https://myanimelist.net/anime/1064/Mazinkaiser"
+  },
+  {
+    "id": 1066,
+    "name": "Shakugan no Shana Specials",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/16951.jpg",
+    "link": "https://myanimelist.net/anime/1066/Shakugan_no_Shana_Specials"
+  },
+  {
+    "id": 1074,
+    "name": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen taikai Kaisai!!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/11244.jpg",
+    "link": "https://myanimelist.net/anime/1074/Naruto_Narutimate_Hero_3__Tsuini_Gekitotsu_Jounin_vs_Genin_Musabetsu_Dairansen_taikai_Kaisai"
+  },
+  {
+    "id": 1079,
+    "name": "Armitage III",
+    "english": "Armitage III",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1948/92293.jpg",
+    "link": "https://myanimelist.net/anime/1079/Armitage_III"
+  },
+  {
+    "id": 1087,
+    "name": "Kimagure Orange☆Road",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/41339.jpg",
+    "link": "https://myanimelist.net/anime/1087/Kimagure_Orange☆Road"
+  },
+  {
+    "id": 1088,
+    "name": "Macross",
+    "english": "Macross",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2441.jpg",
+    "link": "https://myanimelist.net/anime/1088/Macross"
+  },
+  {
+    "id": 1091,
+    "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/75773.jpg",
+    "link": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow"
+  },
+  {
+    "id": 1095,
+    "name": "Kidou Keisatsu Patlabor the Movie",
+    "english": "Patlabor: The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/74786.jpg",
+    "link": "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie"
+  },
+  {
+    "id": 1096,
+    "name": "Kidou Keisatsu Patlabor 2 the Movie",
+    "english": "Mobile Police Patlabor 2: The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/74764.jpg",
+    "link": "https://myanimelist.net/anime/1096/Kidou_Keisatsu_Patlabor_2_the_Movie"
+  },
+  {
+    "id": 1097,
+    "name": "Lime-iro Senkitan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75503.jpg",
+    "link": "https://myanimelist.net/anime/1097/Lime-iro_Senkitan"
+  },
+  {
+    "id": 1099,
+    "name": "Shadow Skill: Kurudaryuu Kousatsuhou no Himitsu",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/85750.jpg",
+    "link": "https://myanimelist.net/anime/1099/Shadow_Skill__Kurudaryuu_Kousatsuhou_no_Himitsu"
+  },
+  {
+    "id": 1100,
+    "name": "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+    "english": "Starship Girl Yamamoto Yohko",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1702/90153.jpg",
+    "link": "https://myanimelist.net/anime/1100/Soreyuke_Uchuu_Senkan_Yamamoto_Yohko"
+  },
+  {
+    "id": 1101,
+    "name": "Tenchi Muyou! Manatsu no Eve",
+    "english": "Tenchi the Movie 2: Daughter of Darkness",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/61319.jpg",
+    "link": "https://myanimelist.net/anime/1101/Tenchi_Muyou_Manatsu_no_Eve"
+  },
+  {
+    "id": 1102,
+    "name": "Urda",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/33543.jpg",
+    "link": "https://myanimelist.net/anime/1102/Urda"
+  },
+  {
+    "id": 1103,
+    "name": "Shinkon Gattai Godannar!!",
+    "english": "Marriage of God & Soul Godannar!!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/75451.jpg",
+    "link": "https://myanimelist.net/anime/1103/Shinkon_Gattai_Godannar"
+  },
+  {
+    "id": 1104,
+    "name": "Shinkon Gattai Godannar!! 2nd Season",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/50669.jpg",
+    "link": "https://myanimelist.net/anime/1104/Shinkon_Gattai_Godannar_2nd_Season"
+  },
+  {
+    "id": 1107,
+    "name": "Youjuu Toshi",
+    "english": "Wicked City",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/50021.jpg",
+    "link": "https://myanimelist.net/anime/1107/Youjuu_Toshi"
+  },
+  {
+    "id": 1108,
+    "name": "Senkaiden Houshin Engi",
+    "english": "Soul Hunter",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/20604.jpg",
+    "link": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi"
+  },
+  {
+    "id": 1109,
+    "name": "Monster Extra: Hottan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/10372.jpg",
+    "link": "https://myanimelist.net/anime/1109/Monster_Extra__Hottan"
+  },
+  {
+    "id": 1112,
+    "name": "Vandread: Taidou-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/75448.jpg",
+    "link": "https://myanimelist.net/anime/1112/Vandread__Taidou-hen"
+  },
+  {
+    "id": 1113,
+    "name": "One: Kagayaku Kisetsu e - True Stories",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/41603.jpg",
+    "link": "https://myanimelist.net/anime/1113/One__Kagayaku_Kisetsu_e_-_True_Stories"
+  },
+  {
+    "id": 1115,
+    "name": "Handsome Girl",
+    "english": "Handsome Girl",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/34835.jpg",
+    "link": "https://myanimelist.net/anime/1115/Handsome_Girl"
+  },
+  {
+    "id": 1116,
+    "name": "Junkers Come Here",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/18001.jpg",
+    "link": "https://myanimelist.net/anime/1116/Junkers_Come_Here"
+  },
+  {
+    "id": 1121,
+    "name": "Pokemon Advanced Generation: Nanayo no Negaiboshi Jirachi",
+    "english": "Pokemon: Jirachi Wishmaker",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/75733.jpg",
+    "link": "https://myanimelist.net/anime/1121/Pokemon_Advanced_Generation__Nanayo_no_Negaiboshi_Jirachi"
+  },
+  {
+    "id": 1122,
+    "name": "Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys",
+    "english": "Pokemon: Destiny Deoxys",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/21313.jpg",
+    "link": "https://myanimelist.net/anime/1122/Pokemon_Advanced_Generation__Rekkuu_no_Houmonsha_Deoxys"
+  },
+  {
+    "id": 1123,
+    "name": "Bouken Ou Beet Excellion",
+    "english": "Beet the Vandel Buster Excellion",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/21570.jpg",
+    "link": "https://myanimelist.net/anime/1123/Bouken_Ou_Beet_Excellion"
+  },
+  {
+    "id": 1126,
+    "name": "Figure 17: Tsubasa & Hikaru",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/15438.jpg",
+    "link": "https://myanimelist.net/anime/1126/Figure_17__Tsubasa___Hikaru"
+  },
+  {
+    "id": 1130,
+    "name": "Windaria",
+    "english": "Once Upon A Time",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/25497.jpg",
+    "link": "https://myanimelist.net/anime/1130/Windaria"
+  },
+  {
+    "id": 1132,
+    "name": "Digimon Frontier",
+    "english": "Digimon Frontier",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/31591.jpg",
+    "link": "https://myanimelist.net/anime/1132/Digimon_Frontier"
+  },
+  {
+    "id": 1133,
+    "name": "Tenchi Muyou! GXP",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/20295.jpg",
+    "link": "https://myanimelist.net/anime/1133/Tenchi_Muyou_GXP"
+  },
+  {
+    "id": 1135,
+    "name": "Munto: Toki no Kabe wo Koete",
+    "english": "Munto 2: Beyond the Walls of Time",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/46865.jpg",
+    "link": "https://myanimelist.net/anime/1135/Munto__Toki_no_Kabe_wo_Koete"
+  },
+  {
+    "id": 1138,
+    "name": "Medarot",
+    "english": "Medabots",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/46699.jpg",
+    "link": "https://myanimelist.net/anime/1138/Medarot"
+  },
+  {
+    "id": 1140,
+    "name": "Giniro no Kami no Agito",
+    "english": "Origin: Spirits of the Past",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/83824.jpg",
+    "link": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito"
+  },
+  {
+    "id": 1146,
+    "name": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+    "english": "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/61969.jpg",
+    "link": "https://myanimelist.net/anime/1146/Tenchi_Muyou_Ryououki__Omatsuri_Zenjitsu_no_Yoru"
+  },
+  {
+    "id": 1150,
+    "name": "Legend of Crystania OVA",
+    "english": "Legend of Crystania",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/2764.jpg",
+    "link": "https://myanimelist.net/anime/1150/Legend_of_Crystania_OVA"
+  },
+  {
+    "id": 1159,
+    "name": "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa",
+    "english": "Geobreeders: Breakthrough",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/6610.jpg",
+    "link": "https://myanimelist.net/anime/1159/Geobreeders_2__Mouryou_Yuugekitai_File-XX_Ransen_Toppa"
+  },
+  {
+    "id": 1161,
+    "name": "Maze☆Bakunetsu Jikuu (TV)",
+    "english": "Maze: The Mega-Burst Space",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/20383.jpg",
+    "link": "https://myanimelist.net/anime/1161/Maze☆Bakunetsu_Jikuu_TV"
+  },
+  {
+    "id": 1162,
+    "name": "Maze☆Bakunetsu Jikuu",
+    "english": "Maze: The Mega-Burst Space OVA",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/6944.jpg",
+    "link": "https://myanimelist.net/anime/1162/Maze☆Bakunetsu_Jikuu"
+  },
+  {
+    "id": 1164,
+    "name": "Mahou Senshi Louie",
+    "english": "Rune Soldier",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/14045.jpg",
+    "link": "https://myanimelist.net/anime/1164/Mahou_Senshi_Louie"
+  },
+  {
+    "id": 1175,
+    "name": "Metal Fighter Miku",
+    "english": "Metal Fighter Miku",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1774/92299.jpg",
+    "link": "https://myanimelist.net/anime/1175/Metal_Fighter_Miku"
+  },
+  {
+    "id": 1176,
+    "name": "Unkai no Meikyuu Zeguy",
+    "english": "Mask of Zeguy",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/6215.jpg",
+    "link": "https://myanimelist.net/anime/1176/Unkai_no_Meikyuu_Zeguy"
+  },
+  {
+    "id": 1181,
+    "name": "Hikyou Tanken Fam & Ihrlie",
+    "english": "Ruin Explorers Fam & Ihrie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1775/92278.jpg",
+    "link": "https://myanimelist.net/anime/1181/Hikyou_Tanken_Fam___Ihrlie"
+  },
+  {
+    "id": 1182,
+    "name": "Shamanic Princess",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/7773.jpg",
+    "link": "https://myanimelist.net/anime/1182/Shamanic_Princess"
+  },
+  {
+    "id": 1183,
+    "name": "Variable Geo",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/20912.jpg",
+    "link": "https://myanimelist.net/anime/1183/Variable_Geo"
+  },
+  {
+    "id": 1185,
+    "name": "Battle Athletess Daiundoukai",
+    "english": "Battle Athletes",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/83761.jpg",
+    "link": "https://myanimelist.net/anime/1185/Battle_Athletess_Daiundoukai"
+  },
+  {
+    "id": 1187,
+    "name": "DNA² OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/4537.jpg",
+    "link": "https://myanimelist.net/anime/1187/DNA²_OVA"
+  },
+  {
+    "id": 1188,
+    "name": "Momoiro Sisters",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/15422.jpg",
+    "link": "https://myanimelist.net/anime/1188/Momoiro_Sisters"
+  },
+  {
+    "id": 1194,
+    "name": "Coyote Ragtime Show",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/21158.jpg",
+    "link": "https://myanimelist.net/anime/1194/Coyote_Ragtime_Show"
+  },
+  {
+    "id": 1206,
+    "name": "Ihatov Gensou: Kenji no Haru",
+    "english": "Spring and Chaos",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/57331.jpg",
+    "link": "https://myanimelist.net/anime/1206/Ihatov_Gensou__Kenji_no_Haru"
+  },
+  {
+    "id": 1208,
+    "name": "Tatsu no Ko Tarou",
+    "english": "Taro the Dragon Boy",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1696/93897.jpg",
+    "link": "https://myanimelist.net/anime/1208/Tatsu_no_Ko_Tarou"
+  },
+  {
+    "id": 1212,
+    "name": "Oban Star-Racers",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/3702.jpg",
+    "link": "https://myanimelist.net/anime/1212/Oban_Star-Racers"
+  },
+  {
+    "id": 1214,
+    "name": "Binbou Shimai Monogatari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/16053.jpg",
+    "link": "https://myanimelist.net/anime/1214/Binbou_Shimai_Monogatari"
+  },
+  {
+    "id": 1215,
+    "name": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1013/91082.jpg",
+    "link": "https://myanimelist.net/anime/1215/Mobile_Suit_Gundam_SEED_CE73__Stargazer"
+  },
+  {
+    "id": 1217,
+    "name": "Seikimatsu★Darling",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/72910.jpg",
+    "link": "https://myanimelist.net/anime/1217/Seikimatsu★Darling"
+  },
+  {
+    "id": 1218,
+    "name": "Tonagura!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/1218.jpg",
+    "link": "https://myanimelist.net/anime/1218/Tonagura"
+  },
+  {
+    "id": 1220,
+    "name": "Hoshizora Kiseki",
+    "english": "Hoshizora Kiseki",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/22726.jpg",
+    "link": "https://myanimelist.net/anime/1220/Hoshizora_Kiseki"
+  },
+  {
+    "id": 1222,
+    "name": "Bokura ga Ita",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/25754.jpg",
+    "link": "https://myanimelist.net/anime/1222/Bokura_ga_Ita"
+  },
+  {
+    "id": 1224,
+    "name": "Aquarian Age: Sign for Evolution",
+    "english": "Aquarian Age: Sign for Evolution",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/21141.jpg",
+    "link": "https://myanimelist.net/anime/1224/Aquarian_Age__Sign_for_Evolution"
+  },
+  {
+    "id": 1225,
+    "name": "3x3 Eyes Seima Densetsu",
+    "english": "3x3 Eyes: Legend of the Divine Demon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/12744.jpg",
+    "link": "https://myanimelist.net/anime/1225/3x3_Eyes_Seima_Densetsu"
+  },
+  {
+    "id": 1226,
+    "name": "Seihou Tenshi Angel Links",
+    "english": "Angel Links",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/46233.jpg",
+    "link": "https://myanimelist.net/anime/1226/Seihou_Tenshi_Angel_Links"
+  },
+  {
+    "id": 1227,
+    "name": "Shuten Douji",
+    "english": "Shuten Doji - The Star Hand Kid",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/18492.jpg",
+    "link": "https://myanimelist.net/anime/1227/Shuten_Douji"
+  },
+  {
+    "id": 1231,
+    "name": "Saber Marionette J to X",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/61071.jpg",
+    "link": "https://myanimelist.net/anime/1231/Saber_Marionette_J_to_X"
+  },
+  {
+    "id": 1236,
+    "name": "SF Saiyuuki Starzinger",
+    "english": "Spaceketeers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/45698.jpg",
+    "link": "https://myanimelist.net/anime/1236/SF_Saiyuuki_Starzinger"
+  },
+  {
+    "id": 1240,
+    "name": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+    "english": "Sailor Moon SuperS the Movie: Black Dream Hole",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/17831.jpg",
+    "link": "https://myanimelist.net/anime/1240/Bishoujo_Senshi_Sailor_Moon_SuperS__Sailor_9_Senshi_Shuuketsu_Black_Dream_Hole_no_Kiseki"
+  },
+  {
+    "id": 1244,
+    "name": "Ankoku Shindenshou Takegami",
+    "english": "Guardian of Darkness",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/3153.jpg",
+    "link": "https://myanimelist.net/anime/1244/Ankoku_Shindenshou_Takegami"
+  },
+  {
+    "id": 1245,
+    "name": "Shihaisha no Tasogare",
+    "english": "Twilight Of The Dark Master",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/4277.jpg",
+    "link": "https://myanimelist.net/anime/1245/Shihaisha_no_Tasogare"
+  },
+  {
+    "id": 1250,
+    "name": "Erementar Gerad",
+    "english": "Elemental Gelade",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/79163.jpg",
+    "link": "https://myanimelist.net/anime/1250/Erementar_Gerad"
+  },
+  {
+    "id": 1252,
+    "name": "Fushigi no Umi no Nadia: Original Movie",
+    "english": "Nadia: The Secret of Blue Water - The Motion Picture",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/3234.jpg",
+    "link": "https://myanimelist.net/anime/1252/Fushigi_no_Umi_no_Nadia__Original_Movie"
+  },
+  {
+    "id": 1253,
+    "name": "Saint Seiya: Meiou Hades Meikai-hen",
+    "english": "Saint Seiya: The Hades Chapter - Inferno",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/75732.jpg",
+    "link": "https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen"
+  },
+  {
+    "id": 1258,
+    "name": "Saint Seiya: Kamigami no Atsuki Tatakai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/30795.jpg",
+    "link": "https://myanimelist.net/anime/1258/Saint_Seiya__Kamigami_no_Atsuki_Tatakai"
+  },
+  {
+    "id": 1260,
+    "name": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/16347.jpg",
+    "link": "https://myanimelist.net/anime/1260/Saint_Seiya__Saishuu_Seisen_no_Senshi-tachi"
+  },
+  {
+    "id": 1265,
+    "name": "Yoroiden Samurai Troopers Gaiden",
+    "english": "Ronin Warriors Gaiden",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1484/92210.jpg",
+    "link": "https://myanimelist.net/anime/1265/Yoroiden_Samurai_Troopers_Gaiden"
+  },
+  {
+    "id": 1268,
+    "name": "Aquarian Age: Saga II - Don't Forget Me...",
+    "english": "Aquarian Age: The Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/61595.jpg",
+    "link": "https://myanimelist.net/anime/1268/Aquarian_Age__Saga_II_-_Dont_Forget_Me"
+  },
+  {
+    "id": 1271,
+    "name": "Kyoukasho ni Nai!",
+    "english": "Very Private Lesson",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/5353.jpg",
+    "link": "https://myanimelist.net/anime/1271/Kyoukasho_ni_Nai"
+  },
+  {
+    "id": 1274,
+    "name": "Injuu Gakuen EX",
+    "english": "Lady Blue",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/51311.jpg",
+    "link": "https://myanimelist.net/anime/1274/Injuu_Gakuen_EX"
+  },
+  {
+    "id": 1276,
+    "name": "Ys",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/23207.jpg",
+    "link": "https://myanimelist.net/anime/1276/Ys"
+  },
+  {
+    "id": 1279,
+    "name": "Taiyou no Ko Esteban",
+    "english": "The Mysterious Cities of Gold",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/39543.jpg",
+    "link": "https://myanimelist.net/anime/1279/Taiyou_no_Ko_Esteban"
+  },
+  {
+    "id": 1280,
+    "name": "Mamono Hunter Youko",
+    "english": "Devil Hunter Yohko",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/20492.jpg",
+    "link": "https://myanimelist.net/anime/1280/Mamono_Hunter_Youko"
+  },
+  {
+    "id": 1284,
+    "name": "Houma Hunter Lime",
+    "english": "Jewel BEM Hunter Lime",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/89935.jpg",
+    "link": "https://myanimelist.net/anime/1284/Houma_Hunter_Lime"
+  },
+  {
+    "id": 1285,
+    "name": "Soukihei MD Geist",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/21433.jpg",
+    "link": "https://myanimelist.net/anime/1285/Soukihei_MD_Geist"
+  },
+  {
+    "id": 1286,
+    "name": "MD Geist II: Death Force",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/55867.jpg",
+    "link": "https://myanimelist.net/anime/1286/MD_Geist_II__Death_Force"
+  },
+  {
+    "id": 1289,
+    "name": "Kidou Keisatsu Patlabor: New OVA",
+    "english": "Mobile Police Patlabor: The New Files",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/23499.jpg",
+    "link": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA"
+  },
+  {
+    "id": 1293,
+    "name": "Urusei Yatsura",
+    "english": "Urusei Yatsura",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/17573.jpg",
+    "link": "https://myanimelist.net/anime/1293/Urusei_Yatsura"
+  },
+  {
+    "id": 1296,
+    "name": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/29213.jpg",
+    "link": "https://myanimelist.net/anime/1296/Project_A-Ko_2__Daitokuji_Zaibatsu_no_Inbou"
+  },
+  {
+    "id": 1298,
+    "name": "Project A-Ko 4: Final",
+    "english": "Project A-ko: Love & Robots",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/29212.jpg",
+    "link": "https://myanimelist.net/anime/1298/Project_A-Ko_4__Final"
+  },
+  {
+    "id": 1299,
+    "name": "Flag",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1274/90483.jpg",
+    "link": "https://myanimelist.net/anime/1299/Flag"
+  },
+  {
+    "id": 1301,
+    "name": "Ginga Tetsudou 999 (Movie)",
+    "english": "Galaxy Express 999",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/50505.jpg",
+    "link": "https://myanimelist.net/anime/1301/Ginga_Tetsudou_999_Movie"
+  },
+  {
+    "id": 1302,
+    "name": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+    "english": "Adieu Galaxy Express 999",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1774/93957.jpg",
+    "link": "https://myanimelist.net/anime/1302/Sayonara_Ginga_Tetsudou_999__Andromeda_Shuuchakueki"
+  },
+  {
+    "id": 1311,
+    "name": "Chobits Recap",
+    "english": "Chobits: Hibiya and Kotoko Chat",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/22857.jpg",
+    "link": "https://myanimelist.net/anime/1311/Chobits_Recap"
+  },
+  {
+    "id": 1312,
+    "name": "Chikyuu Bouei Kigyou Dai-Guard",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1313/92867.jpg",
+    "link": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard"
+  },
+  {
+    "id": 1324,
+    "name": "Earthian",
+    "english": "Earthian",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/62449.jpg",
+    "link": "https://myanimelist.net/anime/1324/Earthian"
+  },
+  {
+    "id": 1325,
+    "name": "Hamelin no Violin Hiki",
+    "english": "Violinist of Hamelin",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/20972.jpg",
+    "link": "https://myanimelist.net/anime/1325/Hamelin_no_Violin_Hiki"
+  },
+  {
+    "id": 1327,
+    "name": "Aoki Densetsu Shoot!",
+    "english": "Blue Legend Shoot!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/75214.jpg",
+    "link": "https://myanimelist.net/anime/1327/Aoki_Densetsu_Shoot"
+  },
+  {
+    "id": 1329,
+    "name": "Ohoshisama no Rail",
+    "english": "Rail of the Star: A True Story of Children",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/85355.jpg",
+    "link": "https://myanimelist.net/anime/1329/Ohoshisama_no_Rail"
+  },
+  {
+    "id": 1331,
+    "name": "Dragon Pink",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/62813.jpg",
+    "link": "https://myanimelist.net/anime/1331/Dragon_Pink"
+  },
+  {
+    "id": 1337,
+    "name": "Dororon Enma-kun",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/28204.jpg",
+    "link": "https://myanimelist.net/anime/1337/Dororon_Enma-kun"
+  },
+  {
+    "id": 1338,
+    "name": "Shin Megami Tensei: Tokyo Mokushiroku",
+    "english": "Tokyo Revelation",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/22243.jpg",
+    "link": "https://myanimelist.net/anime/1338/Shin_Megami_Tensei__Tokyo_Mokushiroku"
+  },
+  {
+    "id": 1339,
+    "name": "Cool Devices",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/61369.jpg",
+    "link": "https://myanimelist.net/anime/1339/Cool_Devices"
+  },
+  {
+    "id": 1346,
+    "name": "AD Police",
+    "english": "AD Police Files",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/2851.jpg",
+    "link": "https://myanimelist.net/anime/1346/AD_Police"
+  },
+  {
+    "id": 1347,
+    "name": "Bubblegum Crisis",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/27361.jpg",
+    "link": "https://myanimelist.net/anime/1347/Bubblegum_Crisis"
+  },
+  {
+    "id": 1349,
+    "name": "A.D. Police (TV)",
+    "english": "A.D. Police: To Protect and Serve",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/15440.jpg",
+    "link": "https://myanimelist.net/anime/1349/AD_Police_TV"
+  },
+  {
+    "id": 1350,
+    "name": "Parasite Dolls",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/28884.jpg",
+    "link": "https://myanimelist.net/anime/1350/Parasite_Dolls"
+  },
+  {
+    "id": 1353,
+    "name": "The Urotsuki",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/83837.jpg",
+    "link": "https://myanimelist.net/anime/1353/The_Urotsuki"
+  },
+  {
+    "id": 1355,
+    "name": "Makyuu Senjou",
+    "english": "Dark Warrior",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/61777.jpg",
+    "link": "https://myanimelist.net/anime/1355/Makyuu_Senjou"
+  },
+  {
+    "id": 1359,
+    "name": "Nikutai Ten'i",
+    "english": "Body Transfer",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/41583.jpg",
+    "link": "https://myanimelist.net/anime/1359/Nikutai_Teni"
+  },
+  {
+    "id": 1362,
+    "name": "Street Fighter II Movie",
+    "english": "Street Fighter II: The Animated Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/76411.jpg",
+    "link": "https://myanimelist.net/anime/1362/Street_Fighter_II_Movie"
+  },
+  {
+    "id": 1363,
+    "name": "Detective Conan Movie 04: Captured in Her Eyes",
+    "english": "Case Closed Movie 4: Captured In Her Eyes",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/15429.jpg",
+    "link": "https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes"
+  },
+  {
+    "id": 1364,
+    "name": "Detective Conan Movie 05: Countdown to Heaven",
+    "english": "Case Closed Movie 5: Countdown to Heaven",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/20105.jpg",
+    "link": "https://myanimelist.net/anime/1364/Detective_Conan_Movie_05__Countdown_to_Heaven"
+  },
+  {
+    "id": 1366,
+    "name": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/20984.jpg",
+    "link": "https://myanimelist.net/anime/1366/Detective_Conan_Movie_07__Crossroad_in_the_Ancient_Capital"
+  },
+  {
+    "id": 1367,
+    "name": "Detective Conan Movie 08: Magician of the Silver Sky",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/72562.jpg",
+    "link": "https://myanimelist.net/anime/1367/Detective_Conan_Movie_08__Magician_of_the_Silver_Sky"
+  },
+  {
+    "id": 1368,
+    "name": "Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/31137.jpg",
+    "link": "https://myanimelist.net/anime/1368/Detective_Conan_OVA_06__Follow_the_Vanished_Diamond_Conan___Heiji_vs_Kid"
+  },
+  {
+    "id": 1373,
+    "name": "Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/9502.jpg",
+    "link": "https://myanimelist.net/anime/1373/Black_Jack_Specials__Inochi_wo_Meguru_Yottsu_no_Kiseki"
+  },
+  {
+    "id": 1374,
+    "name": "Kyoushoku Soukou Guyver (2005)",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/3697.jpg",
+    "link": "https://myanimelist.net/anime/1374/Kyoushoku_Soukou_Guyver_2005"
+  },
+  {
+    "id": 1384,
+    "name": "Kyuuketsuhime Miyu",
+    "english": "Vampire Princess Miyu",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/78948.jpg",
+    "link": "https://myanimelist.net/anime/1384/Kyuuketsuhime_Miyu"
+  },
+  {
+    "id": 1389,
+    "name": "Yakin Byoutou San",
+    "english": "Night Shift Nurses: Experiment",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/4975.jpg",
+    "link": "https://myanimelist.net/anime/1389/Yakin_Byoutou_San"
+  },
+  {
+    "id": 1390,
+    "name": "Parade Parade",
+    "english": "Parade Parade",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/41639.jpg",
+    "link": "https://myanimelist.net/anime/1390/Parade_Parade"
+  },
+  {
+    "id": 1399,
+    "name": "Macross 7 Encore",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/15644.jpg",
+    "link": "https://myanimelist.net/anime/1399/Macross_7_Encore"
+  },
+  {
+    "id": 1409,
+    "name": "IGPX: Immortal Grand Prix",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/71648.jpg",
+    "link": "https://myanimelist.net/anime/1409/IGPX__Immortal_Grand_Prix"
+  },
+  {
+    "id": 1410,
+    "name": "IGPX: Immortal Grand Prix (2005) 2nd Season",
+    "english": "IGPX: Immortal Grand Prix",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/21721.jpg",
+    "link": "https://myanimelist.net/anime/1410/IGPX__Immortal_Grand_Prix_2005_2nd_Season"
+  },
+  {
+    "id": 1417,
+    "name": "Lupin III: Moeyo Zantetsuken!",
+    "english": "Lupin III: Dragon of Doom",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/77771.jpg",
+    "link": "https://myanimelist.net/anime/1417/Lupin_III__Moeyo_Zantetsuken"
+  },
+  {
+    "id": 1418,
+    "name": "Lupin III: Episode 0 \"First Contact\"",
+    "english": "Lupin III Episode 0: The First Contact",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/27778.jpg",
+    "link": "https://myanimelist.net/anime/1418/Lupin_III__Episode_0_First_Contact"
+  },
+  {
+    "id": 1420,
+    "name": "Lupin III: Russia yori Ai wo Komete",
+    "english": "Lupin III: Bank of Liberty",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/61697.jpg",
+    "link": "https://myanimelist.net/anime/1420/Lupin_III__Russia_yori_Ai_wo_Komete"
+  },
+  {
+    "id": 1422,
+    "name": "Lupin III: $1 Money Wars",
+    "english": "Lupin III: Missed by a Dollar",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/67119.jpg",
+    "link": "https://myanimelist.net/anime/1422/Lupin_III__1_Money_Wars"
+  },
+  {
+    "id": 1430,
+    "name": "Lupin III: Cagliostro no Shiro",
+    "english": "Lupin III: The Castle of Cagliostro",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/26182.jpg",
+    "link": "https://myanimelist.net/anime/1430/Lupin_III__Cagliostro_no_Shiro"
+  },
+  {
+    "id": 1433,
+    "name": "Lupin III: Babylon no Ougon Densetsu",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/21666.jpg",
+    "link": "https://myanimelist.net/anime/1433/Lupin_III__Babylon_no_Ougon_Densetsu"
+  },
+  {
+    "id": 1435,
+    "name": "Lupin III: Lupin vs. Fukusei-ningen",
+    "english": "Lupin III: The Secret of Mamo",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/34211.jpg",
+    "link": "https://myanimelist.net/anime/1435/Lupin_III__Lupin_vs_Fukusei-ningen"
+  },
+  {
+    "id": 1442,
+    "name": "Alexander Senki",
+    "english": "Reign: The Conqueror",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/30791.jpg",
+    "link": "https://myanimelist.net/anime/1442/Alexander_Senki"
+  },
+  {
+    "id": 1443,
+    "name": "Sol Bianca",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/49503.jpg",
+    "link": "https://myanimelist.net/anime/1443/Sol_Bianca"
+  },
+  {
+    "id": 1444,
+    "name": "Sol Bianca: Taiyou no Fune",
+    "english": "Sol Bianca: The Legacy",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/74540.jpg",
+    "link": "https://myanimelist.net/anime/1444/Sol_Bianca__Taiyou_no_Fune"
+  },
+  {
+    "id": 1458,
+    "name": "Uchuu no Kishi Tekkaman",
+    "english": "Tekkaman",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2447.jpg",
+    "link": "https://myanimelist.net/anime/1458/Uchuu_no_Kishi_Tekkaman"
+  },
+  {
+    "id": 1460,
+    "name": "Uchuu no Kishi Tekkaman Blade II",
+    "english": "Tekkaman Blade II",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1975/92233.jpg",
+    "link": "https://myanimelist.net/anime/1460/Uchuu_no_Kishi_Tekkaman_Blade_II"
+  },
+  {
+    "id": 1471,
+    "name": "City Hunter 2",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/50523.jpg",
+    "link": "https://myanimelist.net/anime/1471/City_Hunter_2"
+  },
+  {
+    "id": 1481,
+    "name": "Urusei Yatsura: Haru da, Tobidase!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/88001.jpg",
+    "link": "https://myanimelist.net/anime/1481/Urusei_Yatsura__Haru_da_Tobidase"
+  },
+  {
+    "id": 1484,
+    "name": "Youma",
+    "english": "Blood Reign: Curse of the Yoma",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/65965.jpg",
+    "link": "https://myanimelist.net/anime/1484/Youma"
+  },
+  {
+    "id": 1595,
+    "name": "Inma Daitoshi: Beast City",
+    "english": "Beast City",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/13732.jpg",
+    "link": "https://myanimelist.net/anime/1595/Inma_Daitoshi__Beast_City"
+  },
+  {
+    "id": 1606,
+    "name": "Kekkaishi",
+    "english": "Kekkaishi",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75191.jpg",
+    "link": "https://myanimelist.net/anime/1606/Kekkaishi"
+  },
+  {
+    "id": 1645,
+    "name": "Herlock Saga: Nibelung no Yubiwa",
+    "english": "Harlock Saga: The Ring of the Nibelung - The Rhein Gold",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/21258.jpg",
+    "link": "https://myanimelist.net/anime/1645/Herlock_Saga__Nibelung_no_Yubiwa"
+  },
+  {
+    "id": 1647,
+    "name": "Kakugo no Susume",
+    "english": "Apocalypse Zero",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/16230.jpg",
+    "link": "https://myanimelist.net/anime/1647/Kakugo_no_Susume"
+  },
+  {
+    "id": 1664,
+    "name": "Babel Nisei (2001)",
+    "english": "Babel II: Beyond Infinity",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1090/92255.jpg",
+    "link": "https://myanimelist.net/anime/1664/Babel_Nisei_2001"
+  },
+  {
+    "id": 1677,
+    "name": "Cosmo Warrior Zero Gaiden",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/74830.jpg",
+    "link": "https://myanimelist.net/anime/1677/Cosmo_Warrior_Zero_Gaiden"
+  },
+  {
+    "id": 1727,
+    "name": "Shinkyoku Soukai Polyphonica",
+    "english": "Polyphonica",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/14646.jpg",
+    "link": "https://myanimelist.net/anime/1727/Shinkyoku_Soukai_Polyphonica"
+  },
+  {
+    "id": 1735,
+    "name": "Naruto: Shippuuden",
+    "english": "Naruto: Shippuden",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg",
+    "link": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+  },
+  {
+    "id": 1745,
+    "name": "Wild 7 Another Bouryaku Unga",
+    "english": "Wild 7 Another",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/2591.jpg",
+    "link": "https://myanimelist.net/anime/1745/Wild_7_Another_Bouryaku_Unga"
+  },
+  {
+    "id": 1749,
+    "name": "Amaenaide yo!!: Yasumanaide yo!!",
+    "english": "Ah! My Buddha Special",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/32069.jpg",
+    "link": "https://myanimelist.net/anime/1749/Amaenaide_yo__Yasumanaide_yo"
+  },
+  {
+    "id": 1764,
+    "name": "Slam Dunk (Movie)",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/31927.jpg",
+    "link": "https://myanimelist.net/anime/1764/Slam_Dunk_Movie"
+  },
+  {
+    "id": 1766,
+    "name": "Youseiki Suikoden",
+    "english": "Suikoden Demon Century",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/46519.jpg",
+    "link": "https://myanimelist.net/anime/1766/Youseiki_Suikoden"
+  },
+  {
+    "id": 1771,
+    "name": "Ring ni Kakero 1: Nichibei Kessen-hen",
+    "english": "Ring ni Kakero 1 Episode: The Pacific War",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/1771.jpg",
+    "link": "https://myanimelist.net/anime/1771/Ring_ni_Kakero_1__Nichibei_Kessen-hen"
+  },
+  {
+    "id": 1775,
+    "name": "Jikuu Tenshou Nazca",
+    "english": "Dimension Movement of Nazca",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/15446.jpg",
+    "link": "https://myanimelist.net/anime/1775/Jikuu_Tenshou_Nazca"
+  },
+  {
+    "id": 1776,
+    "name": "Bulg-eunmae",
+    "english": "Red Hawk - Weapon Of Death",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/11531.jpg",
+    "link": "https://myanimelist.net/anime/1776/Bulg-eunmae"
+  },
+  {
+    "id": 1780,
+    "name": "Choukou Tenshi Escalayer",
+    "english": "Beat Angel Escalayer",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/23188.jpg",
+    "link": "https://myanimelist.net/anime/1780/Choukou_Tenshi_Escalayer"
+  },
+  {
+    "id": 1808,
+    "name": "Kamichama Karin",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/76297.jpg",
+    "link": "https://myanimelist.net/anime/1808/Kamichama_Karin"
+  },
+  {
+    "id": 1899,
+    "name": "Masou Kishin Cybuster",
+    "english": "Cybuster",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/57475.jpg",
+    "link": "https://myanimelist.net/anime/1899/Masou_Kishin_Cybuster"
+  },
+  {
+    "id": 1914,
+    "name": "Saiunkoku Monogatari 2nd Season",
+    "english": "Tales of Saiunkoku",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/73277.jpg",
+    "link": "https://myanimelist.net/anime/1914/Saiunkoku_Monogatari_2nd_Season"
+  },
+  {
+    "id": 1944,
+    "name": "Photon",
+    "english": "Photon: The Idiot Adventures",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/49201.jpg",
+    "link": "https://myanimelist.net/anime/1944/Photon"
+  },
+  {
+    "id": 1959,
+    "name": "Wild 7",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/1959.jpg",
+    "link": "https://myanimelist.net/anime/1959/Wild_7"
+  },
+  {
+    "id": 1968,
+    "name": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+    "english": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/1968.jpg",
+    "link": "https://myanimelist.net/anime/1968/Mobile_Suit_Zeta_Gundam__A_New_Translation_II_-_Lovers"
+  },
+  {
+    "id": 1989,
+    "name": "Shizuku",
+    "english": "The Drop",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/68877.jpg",
+    "link": "https://myanimelist.net/anime/1989/Shizuku"
+  },
+  {
+    "id": 1995,
+    "name": "Lingerie Senshi Papillon Rose",
+    "english": "Papillon Rose OVA",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/24024.jpg",
+    "link": "https://myanimelist.net/anime/1995/Lingerie_Senshi_Papillon_Rose"
+  },
+  {
+    "id": 2004,
+    "name": "Hanada Shounen-shi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/87319.jpg",
+    "link": "https://myanimelist.net/anime/2004/Hanada_Shounen-shi"
+  },
+  {
+    "id": 2136,
+    "name": "Front Innocent: Mou Hitotsu no Lady Innocent",
+    "english": "Another Lady Innocent",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/41595.jpg",
+    "link": "https://myanimelist.net/anime/2136/Front_Innocent__Mou_Hitotsu_no_Lady_Innocent"
+  },
+  {
+    "id": 2147,
+    "name": "Call Me Tonight",
+    "english": "Call Me Tonight",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/18490.jpg",
+    "link": "https://myanimelist.net/anime/2147/Call_Me_Tonight"
+  },
+  {
+    "id": 2285,
+    "name": "D.I.C.E.",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1/2523.jpg",
+    "link": "https://myanimelist.net/anime/2285/DICE"
+  },
+  {
+    "id": 2457,
+    "name": "Majokko Tsukune-chan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/2904.jpg",
+    "link": "https://myanimelist.net/anime/2457/Majokko_Tsukune-chan"
+  },
+  {
+    "id": 2497,
+    "name": "Shin Cutey Honey",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/3059.jpg",
+    "link": "https://myanimelist.net/anime/2497/Shin_Cutey_Honey"
+  },
+  {
+    "id": 2570,
+    "name": "Ochame na Futago: Claire Gakuin Monogatari",
+    "english": "The Mischevious Twins",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/60951.jpg",
+    "link": "https://myanimelist.net/anime/2570/Ochame_na_Futago__Claire_Gakuin_Monogatari"
+  },
+  {
+    "id": 2572,
+    "name": "Fushigi no Kuni no Alice",
+    "english": "Alice in Wonderland",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/22277.jpg",
+    "link": "https://myanimelist.net/anime/2572/Fushigi_no_Kuni_no_Alice"
+  },
+  {
+    "id": 2659,
+    "name": "Doraemon Movie 14: Nobita to Buriki no Labyrinth",
+    "english": "Doraemon the Movie: Nobita and the Tin Labyrinth",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/72419.jpg",
+    "link": "https://myanimelist.net/anime/2659/Doraemon_Movie_14__Nobita_to_Buriki_no_Labyrinth"
+  },
+  {
+    "id": 2737,
+    "name": "Kouryuu no Mimi: Mina no Shou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/59847.jpg",
+    "link": "https://myanimelist.net/anime/2737/Kouryuu_no_Mimi__Mina_no_Shou"
+  },
+  {
+    "id": 2738,
+    "name": "Kasumin 3rd Season",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/67259.jpg",
+    "link": "https://myanimelist.net/anime/2738/Kasumin_3rd_Season"
+  },
+  {
+    "id": 2740,
+    "name": "Monkey Turn",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/75223.jpg",
+    "link": "https://myanimelist.net/anime/2740/Monkey_Turn"
+  },
+  {
+    "id": 2744,
+    "name": "Potemayo",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/25944.jpg",
+    "link": "https://myanimelist.net/anime/2744/Potemayo"
+  },
+  {
+    "id": 2916,
+    "name": "Genki Bakuhatsu Ganbaruger",
+    "english": "Energetic Bomb Ganbaruger",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/89881.jpg",
+    "link": "https://myanimelist.net/anime/2916/Genki_Bakuhatsu_Ganbaruger"
+  },
+  {
+    "id": 2923,
+    "name": "Shugo Chara!",
+    "english": "Shugo Chara!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/5061.jpg",
+    "link": "https://myanimelist.net/anime/2923/Shugo_Chara"
+  },
+  {
+    "id": 2946,
+    "name": "Angel Core: Tenshi-tachi no Sumika",
+    "english": "Angel Core",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/20007.jpg",
+    "link": "https://myanimelist.net/anime/2946/Angel_Core__Tenshi-tachi_no_Sumika"
+  },
+  {
+    "id": 2985,
+    "name": "Majin Tantei Nougami Neuro",
+    "english": "Neuro: Supernatural Detective",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/20930.jpg",
+    "link": "https://myanimelist.net/anime/2985/Majin_Tantei_Nougami_Neuro"
+  },
+  {
+    "id": 3019,
+    "name": "Lupin III: Kiri no Elusive",
+    "english": "Lupin III: Elusiveness of the Fog",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/34793.jpg",
+    "link": "https://myanimelist.net/anime/3019/Lupin_III__Kiri_no_Elusive"
+  },
+  {
+    "id": 3021,
+    "name": "Yume Senshi Wingman",
+    "english": "Wingman",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75183.jpg",
+    "link": "https://myanimelist.net/anime/3021/Yume_Senshi_Wingman"
+  },
+  {
+    "id": 3022,
+    "name": "Haai Step Jun",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/73332.jpg",
+    "link": "https://myanimelist.net/anime/3022/Haai_Step_Jun"
+  },
+  {
+    "id": 3023,
+    "name": "Esper Mami",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/61395.jpg",
+    "link": "https://myanimelist.net/anime/3023/Esper_Mami"
+  },
+  {
+    "id": 3025,
+    "name": "Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1113/92580.jpg",
+    "link": "https://myanimelist.net/anime/3025/Dragon_Slayer_Eiyuu_Densetsu__Ouji_no_Tabidachi"
+  },
+  {
+    "id": 3027,
+    "name": "Hokuto no Ken: Yuria-den",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/29633.jpg",
+    "link": "https://myanimelist.net/anime/3027/Hokuto_no_Ken__Yuria-den"
+  },
+  {
+    "id": 3031,
+    "name": "Digimon Frontier: Ornismon Fukkatsu!!",
+    "english": "Digimon Frontier: Island of Lost Digimon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/4416.jpg",
+    "link": "https://myanimelist.net/anime/3031/Digimon_Frontier__Ornismon_Fukkatsu"
+  },
+  {
+    "id": 3033,
+    "name": "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "english": "Digimon Tamers: Runaway Locomon",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/4418.jpg",
+    "link": "https://myanimelist.net/anime/3033/Digimon_Tamers__Bousou_Digimon_Tokkyuu"
+  },
+  {
+    "id": 3061,
+    "name": "Kishin Heidan",
+    "english": "Kishin Corps",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/24492.jpg",
+    "link": "https://myanimelist.net/anime/3061/Kishin_Heidan"
+  },
+  {
+    "id": 3063,
+    "name": "Gakuen Sodom",
+    "english": "Professor Pain",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/50053.jpg",
+    "link": "https://myanimelist.net/anime/3063/Gakuen_Sodom"
+  },
+  {
+    "id": 3108,
+    "name": "Miboujin: Numeriau Nikuyoku to Midara ni Nureru Mitsusubo",
+    "english": "Widow",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/41553.jpg",
+    "link": "https://myanimelist.net/anime/3108/Miboujin__Numeriau_Nikuyoku_to_Midara_ni_Nureru_Mitsusubo"
+  },
+  {
+    "id": 3147,
+    "name": "Me gumi no Daigo: Kajiba no Baka Yarou",
+    "english": "Daigo of Fire Company",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/35353.jpg",
+    "link": "https://myanimelist.net/anime/3147/Me_gumi_no_Daigo__Kajiba_no_Baka_Yarou"
+  },
+  {
+    "id": 3166,
+    "name": "Ayakashi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/20942.jpg",
+    "link": "https://myanimelist.net/anime/3166/Ayakashi"
+  },
+  {
+    "id": 3463,
+    "name": "A.LI.CE",
+    "english": "A.LI.CE",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/5762.jpg",
+    "link": "https://myanimelist.net/anime/3463/ALICE"
+  },
+  {
+    "id": 3467,
+    "name": "Nogizaka Haruka no Himitsu",
+    "english": "Haruka Nogizaka's Secret",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/56965.jpg",
+    "link": "https://myanimelist.net/anime/3467/Nogizaka_Haruka_no_Himitsu"
+  },
+  {
+    "id": 3522,
+    "name": "Choujin Locke",
+    "english": "Locke the Superman",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/22633.jpg",
+    "link": "https://myanimelist.net/anime/3522/Choujin_Locke"
+  },
+  {
+    "id": 3530,
+    "name": "Virtuacall 2",
+    "english": "Virtuacall",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/5915.jpg",
+    "link": "https://myanimelist.net/anime/3530/Virtuacall_2"
+  },
+  {
+    "id": 3556,
+    "name": "Soukan Rensa",
+    "english": "Secret Sex Stories",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/5967.jpg",
+    "link": "https://myanimelist.net/anime/3556/Soukan_Rensa"
+  },
+  {
+    "id": 3564,
+    "name": "Pianist",
+    "english": "The Pianist",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/5983.jpg",
+    "link": "https://myanimelist.net/anime/3564/Pianist"
+  },
+  {
+    "id": 3566,
+    "name": "Hika Ryoujoku: Wana ni Hamatta Futari",
+    "english": "Hika Ryoujoku: The Lust of Shame",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/48763.jpg",
+    "link": "https://myanimelist.net/anime/3566/Hika_Ryoujoku__Wana_ni_Hamatta_Futari"
+  },
+  {
+    "id": 3569,
+    "name": "Injuu Seisen: Twin Angels",
+    "english": "Twin Angels (1)",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/41631.jpg",
+    "link": "https://myanimelist.net/anime/3569/Injuu_Seisen__Twin_Angels"
+  },
+  {
+    "id": 3575,
+    "name": "Sugai-kun to Kazoku Ishi The Movie",
+    "english": "Sguy and the Family Stone the Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/6014.jpg",
+    "link": "https://myanimelist.net/anime/3575/Sugai-kun_to_Kazoku_Ishi_The_Movie"
+  },
+  {
+    "id": 3603,
+    "name": "JoJo no Kimyou na Bouken: Phantom Blood",
+    "english": "JoJo's Bizarre Adventure: Phantom Blood",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/50055.jpg",
+    "link": "https://myanimelist.net/anime/3603/JoJo_no_Kimyou_na_Bouken__Phantom_Blood"
+  },
+  {
+    "id": 3609,
+    "name": "Kikou Kantai Dairugger XV",
+    "english": "Armored Fleet Dairugger XV",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/6136.jpg",
+    "link": "https://myanimelist.net/anime/3609/Kikou_Kantai_Dairugger_XV"
+  },
+  {
+    "id": 3646,
+    "name": "Glass no Usagi",
+    "english": "Glass Rabbit",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/6293.jpg",
+    "link": "https://myanimelist.net/anime/3646/Glass_no_Usagi"
+  },
+  {
+    "id": 3710,
+    "name": "Hakaba Kitarou",
+    "english": "Graveyard Kitaro",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1856/92125.jpg",
+    "link": "https://myanimelist.net/anime/3710/Hakaba_Kitarou"
+  },
+  {
+    "id": 3723,
+    "name": "Koala Boy Kokki",
+    "english": "The Adventures of the Little Koala",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/10364.jpg",
+    "link": "https://myanimelist.net/anime/3723/Koala_Boy_Kokki"
+  },
+  {
+    "id": 3764,
+    "name": "Chouon Senshi Borgman 2: Shin Seiki 2058",
+    "english": "Sonic Soldier Borgman 2: New Century 2058",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/6672.jpg",
+    "link": "https://myanimelist.net/anime/3764/Chouon_Senshi_Borgman_2__Shin_Seiki_2058"
+  },
+  {
+    "id": 3826,
+    "name": "Zero no Mono",
+    "english": "Zero no Mono",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/49053.jpg",
+    "link": "https://myanimelist.net/anime/3826/Zero_no_Mono"
+  },
+  {
+    "id": 3887,
+    "name": "Ookiku Furikabutte Special",
+    "english": "Big Windup!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/19763.jpg",
+    "link": "https://myanimelist.net/anime/3887/Ookiku_Furikabutte_Special"
+  },
+  {
+    "id": 4023,
+    "name": "Kitty's Paradise",
+    "english": "Hello Kitty's Paradise",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/29203.jpg",
+    "link": "https://myanimelist.net/anime/4023/Kittys_Paradise"
+  },
+  {
+    "id": 4028,
+    "name": "Slayers Revolution",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/20940.jpg",
+    "link": "https://myanimelist.net/anime/4028/Slayers_Revolution"
+  },
+  {
+    "id": 4050,
+    "name": "Kouchuu Ouja Mushiking: Mori no Tami no Densetsu",
+    "english": "Mushiking: The Guardians of the Forest",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/23618.jpg",
+    "link": "https://myanimelist.net/anime/4050/Kouchuu_Ouja_Mushiking__Mori_no_Tami_no_Densetsu"
+  },
+  {
+    "id": 4054,
+    "name": "Norimono Oukoku BuBu ChaCha",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/63221.jpg",
+    "link": "https://myanimelist.net/anime/4054/Norimono_Oukoku_BuBu_ChaCha"
+  },
+  {
+    "id": 4087,
+    "name": "Michiko to Hatchin",
+    "english": "Michiko & Hatchin",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/59535.jpg",
+    "link": "https://myanimelist.net/anime/4087/Michiko_to_Hatchin"
+  },
+  {
+    "id": 4091,
+    "name": "Kagami no Genon",
+    "english": "sound / phantasma / mirror",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/7467.jpg",
+    "link": "https://myanimelist.net/anime/4091/Kagami_no_Genon"
+  },
+  {
+    "id": 4095,
+    "name": "Chuumon no Ooi Ryouriten (1991)",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/7479.jpg",
+    "link": "https://myanimelist.net/anime/4095/Chuumon_no_Ooi_Ryouriten_1991"
+  },
+  {
+    "id": 4096,
+    "name": "Mizu no Tane",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/7480.jpg",
+    "link": "https://myanimelist.net/anime/4096/Mizu_no_Tane"
+  },
+  {
+    "id": 4101,
+    "name": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/7489.jpg",
+    "link": "https://myanimelist.net/anime/4101/Wan_Wan_Celepoo_Soreyuke_Tetsunoshin"
+  },
+  {
+    "id": 4104,
+    "name": "Mini Moni the TV",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/7500.jpg",
+    "link": "https://myanimelist.net/anime/4104/Mini_Moni_the_TV"
+  },
+  {
+    "id": 4130,
+    "name": "Petit Eva: Evangelion@School",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/7593.jpg",
+    "link": "https://myanimelist.net/anime/4130/Petit_Eva__EvangelionSchool"
+  },
+  {
+    "id": 4131,
+    "name": "Twin Bee Paradise",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/7594.jpg",
+    "link": "https://myanimelist.net/anime/4131/Twin_Bee_Paradise"
+  },
+  {
+    "id": 4176,
+    "name": "Wanna-Be's",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1540/93055.jpg",
+    "link": "https://myanimelist.net/anime/4176/Wanna-Bes"
+  },
+  {
+    "id": 4181,
+    "name": "Clannad: After Story",
+    "english": "Clannad ~After Story~",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/24647.jpg",
+    "link": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+  },
+  {
+    "id": 4186,
+    "name": "Chrome Shelled Regios",
+    "english": "Chrome Shelled Regios",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/12238.jpg",
+    "link": "https://myanimelist.net/anime/4186/Chrome_Shelled_Regios"
+  },
+  {
+    "id": 4188,
+    "name": "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/9329.jpg",
+    "link": "https://myanimelist.net/anime/4188/Mahou_Sensei_Negima_Shiroki_Tsubasa_Ala_Alba"
+  },
+  {
+    "id": 4262,
+    "name": "Koihime†Musou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/20740.jpg",
+    "link": "https://myanimelist.net/anime/4262/Koihime†Musou"
+  },
+  {
+    "id": 4266,
+    "name": "Vie Durant",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/24039.jpg",
+    "link": "https://myanimelist.net/anime/4266/Vie_Durant"
+  },
+  {
+    "id": 4398,
+    "name": "Kuro Nyago",
+    "english": "The Black Cat",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/71472.jpg",
+    "link": "https://myanimelist.net/anime/4398/Kuro_Nyago"
+  },
+  {
+    "id": 4437,
+    "name": "Naruto: Shippuuden Movie 2 - Kizuna",
+    "english": "Naruto: Shippuden the Movie 2 -Bonds-",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/17830.jpg",
+    "link": "https://myanimelist.net/anime/4437/Naruto__Shippuuden_Movie_2_-_Kizuna"
+  },
+  {
+    "id": 4440,
+    "name": "Sugata Sanshirou",
+    "english": "Judo Story",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/8447.jpg",
+    "link": "https://myanimelist.net/anime/4440/Sugata_Sanshirou"
+  },
+  {
+    "id": 4447,
+    "name": "Detective Conan Movie 12: Full Score of Fear",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/22766.jpg",
+    "link": "https://myanimelist.net/anime/4447/Detective_Conan_Movie_12__Full_Score_of_Fear"
+  },
+  {
+    "id": 4450,
+    "name": "Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza",
+    "english": "Chrono Crusade: Azmaria's Lessons",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/10060.jpg",
+    "link": "https://myanimelist.net/anime/4450/Chrno_Crusade__Az_demo_Wakaru_Chrno_Crusade_Kouza"
+  },
+  {
+    "id": 4461,
+    "name": "Kouchou-sensei to Kujira",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/23196.jpg",
+    "link": "https://myanimelist.net/anime/4461/Kouchou-sensei_to_Kujira"
+  },
+  {
+    "id": 4489,
+    "name": "Septem Charm Magical Kanan: SP Summer Camp",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/41695.jpg",
+    "link": "https://myanimelist.net/anime/4489/Septem_Charm_Magical_Kanan__SP_Summer_Camp"
+  },
+  {
+    "id": 4533,
+    "name": "Uchuu Kazoku Carlvinson",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/25606.jpg",
+    "link": "https://myanimelist.net/anime/4533/Uchuu_Kazoku_Carlvinson"
+  },
+  {
+    "id": 4537,
+    "name": "Yagami-kun no Katei no Jijou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/8713.jpg",
+    "link": "https://myanimelist.net/anime/4537/Yagami-kun_no_Katei_no_Jijou"
+  },
+  {
+    "id": 4540,
+    "name": "Gundam: Mission to the Rise",
+    "english": "Gundam: Mission To The Rise",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/8685.jpg",
+    "link": "https://myanimelist.net/anime/4540/Gundam__Mission_to_the_Rise"
+  },
+  {
+    "id": 4541,
+    "name": "Vicious",
+    "english": "Vicious",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/8688.jpg",
+    "link": "https://myanimelist.net/anime/4541/Vicious"
+  },
+  {
+    "id": 4547,
+    "name": "RoboDz",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/8715.jpg",
+    "link": "https://myanimelist.net/anime/4547/RoboDz"
+  },
+  {
+    "id": 4548,
+    "name": "Yozakura Quartet",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/74266.jpg",
+    "link": "https://myanimelist.net/anime/4548/Yozakura_Quartet"
+  },
+  {
+    "id": 4553,
+    "name": "Sukima no Kuni no Polta",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/8721.jpg",
+    "link": "https://myanimelist.net/anime/4553/Sukima_no_Kuni_no_Polta"
+  },
+  {
+    "id": 4556,
+    "name": "Mirai Choujuu Fobia",
+    "english": "Fobia",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/63359.jpg",
+    "link": "https://myanimelist.net/anime/4556/Mirai_Choujuu_Fobia"
+  },
+  {
+    "id": 4597,
+    "name": "Kouya no Shounen Isamu",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/54387.jpg",
+    "link": "https://myanimelist.net/anime/4597/Kouya_no_Shounen_Isamu"
+  },
+  {
+    "id": 4598,
+    "name": "Urikupen Kyuujo-tai",
+    "english": "Urikupen Rescue Team",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/8798.jpg",
+    "link": "https://myanimelist.net/anime/4598/Urikupen_Kyuujo-tai"
+  },
+  {
+    "id": 4599,
+    "name": "Tanoshii Willow Town",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/15394.jpg",
+    "link": "https://myanimelist.net/anime/4599/Tanoshii_Willow_Town"
+  },
+  {
+    "id": 4603,
+    "name": "Kibun Kibun",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/22828.jpg",
+    "link": "https://myanimelist.net/anime/4603/Kibun_Kibun"
+  },
+  {
+    "id": 4645,
+    "name": "Kirameki no Kyoudai: Sex Crime",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/8878.jpg",
+    "link": "https://myanimelist.net/anime/4645/Kirameki_no_Kyoudai__Sex_Crime"
+  },
+  {
+    "id": 4664,
+    "name": "Rurouni Kenshin: Special Techniques",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/8997.jpg",
+    "link": "https://myanimelist.net/anime/4664/Rurouni_Kenshin__Special_Techniques"
+  },
+  {
+    "id": 4672,
+    "name": "Ghost in the Shell 2.0",
+    "english": "Ghost in the Shell 2.0",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/75608.jpg",
+    "link": "https://myanimelist.net/anime/4672/Ghost_in_the_Shell_20"
+  },
+  {
+    "id": 4712,
+    "name": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/61029.jpg",
+    "link": "https://myanimelist.net/anime/4712/Digimon_Savers__Agumon_Gaomon_Lalamon_Bakuretsu_Jougai_Last_Battle"
+  },
+  {
+    "id": 4714,
+    "name": "The Rapeman",
+    "english": "The Rapeman",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/51347.jpg",
+    "link": "https://myanimelist.net/anime/4714/The_Rapeman"
+  },
+  {
+    "id": 4719,
+    "name": "Queen's Blade: Rurou no Senshi",
+    "english": "Queen's Blade: The Exiled Virgin",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/12410.jpg",
+    "link": "https://myanimelist.net/anime/4719/Queens_Blade__Rurou_no_Senshi"
+  },
+  {
+    "id": 4722,
+    "name": "Skip Beat!",
+    "english": "Skip Beat!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/84022.jpg",
+    "link": "https://myanimelist.net/anime/4722/Skip_Beat"
+  },
+  {
+    "id": 4733,
+    "name": "Blue Remains",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/85928.jpg",
+    "link": "https://myanimelist.net/anime/4733/Blue_Remains"
+  },
+  {
+    "id": 4765,
+    "name": "Gunslinger Girl: Il Teatrino OVA",
+    "english": "Gunslinger Girl: Il Teatrino OVA",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/12641.jpg",
+    "link": "https://myanimelist.net/anime/4765/Gunslinger_Girl__Il_Teatrino_OVA"
+  },
+  {
+    "id": 4773,
+    "name": "Yamato Takeru",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/20270.jpg",
+    "link": "https://myanimelist.net/anime/4773/Yamato_Takeru"
+  },
+  {
+    "id": 4854,
+    "name": "Fuuma no Kojirou: Yasha-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/30871.jpg",
+    "link": "https://myanimelist.net/anime/4854/Fuuma_no_Kojirou__Yasha-hen"
+  },
+  {
+    "id": 4879,
+    "name": "Mouryou no Hako",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/75492.jpg",
+    "link": "https://myanimelist.net/anime/4879/Mouryou_no_Hako"
+  },
+  {
+    "id": 4981,
+    "name": "Casshern Sins",
+    "english": "Casshern Sins",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/23336.jpg",
+    "link": "https://myanimelist.net/anime/4981/Casshern_Sins"
+  },
+  {
+    "id": 4999,
+    "name": "Asu no Yoichi!",
+    "english": "Samurai Harem",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/20621.jpg",
+    "link": "https://myanimelist.net/anime/4999/Asu_no_Yoichi"
+  },
+  {
+    "id": 5005,
+    "name": "Tentai Senshi Sunred",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/11740.jpg",
+    "link": "https://myanimelist.net/anime/5005/Tentai_Senshi_Sunred"
+  },
+  {
+    "id": 5006,
+    "name": "Nagagutsu Sanjuushi",
+    "english": "Return of Pero",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/9746.jpg",
+    "link": "https://myanimelist.net/anime/5006/Nagagutsu_Sanjuushi"
+  },
+  {
+    "id": 5013,
+    "name": "Juugo Shounen Hyouryuuki",
+    "english": "Adrift in the Pacific",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/9763.jpg",
+    "link": "https://myanimelist.net/anime/5013/Juugo_Shounen_Hyouryuuki"
+  },
+  {
+    "id": 5014,
+    "name": "Sango Shou Densetsu: Aoi Umi no Elfie",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/53613.jpg",
+    "link": "https://myanimelist.net/anime/5014/Sango_Shou_Densetsu__Aoi_Umi_no_Elfie"
+  },
+  {
+    "id": 5019,
+    "name": "Lupin III: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/14156.jpg",
+    "link": "https://myanimelist.net/anime/5019/Lupin_III__Sweet_Lost_Night_-_Mahou_no_Lamp_wa_Akumu_no_Yokan"
+  },
+  {
+    "id": 5020,
+    "name": "Zettai Shougeki: Platonic Heart",
+    "english": "Master of Martial Hearts",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/24959.jpg",
+    "link": "https://myanimelist.net/anime/5020/Zettai_Shougeki__Platonic_Heart"
+  },
+  {
+    "id": 5028,
+    "name": "Major S5",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/75218.jpg",
+    "link": "https://myanimelist.net/anime/5028/Major_S5"
+  },
+  {
+    "id": 5029,
+    "name": "Major Movie: Yuujou no Winning Shot",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/75221.jpg",
+    "link": "https://myanimelist.net/anime/5029/Major_Movie__Yuujou_no_Winning_Shot"
+  },
+  {
+    "id": 5054,
+    "name": "Kojin Jugyou The Animation: Schoolgirl Ready for a Private Lesson",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/29383.jpg",
+    "link": "https://myanimelist.net/anime/5054/Kojin_Jugyou_The_Animation__Schoolgirl_Ready_for_a_Private_Lesson"
+  },
+  {
+    "id": 5088,
+    "name": "Fabre-sensei wa Meitantei",
+    "english": "Dr. Fabre is a Detective",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/25534.jpg",
+    "link": "https://myanimelist.net/anime/5088/Fabre-sensei_wa_Meitantei"
+  },
+  {
+    "id": 5101,
+    "name": "Doutei Kawaiya",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/51375.jpg",
+    "link": "https://myanimelist.net/anime/5101/Doutei_Kawaiya"
+  },
+  {
+    "id": 5107,
+    "name": "Balthus: Tia no Kagayaki",
+    "english": "Balthus: Tia's Radiance",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/86006.jpg",
+    "link": "https://myanimelist.net/anime/5107/Balthus__Tia_no_Kagayaki"
+  },
+  {
+    "id": 5133,
+    "name": "100-man-nen Chikyuu no Tabi: Bander Book",
+    "english": "One-Million Year Trip: Bander Book",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/56777.jpg",
+    "link": "https://myanimelist.net/anime/5133/100-man-nen_Chikyuu_no_Tabi__Bander_Book"
+  },
+  {
+    "id": 5196,
+    "name": "Aria The Origination Picture Drama",
+    "english": "Aria The Origination Picture Drama",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/36237.jpg",
+    "link": "https://myanimelist.net/anime/5196/Aria_The_Origination_Picture_Drama"
+  },
+  {
+    "id": 5214,
+    "name": "Gakuen Shimai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/10407.jpg",
+    "link": "https://myanimelist.net/anime/5214/Gakuen_Shimai"
+  },
+  {
+    "id": 5216,
+    "name": "D.C.if: Da Capo if",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/25445.jpg",
+    "link": "https://myanimelist.net/anime/5216/DCif__Da_Capo_if"
+  },
+  {
+    "id": 5220,
+    "name": "Shangri-La",
+    "english": "Shangri-La",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/77061.jpg",
+    "link": "https://myanimelist.net/anime/5220/Shangri-La"
+  },
+  {
+    "id": 5231,
+    "name": "Inazuma Eleven",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/17917.jpg",
+    "link": "https://myanimelist.net/anime/5231/Inazuma_Eleven"
+  },
+  {
+    "id": 5273,
+    "name": "Miracle Giants Doumu-kun",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/29829.jpg",
+    "link": "https://myanimelist.net/anime/5273/Miracle_Giants_Doumu-kun"
+  },
+  {
+    "id": 5279,
+    "name": "Sekirei: Hajimete no Otsukai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/22580.jpg",
+    "link": "https://myanimelist.net/anime/5279/Sekirei__Hajimete_no_Otsukai"
+  },
+  {
+    "id": 5316,
+    "name": "Rape! Rape! Rape!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/10759.jpg",
+    "link": "https://myanimelist.net/anime/5316/Rape_Rape_Rape"
+  },
+  {
+    "id": 5321,
+    "name": "Futari no Aniyome",
+    "english": "Destined for Love",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/41685.jpg",
+    "link": "https://myanimelist.net/anime/5321/Futari_no_Aniyome"
+  },
+  {
+    "id": 5324,
+    "name": "Yakin Byoutou Kranke",
+    "english": "Night Shift Nurses: Kranke",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/29844.jpg",
+    "link": "https://myanimelist.net/anime/5324/Yakin_Byoutou_Kranke"
+  },
+  {
+    "id": 5330,
+    "name": "Alice in Cyberland",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/10746.jpg",
+    "link": "https://myanimelist.net/anime/5330/Alice_in_Cyberland"
+  },
+  {
+    "id": 5333,
+    "name": "Ikkitousen: Great Guardians Specials",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/10756.jpg",
+    "link": "https://myanimelist.net/anime/5333/Ikkitousen__Great_Guardians_Specials"
+  },
+  {
+    "id": 5343,
+    "name": "Monkey Punch: Manga Katsudou Daishashin",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/10873.jpg",
+    "link": "https://myanimelist.net/anime/5343/Monkey_Punch__Manga_Katsudou_Daishashin"
+  },
+  {
+    "id": 5347,
+    "name": "Bible Black: Imari Ryoujoku Genba",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/10890.jpg",
+    "link": "https://myanimelist.net/anime/5347/Bible_Black__Imari_Ryoujoku_Genba"
+  },
+  {
+    "id": 5348,
+    "name": "Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/10891.jpg",
+    "link": "https://myanimelist.net/anime/5348/Detective_Conan_Magic_File_2__Kudou_Shinichi_-_The_Case_of_the_Mysterious_Wall_and_the_Black_Lab"
+  },
+  {
+    "id": 5351,
+    "name": "Mobile Suit Gundam 00: Tenshitachi no Kiseki",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/54435.jpg",
+    "link": "https://myanimelist.net/anime/5351/Mobile_Suit_Gundam_00__Tenshitachi_no_Kiseki"
+  },
+  {
+    "id": 5353,
+    "name": "Chameleon (OVA)",
+    "english": "Bite me!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/10924.jpg",
+    "link": "https://myanimelist.net/anime/5353/Chameleon_OVA"
+  },
+  {
+    "id": 5372,
+    "name": "Seisenshi Dunbine OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/11015.jpg",
+    "link": "https://myanimelist.net/anime/5372/Seisenshi_Dunbine_OVA"
+  },
+  {
+    "id": 5374,
+    "name": "Miracle! Mimika",
+    "english": "Miracle! Mimika",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/10993.jpg",
+    "link": "https://myanimelist.net/anime/5374/Miracle_Mimika"
+  },
+  {
+    "id": 5386,
+    "name": "Miyamoto Musashi: Souken ni Haseru Yume",
+    "english": "Musashi: The Dream of the Last Samurai",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/15118.jpg",
+    "link": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume"
+  },
+  {
+    "id": 5393,
+    "name": "Soushitsukyou",
+    "english": "Soushitsukyou",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/11024.jpg",
+    "link": "https://myanimelist.net/anime/5393/Soushitsukyou"
+  },
+  {
+    "id": 5478,
+    "name": "Bikkuriman 2000",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/11368.jpg",
+    "link": "https://myanimelist.net/anime/5478/Bikkuriman_2000"
+  },
+  {
+    "id": 5484,
+    "name": "Wagaya no Oinari-sama. Specials",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/61001.jpg",
+    "link": "https://myanimelist.net/anime/5484/Wagaya_no_Oinari-sama_Specials"
+  },
+  {
+    "id": 5485,
+    "name": "Shin Mazinger Shougeki! Z-hen",
+    "english": "Mazinger Edition Z: The Impact!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/13784.jpg",
+    "link": "https://myanimelist.net/anime/5485/Shin_Mazinger_Shougeki_Z-hen"
+  },
+  {
+    "id": 5504,
+    "name": "Shinkyoku Soukai Polyphonica Crimson S",
+    "english": "Polyphonica Crimson S",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/13591.jpg",
+    "link": "https://myanimelist.net/anime/5504/Shinkyoku_Soukai_Polyphonica_Crimson_S"
+  },
+  {
+    "id": 5542,
+    "name": "Telepathist IQ Saiko",
+    "english": "IQ Psycho",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/11486.jpg",
+    "link": "https://myanimelist.net/anime/5542/Telepathist_IQ_Saiko"
+  },
+  {
+    "id": 5545,
+    "name": "Heisei Jogakuen Kagai Lesson",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/51357.jpg",
+    "link": "https://myanimelist.net/anime/5545/Heisei_Jogakuen_Kagai_Lesson"
+  },
+  {
+    "id": 5546,
+    "name": "Ecchi de Happy! Pin! Pin! Pin!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/11527.jpg",
+    "link": "https://myanimelist.net/anime/5546/Ecchi_de_Happy_Pin_Pin_Pin"
+  },
+  {
+    "id": 5547,
+    "name": "Kateikyoushi Bishounen Kari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/11490.jpg",
+    "link": "https://myanimelist.net/anime/5547/Kateikyoushi_Bishounen_Kari"
+  },
+  {
+    "id": 5549,
+    "name": "Dengeki Oshioki Musume Gootaman R: Ai to Kanashimi no Final Battle",
+    "english": "Butt Attack Punisher Girl Gautaman R",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/11492.jpg",
+    "link": "https://myanimelist.net/anime/5549/Dengeki_Oshioki_Musume_Gootaman_R__Ai_to_Kanashimi_no_Final_Battle"
+  },
+  {
+    "id": 5553,
+    "name": "Love Forever",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/51329.jpg",
+    "link": "https://myanimelist.net/anime/5553/Love_Forever"
+  },
+  {
+    "id": 5589,
+    "name": "Offside Girl",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/11546.jpg",
+    "link": "https://myanimelist.net/anime/5589/Offside_Girl"
+  },
+  {
+    "id": 5606,
+    "name": "Ryoujoku Joshi Gakuen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/11577.jpg",
+    "link": "https://myanimelist.net/anime/5606/Ryoujoku_Joshi_Gakuen"
+  },
+  {
+    "id": 5607,
+    "name": "Love Machine: Animaid Shoufu 23-gou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/11578.jpg",
+    "link": "https://myanimelist.net/anime/5607/Love_Machine__Animaid_Shoufu_23-gou"
+  },
+  {
+    "id": 5608,
+    "name": "Onna Kyoushi: Nikutai Jugyou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/11579.jpg",
+    "link": "https://myanimelist.net/anime/5608/Onna_Kyoushi__Nikutai_Jugyou"
+  },
+  {
+    "id": 5609,
+    "name": "Emi to Yobanaide",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/11580.jpg",
+    "link": "https://myanimelist.net/anime/5609/Emi_to_Yobanaide"
+  },
+  {
+    "id": 5610,
+    "name": "Rasen Kairou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/53403.jpg",
+    "link": "https://myanimelist.net/anime/5610/Rasen_Kairou"
+  },
+  {
+    "id": 5611,
+    "name": "Ayatsuri Ningyou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/11582.jpg",
+    "link": "https://myanimelist.net/anime/5611/Ayatsuri_Ningyou"
+  },
+  {
+    "id": 5612,
+    "name": "Terra Story",
+    "english": "TriAngle",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/11583.jpg",
+    "link": "https://myanimelist.net/anime/5612/Terra_Story"
+  },
+  {
+    "id": 5687,
+    "name": "Doura",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/11800.jpg",
+    "link": "https://myanimelist.net/anime/5687/Doura"
+  },
+  {
+    "id": 5689,
+    "name": "Eien no Filena",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/11803.jpg",
+    "link": "https://myanimelist.net/anime/5689/Eien_no_Filena"
+  },
+  {
+    "id": 5809,
+    "name": "Kupu~!! Mamegoma!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/19916.jpg",
+    "link": "https://myanimelist.net/anime/5809/Kupu_Mamegoma"
+  },
+  {
+    "id": 5828,
+    "name": "Kishin Douji Zenki Gaiden: Anki Kitan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/1468/92571.jpg",
+    "link": "https://myanimelist.net/anime/5828/Kishin_Douji_Zenki_Gaiden__Anki_Kitan"
+  },
+  {
+    "id": 5835,
+    "name": "Hanasakeru Seishounen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/22695.jpg",
+    "link": "https://myanimelist.net/anime/5835/Hanasakeru_Seishounen"
+  },
+  {
+    "id": 5984,
+    "name": "Ristorante Paradiso",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/17488.jpg",
+    "link": "https://myanimelist.net/anime/5984/Ristorante_Paradiso"
+  },
+  {
+    "id": 6016,
+    "name": "Kyoushoku Soukou Guyver (1989)",
+    "english": "The Guyver: Bio-Booster Armor",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/13102.jpg",
+    "link": "https://myanimelist.net/anime/6016/Kyoushoku_Soukou_Guyver_1989"
+  },
+  {
+    "id": 6041,
+    "name": "Honoo no Haramase Doukyuusei",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/13159.jpg",
+    "link": "https://myanimelist.net/anime/6041/Honoo_no_Haramase_Doukyuusei"
+  },
+  {
+    "id": 6060,
+    "name": "Ichigatsu ni wa Christmas",
+    "english": "Christmas in January",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/46845.jpg",
+    "link": "https://myanimelist.net/anime/6060/Ichigatsu_ni_wa_Christmas"
+  },
+  {
+    "id": 6061,
+    "name": "Maryuu Senki",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/13235.jpg",
+    "link": "https://myanimelist.net/anime/6061/Maryuu_Senki"
+  },
+  {
+    "id": 6062,
+    "name": "Duel Masters Movie 2: Lunatic God Saga",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/58455.jpg",
+    "link": "https://myanimelist.net/anime/6062/Duel_Masters_Movie_2__Lunatic_God_Saga"
+  },
+  {
+    "id": 6063,
+    "name": "Penguin no Mondai Movie",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/61285.jpg",
+    "link": "https://myanimelist.net/anime/6063/Penguin_no_Mondai_Movie"
+  },
+  {
+    "id": 6067,
+    "name": "Moeru! Oniisan",
+    "english": "The Burning Wild Man",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/13295.jpg",
+    "link": "https://myanimelist.net/anime/6067/Moeru_Oniisan"
+  },
+  {
+    "id": 6148,
+    "name": "Yurumates",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/13506.jpg",
+    "link": "https://myanimelist.net/anime/6148/Yurumates"
+  },
+  {
+    "id": 6149,
+    "name": "Chibi Maruko-chan (1995)",
+    "english": "Little Miss Maruko",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/13508.jpg",
+    "link": "https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995"
+  },
+  {
+    "id": 6151,
+    "name": "Final Fantasy VII: On the Way to a Smile - Episode: Denzel",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/51623.jpg",
+    "link": "https://myanimelist.net/anime/6151/Final_Fantasy_VII__On_the_Way_to_a_Smile_-_Episode__Denzel"
+  },
+  {
+    "id": 6153,
+    "name": "Saint Seiya Recap",
+    "english": "Saint Seiya: Summary",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/55471.jpg",
+    "link": "https://myanimelist.net/anime/6153/Saint_Seiya_Recap"
+  },
+  {
+    "id": 6201,
+    "name": "Princess Lover!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/75519.jpg",
+    "link": "https://myanimelist.net/anime/6201/Princess_Lover"
+  },
+  {
+    "id": 6310,
+    "name": "Kinnikuman II Sei: Second Generations",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/14142.jpg",
+    "link": "https://myanimelist.net/anime/6310/Kinnikuman_II_Sei__Second_Generations"
+  },
+  {
+    "id": 6312,
+    "name": "Taiho Shichau zo: Full Throttle Special",
+    "english": "You're Under Arrest: Full Throttle Special",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/22541.jpg",
+    "link": "https://myanimelist.net/anime/6312/Taiho_Shichau_zo__Full_Throttle_Special"
+  },
+  {
+    "id": 6444,
+    "name": "Tegamibachi",
+    "english": "Tegami Bachi: Letter Bee",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/71808.jpg",
+    "link": "https://myanimelist.net/anime/6444/Tegamibachi"
+  },
+  {
+    "id": 6463,
+    "name": "Hoshi wo Katta Hi",
+    "english": "The Day I Bought a Star",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/38233.jpg",
+    "link": "https://myanimelist.net/anime/6463/Hoshi_wo_Katta_Hi"
+  },
+  {
+    "id": 6553,
+    "name": "Junjou Romantica Special",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/14958.jpg",
+    "link": "https://myanimelist.net/anime/6553/Junjou_Romantica_Special"
+  },
+  {
+    "id": 6555,
+    "name": "Pokemon: Pikachu no Kirakira Daisousaku!",
+    "english": "Pikachu's Great Sparking Search!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/25970.jpg",
+    "link": "https://myanimelist.net/anime/6555/Pokemon__Pikachu_no_Kirakira_Daisousaku"
+  },
+  {
+    "id": 6557,
+    "name": "Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/27813.jpg",
+    "link": "https://myanimelist.net/anime/6557/Fortune_Quest__Yo_ni_mo_Shiawase_na_Boukensha-tachi"
+  },
+  {
+    "id": 6558,
+    "name": "Choukou Sennin Haruka",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/37293.jpg",
+    "link": "https://myanimelist.net/anime/6558/Choukou_Sennin_Haruka"
+  },
+  {
+    "id": 6560,
+    "name": "Popee the Performer",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/15014.jpg",
+    "link": "https://myanimelist.net/anime/6560/Popee_the_Performer"
+  },
+  {
+    "id": 6607,
+    "name": "Superflat First Love",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/22274.jpg",
+    "link": "https://myanimelist.net/anime/6607/Superflat_First_Love"
+  },
+  {
+    "id": 6688,
+    "name": "Pattenrai!! Minami no Shima no Mizu Monogatari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/15373.jpg",
+    "link": "https://myanimelist.net/anime/6688/Pattenrai_Minami_no_Shima_no_Mizu_Monogatari"
+  },
+  {
+    "id": 6689,
+    "name": "Hitozuma Koukan Nikki",
+    "english": "Wife-Swap Diaries",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/41673.jpg",
+    "link": "https://myanimelist.net/anime/6689/Hitozuma_Koukan_Nikki"
+  },
+  {
+    "id": 6692,
+    "name": "Mama Puri!?",
+    "english": "Like A Mom",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/15377.jpg",
+    "link": "https://myanimelist.net/anime/6692/Mama_Puri"
+  },
+  {
+    "id": 6769,
+    "name": "Mura Matsuri",
+    "english": "Harvest Festival",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/15610.jpg",
+    "link": "https://myanimelist.net/anime/6769/Mura_Matsuri"
+  },
+  {
+    "id": 6779,
+    "name": "Pokonyan!",
+    "english": "Rocky Rackat!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/15707.jpg",
+    "link": "https://myanimelist.net/anime/6779/Pokonyan"
+  },
+  {
+    "id": 6783,
+    "name": "ef: A Tale of Memories. - Recollections",
+    "english": "ef ~ A Tale of Melodies - Recollections",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/15710.jpg",
+    "link": "https://myanimelist.net/anime/6783/ef__A_Tale_of_Memories_-_Recollections"
+  },
+  {
+    "id": 6917,
+    "name": "Tsuideni Tonchinkan",
+    "english": "Anyway, It Doesn't Matter",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/16045.jpg",
+    "link": "https://myanimelist.net/anime/6917/Tsuideni_Tonchinkan"
+  },
+  {
+    "id": 7048,
+    "name": "Crush Gear Nitro",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/16443.jpg",
+    "link": "https://myanimelist.net/anime/7048/Crush_Gear_Nitro"
+  },
+  {
+    "id": 7079,
+    "name": "Ookamikakushi",
+    "english": "Okamikakushi: Masque of the Wolf",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/21784.jpg",
+    "link": "https://myanimelist.net/anime/7079/Ookamikakushi"
+  },
+  {
+    "id": 7179,
+    "name": "Makai Tenshi Djibril 3",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/16872.jpg",
+    "link": "https://myanimelist.net/anime/7179/Makai_Tenshi_Djibril_3"
+  },
+  {
+    "id": 7268,
+    "name": "Diabolus: Kikoku",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/37413.jpg",
+    "link": "https://myanimelist.net/anime/7268/Diabolus__Kikoku"
+  },
+  {
+    "id": 7474,
+    "name": "Onegai☆Teacher: Marie, Ai no Gekijou",
+    "english": "Please Teacher: Marie Love Theater",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/17900.jpg",
+    "link": "https://myanimelist.net/anime/7474/Onegai☆Teacher__Marie_Ai_no_Gekijou"
+  },
+  {
+    "id": 7674,
+    "name": "Bakuman.",
+    "english": "Bakuman.",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/26138.jpg",
+    "link": "https://myanimelist.net/anime/7674/Bakuman"
+  },
+  {
+    "id": 7791,
+    "name": "K-On!!",
+    "english": "K-ON! Season 2",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/76121.jpg",
+    "link": "https://myanimelist.net/anime/7791/K-On"
+  },
+  {
+    "id": 8197,
+    "name": "So Ra No Wo To Specials",
+    "english": "Sound of the Sky",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/20884.jpg",
+    "link": "https://myanimelist.net/anime/8197/So_Ra_No_Wo_To_Specials"
+  },
+  {
+    "id": 8275,
+    "name": "Kanin Tokkyuu Michishio",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/21438.jpg",
+    "link": "https://myanimelist.net/anime/8275/Kanin_Tokkyuu_Michishio"
+  },
+  {
+    "id": 8332,
+    "name": "Kudan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/21959.jpg",
+    "link": "https://myanimelist.net/anime/8332/Kudan"
+  },
+  {
+    "id": 8339,
+    "name": "Kachou no Koi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/21953.jpg",
+    "link": "https://myanimelist.net/anime/8339/Kachou_no_Koi"
+  },
+  {
+    "id": 8416,
+    "name": "Bonobono",
+    "english": "Bonobono",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/22162.jpg",
+    "link": "https://myanimelist.net/anime/8416/Bonobono"
+  },
+  {
+    "id": 8476,
+    "name": "Otome Youkai Zakuro",
+    "english": "Zakuro",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/85430.jpg",
+    "link": "https://myanimelist.net/anime/8476/Otome_Youkai_Zakuro"
+  },
+  {
+    "id": 8972,
+    "name": "Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/24837.jpg",
+    "link": "https://myanimelist.net/anime/8972/Mahou_no_Princess_Minky_Momo_vs_Mahou_no_Tenshi_Creamy_Mami"
+  },
+  {
+    "id": 9002,
+    "name": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/24906.jpg",
+    "link": "https://myanimelist.net/anime/9002/True_Tears__Raigomaru_to_Jibeta_no_Monogatari"
+  },
+  {
+    "id": 9005,
+    "name": "To Heart 2 Adnext",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/75477.jpg",
+    "link": "https://myanimelist.net/anime/9005/To_Heart_2_Adnext"
+  },
+  {
+    "id": 9008,
+    "name": "Netorare Fighter Yaricchingu!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/24924.jpg",
+    "link": "https://myanimelist.net/anime/9008/Netorare_Fighter_Yaricchingu"
+  },
+  {
+    "id": 9014,
+    "name": "Kuttsukiboshi",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/25761.jpg",
+    "link": "https://myanimelist.net/anime/9014/Kuttsukiboshi"
+  },
+  {
+    "id": 9015,
+    "name": "O-bake no... Holly",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/24954.jpg",
+    "link": "https://myanimelist.net/anime/9015/O-bake_no_Holly"
+  },
+  {
+    "id": 9077,
+    "name": "Rokudenashi Blues",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/25146.jpg",
+    "link": "https://myanimelist.net/anime/9077/Rokudenashi_Blues"
+  },
+  {
+    "id": 9091,
+    "name": "Ikusa Otome Suvia Special",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/4/33431.jpg",
+    "link": "https://myanimelist.net/anime/9091/Ikusa_Otome_Suvia_Special"
+  },
+  {
+    "id": 9211,
+    "name": "Shikatte Ingo: Misaki Shunin no Buka Kyouiku-hen",
+    "english": "Scold with Dirty Words",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/78393.jpg",
+    "link": "https://myanimelist.net/anime/9211/Shikatte_Ingo__Misaki_Shunin_no_Buka_Kyouiku-hen"
+  },
+  {
+    "id": 9212,
+    "name": "Ruri-iro Princess",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/25551.jpg",
+    "link": "https://myanimelist.net/anime/9212/Ruri-iro_Princess"
+  },
+  {
+    "id": 9213,
+    "name": "Kowarekake no Orgel",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/25552.jpg",
+    "link": "https://myanimelist.net/anime/9213/Kowarekake_no_Orgel"
+  },
+  {
+    "id": 9282,
+    "name": "Duel Masters Movie 3: Honoo no Kizuna XX",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/58229.jpg",
+    "link": "https://myanimelist.net/anime/9282/Duel_Masters_Movie_3__Honoo_no_Kizuna_XX"
+  },
+  {
+    "id": 9291,
+    "name": "Hello Kitty no Cinderella",
+    "english": "Hello Kitty in Cinderella",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/72447.jpg",
+    "link": "https://myanimelist.net/anime/9291/Hello_Kitty_no_Cinderella"
+  },
+  {
+    "id": 9341,
+    "name": "Try Z",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/25872.jpg",
+    "link": "https://myanimelist.net/anime/9341/Try_Z"
+  },
+  {
+    "id": 9584,
+    "name": "Kappa no Sanpei",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/26558.jpg",
+    "link": "https://myanimelist.net/anime/9584/Kappa_no_Sanpei"
+  },
+  {
+    "id": 9624,
+    "name": "30-sai no Hoken Taiiku",
+    "english": "A Thirty-Year Old's Health and Physical Education",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/81172.jpg",
+    "link": "https://myanimelist.net/anime/9624/30-sai_no_Hoken_Taiiku"
+  },
+  {
+    "id": 9665,
+    "name": "Bucchigiri",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/62251.jpg",
+    "link": "https://myanimelist.net/anime/9665/Bucchigiri"
+  },
+  {
+    "id": 9689,
+    "name": "Agukaru",
+    "english": "Agriculture Angel BARAKI",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/8/26860.jpg",
+    "link": "https://myanimelist.net/anime/9689/Agukaru"
+  },
+  {
+    "id": 9691,
+    "name": "Kyomu Senshi Miroku",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/71239.jpg",
+    "link": "https://myanimelist.net/anime/9691/Kyomu_Senshi_Miroku"
+  },
+  {
+    "id": 9789,
+    "name": "Nezumi Monogatari: George to Gerald no Bouken",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/27098.jpg",
+    "link": "https://myanimelist.net/anime/9789/Nezumi_Monogatari__George_to_Gerald_no_Bouken"
+  },
+  {
+    "id": 9793,
+    "name": "Senjou no Valkyria 3: Tagatame no Juusou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/27146.jpg",
+    "link": "https://myanimelist.net/anime/9793/Senjou_no_Valkyria_3__Tagatame_no_Juusou"
+  },
+  {
+    "id": 9794,
+    "name": "Tono to Issho 1.5",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/27152.jpg",
+    "link": "https://myanimelist.net/anime/9794/Tono_to_Issho_15"
+  },
+  {
+    "id": 9874,
+    "name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/27302.jpg",
+    "link": "https://myanimelist.net/anime/9874/Touhou_Niji_Sousaku_Doujin_Anime__Musou_Kakyou"
+  },
+  {
+    "id": 9875,
+    "name": "Anime Tenchou x Touhou Project",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/27303.jpg",
+    "link": "https://myanimelist.net/anime/9875/Anime_Tenchou_x_Touhou_Project"
+  },
+  {
+    "id": 9893,
+    "name": "Suite Precure♪",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/32129.jpg",
+    "link": "https://myanimelist.net/anime/9893/Suite_Precure♪"
+  },
+  {
+    "id": 9958,
+    "name": "Hayate no Gotoku! Heaven Is a Place on Earth",
+    "english": "Hayate the Combat Butler! Movie",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/29542.jpg",
+    "link": "https://myanimelist.net/anime/9958/Hayate_no_Gotoku_Heaven_Is_a_Place_on_Earth"
+  },
+  {
+    "id": 9968,
+    "name": "Wana: Hakudaku Mamire no Houkago",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/27579.jpg",
+    "link": "https://myanimelist.net/anime/9968/Wana__Hakudaku_Mamire_no_Houkago"
+  },
+  {
+    "id": 10000,
+    "name": "Esper Mami Special: My Angel Mami-chan",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/27652.jpg",
+    "link": "https://myanimelist.net/anime/10000/Esper_Mami_Special__My_Angel_Mami-chan"
+  },
+  {
+    "id": 10030,
+    "name": "Bakuman. 2nd Season",
+    "english": "Bakuman.",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/34923.jpg",
+    "link": "https://myanimelist.net/anime/10030/Bakuman_2nd_Season"
+  },
+  {
+    "id": 10110,
+    "name": "Mayo Chiki!",
+    "english": "Mayo Chiki!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/13/29971.jpg",
+    "link": "https://myanimelist.net/anime/10110/Mayo_Chiki"
+  },
+  {
+    "id": 10112,
+    "name": "Alexandros no Ketsudan",
+    "english": "Alexander's Decision",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/11/27884.jpg",
+    "link": "https://myanimelist.net/anime/10112/Alexandros_no_Ketsudan"
+  },
+  {
+    "id": 10113,
+    "name": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/28062.jpg",
+    "link": "https://myanimelist.net/anime/10113/Yokohama_Meibutsu__Otoko_Katayama-gumi"
+  },
+  {
+    "id": 10119,
+    "name": "Seitokai Yakuindomo OVA",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/41873.jpg",
+    "link": "https://myanimelist.net/anime/10119/Seitokai_Yakuindomo_OVA"
+  },
+  {
+    "id": 10155,
+    "name": "Dog Days",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/75378.jpg",
+    "link": "https://myanimelist.net/anime/10155/Dog_Days"
+  },
+  {
+    "id": 10191,
+    "name": "Katte ni Kaizou",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/28416.jpg",
+    "link": "https://myanimelist.net/anime/10191/Katte_ni_Kaizou"
+  },
+  {
+    "id": 10199,
+    "name": "Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/28134.jpg",
+    "link": "https://myanimelist.net/anime/10199/Super_Doll_Licca-chan__Licca-chan_Zettai_Zetsumei_Doll_Knights_no_Kiseki"
+  },
+  {
+    "id": 10286,
+    "name": "Soukou Kijo Iris Special",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/33435.jpg",
+    "link": "https://myanimelist.net/anime/10286/Soukou_Kijo_Iris_Special"
+  },
+  {
+    "id": 10321,
+    "name": "Uta no☆Prince-sama♪ Maji Love 1000%",
+    "english": "Uta no Prince Sama",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/30248.jpg",
+    "link": "https://myanimelist.net/anime/10321/Uta_no☆Prince-sama♪_Maji_Love_1000"
+  },
+  {
+    "id": 10335,
+    "name": "Konpeki no Kantai: Sourai Kaihatsu Monogatari",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/28412.jpg",
+    "link": "https://myanimelist.net/anime/10335/Konpeki_no_Kantai__Sourai_Kaihatsu_Monogatari"
+  },
+  {
+    "id": 10346,
+    "name": "Ring ni Kakero 1: Sekai Taikai-hen",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/75841.jpg",
+    "link": "https://myanimelist.net/anime/10346/Ring_ni_Kakero_1__Sekai_Taikai-hen"
+  },
+  {
+    "id": 10347,
+    "name": "Happy Kappy",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/3/32993.jpg",
+    "link": "https://myanimelist.net/anime/10347/Happy_Kappy"
+  },
+  {
+    "id": 10391,
+    "name": "Kuragehime: Soreike! Amars Tankentai",
+    "english": "Princess Jellyfish: Go, Sisterhood Explorers!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/28576.jpg",
+    "link": "https://myanimelist.net/anime/10391/Kuragehime__Soreike_Amars_Tankentai"
+  },
+  {
+    "id": 10397,
+    "name": "Mashiro-iro Symphony: The Color of Lovers",
+    "english": "Mashiroiro Symphony: The Color of Lovers",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/39303.jpg",
+    "link": "https://myanimelist.net/anime/10397/Mashiro-iro_Symphony__The_Color_of_Lovers"
+  },
+  {
+    "id": 10417,
+    "name": "Gyo",
+    "english": "GYO: Tokyo Fish Attack!",
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/9/31905.jpg",
+    "link": "https://myanimelist.net/anime/10417/Gyo"
+  },
+  {
+    "id": 10419,
+    "name": "Menkui!",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/28643.jpg",
+    "link": "https://myanimelist.net/anime/10419/Menkui"
+  },
+  {
+    "id": 10420,
+    "name": "Gakuen 3",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/12/28644.jpg",
+    "link": "https://myanimelist.net/anime/10420/Gakuen_3"
+  },
+  {
+    "id": 10421,
+    "name": "Bi-chiku Beach: Nangoku Nyuujoku Satsueikai",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/33687.jpg",
+    "link": "https://myanimelist.net/anime/10421/Bi-chiku_Beach__Nangoku_Nyuujoku_Satsueikai"
+  },
+  {
+    "id": 10424,
+    "name": "Ona x2",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/10/51365.jpg",
+    "link": "https://myanimelist.net/anime/10424/Ona_x2"
+  },
+  {
+    "id": 10509,
+    "name": "Hoero! Bun Bun (Movie)",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/5/28907.jpg",
+    "link": "https://myanimelist.net/anime/10509/Hoero_Bun_Bun_Movie"
+  },
+  {
+    "id": 10527,
+    "name": "Duel Masters Cross",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/2/28927.jpg",
+    "link": "https://myanimelist.net/anime/10527/Duel_Masters_Cross"
+  },
+  {
+    "id": 10528,
+    "name": "Duel Masters Cross Shock",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/7/28928.jpg",
+    "link": "https://myanimelist.net/anime/10528/Duel_Masters_Cross_Shock"
+  },
+  {
+    "id": 10531,
+    "name": "Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio",
+    "english": null,
+    "coverImage": "https://myanimelist.cdn-dena.com/images/anime/6/28938.jpg",
+    "link": "https://myanimelist.net/anime/10531/Detective_Conan_Magic_File_5__Niigata_-_Tokyo_Omiyage_Capriccio"
+  }
+]

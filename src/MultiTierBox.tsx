@@ -1,4 +1,6 @@
-import { Button, Col, Row } from 'antd';
+import { Button, Checkbox, Col, Divider, Row } from 'antd';
+import { CheckboxChangeEvent } from 'antd/lib/checkbox';
+import FormItem from 'antd/lib/form/FormItem';
 import * as React from 'react';
 import { tier } from './consts';
 import Anime from './models/anime';
@@ -10,10 +12,27 @@ import TierBox from './TierBox';
 
 interface Props {
 	chosenDiff: Difficulty;
+	checkAll: boolean;
+	isAllDisabled: boolean;
+	indeterminate: boolean;
 	selections: Selection[][];
-	onSelect: (challenge: Challenge, inputIndex: number, tierIndex: number) => void;
-	onSelectAnime: (anime: Anime, inputIndex: number, tierIndex: number) => void;
+	onSelect: (
+		challenge: Challenge,
+		inputIndex: number,
+		tierIndex: number
+	) => void;
+	onSelectAnime: (
+		anime: Anime,
+		inputIndex: number,
+		tierIndex: number
+	) => void;
 	onSort: () => void;
+	onSetStatus: (
+		completed: boolean,
+		inputIndex: number,
+		tierIndex: number
+	) => void;
+	onCheckAll: (checked: boolean) => void;
 }
 
 class MultiTierBox extends React.Component<Props, {}> {
@@ -23,10 +42,27 @@ class MultiTierBox extends React.Component<Props, {}> {
 	public render() {
 		return (
 			<div>
+				<Divider />
 				<div>
-					<Row>
-						<Col span={2} offset={22}>
-							<Button onClick={this.props.onSort} icon="sort-descending" size={'large'} />
+					<Row gutter={48}>
+						<Col span={1} offset={20}>
+							<FormItem>
+								<Checkbox
+									indeterminate={this.props.indeterminate}
+									disabled={this.props.isAllDisabled}
+									onChange={(e: CheckboxChangeEvent) =>
+										this.props.onCheckAll(e.target.checked)
+									}
+									checked={this.props.checkAll}
+								/>
+							</FormItem>
+						</Col>
+						<Col span={1} offset={1}>
+							<Button
+								onClick={this.props.onSort}
+								icon="sort-descending"
+								size={'large'}
+							/>
 						</Col>
 					</Row>
 				</div>
@@ -39,18 +75,30 @@ class MultiTierBox extends React.Component<Props, {}> {
 						tier={t}
 						index={index}
 						selection={this.props.selections[index]}
-						alreadyChosenChallenges={this.getChosenChallenges(index)}
+						alreadyChosenChallenges={this.getChosenChallenges(
+							index
+						)}
+						alreadyChosenAnime={this.getChosenAnimes(index)}
+						onSetStatus={this.props.onSetStatus}
 					/>
 				))}
 			</div>
 		);
 	}
 	private getChosenChallenges(index: number) {
-		return this.props.selections[index].filter(sel => sel.challenge).map(sel => sel.challenge) as Challenge[];
+		return this.props.selections[index]
+			.filter(sel => sel.challenge)
+			.map(sel => sel.challenge) as Challenge[];
 	}
-	// private getChosenAnimes(index: number): Anime[] {
-	// 	return this.props.selections[index].filter(sel => sel.anime).map(sel => sel.anime) as Anime[];
-	// }
+	private getChosenAnimes(index: number): Anime[] {
+		const flattenedSelection = [].concat.apply(
+			[],
+			this.props.selections
+		) as Selection[];
+		return flattenedSelection
+			.filter(sel => sel.anime)
+			.map(sel => sel.anime) as Anime[];
+	}
 }
 
 export default MultiTierBox;

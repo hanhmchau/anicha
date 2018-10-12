@@ -5,15 +5,30 @@
   "dependencies": {
     "antd": "^3.10.0",
     "axios": "^0.18.0",
+    "husky": "^1.1.2",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.14.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts-ts": "3.1.0"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "eject": "react-scripts-ts eject",
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "pretty": "prettier src/**/*.{js,jsx,ts,tsx,json,css} --write"
   },
   "devDependencies": {
     "@types/jest": "^23.3.4",

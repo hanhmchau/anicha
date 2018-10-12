@@ -16,21 +16,27 @@ export default (props: Props) => (
 		<Row>
 			<Col span={7}>
 				<div className="label">Username:</div>
-				<Input placeholder="Username" value={props.username} onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
-					props.onSetUsername(e.target.value);
-				}} />
+				<Input
+					placeholder="Username"
+					value={props.username}
+					onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+						props.onSetUsername(e.target.value);
+					}}
+				/>
 			</Col>
 		</Row>
 		<Row>
 			<div className="label">Difficulty:</div>
-			<Radio.Group onChange={(e: RadioChangeEvent) => {
-				props.onChosenDiff(e.target.value);
-			}} buttonStyle="solid">
-				{
-					props.difficulties.map(diff =>
-						<Radio.Button key={diff.name} value={diff}>{diff.name}</Radio.Button>
-					)
-				}
+			<Radio.Group
+				onChange={(e: RadioChangeEvent) => {
+					props.onChosenDiff(e.target.value);
+				}}
+				buttonStyle="solid">
+				{props.difficulties.map(diff => (
+					<Radio.Button key={diff.name} value={diff}>
+						{diff.name}
+					</Radio.Button>
+				))}
 			</Radio.Group>
 		</Row>
 	</div>

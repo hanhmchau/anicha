@@ -1,7 +1,7 @@
 import Challenge from './challenge';
 
 class Tier {
-    challenges: Challenge[];
+	challenges: Challenge[];
 }
 
 export default Tier;
