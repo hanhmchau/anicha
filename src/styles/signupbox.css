@@ -1,0 +1,24 @@
+.anime-suggestion {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.anime-suggestion .cover-image {
+    height: 25px;
+    width: 25px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.anime-suggestion .title {
+    margin-left: 10px;
+    flex-grow: 1;
+}
+
+.anime-suggestion .title .romaji {
+    font-weight: bold;
+    font-size: 13px;
+}
