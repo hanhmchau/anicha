@@ -55,13 +55,20 @@ class SignUpBox extends React.Component<{}, State> {
 		);
 	}
 	private checkAll(checked: boolean) {
-		const newSelections = this.state.selections.slice();
+		const newSelections: Selection[][] = [];
 		newSelections.forEach(tierSelections => {
+			const newTierSelection: Selection[] = [];
 			tierSelections.forEach(sel => {
-				if (sel.challenge && sel.anime) {
-					sel.completed = checked;
+				if (sel.challenge && sel.anime && sel.completed !== checked) {
+					newTierSelection.push({
+						...sel,
+						completed: checked
+					});
+				} else {
+					newTierSelection.push(sel);
 				}
 			});
+			newSelections.push(newTierSelection);
 		});
 		this.setState({
 			selections: newSelections
@@ -104,12 +111,14 @@ class SignUpBox extends React.Component<{}, State> {
 		inputIndex: number,
 		tierIndex: number
 	) {
-		const newSelections = this.state.selections.slice();
-		const currentSelection = newSelections[tierIndex][inputIndex];
-		newSelections[tierIndex][inputIndex] = {
-			...currentSelection,
+		const tierSelection = this.state.selections[tierIndex].slice();
+		const replacedSel = tierSelection[inputIndex];
+		tierSelection.splice(inputIndex, 1, {
+			...replacedSel,
 			completed
-		};
+		});
+		const newSelections = this.state.selections.slice();
+		newSelections.splice(tierIndex, 1, tierSelection);
 		this.setState({
 			selections: newSelections
 		});
@@ -128,9 +137,11 @@ class SignUpBox extends React.Component<{}, State> {
 					return 0;
 				}
 				return a.challenge!.id - b.challenge!.id;
-			});
+			}).slice();
 			newSelections.push(sortedSelections);
 		});
+		// tslint:disable:no-console
+		console.log(newSelections);
 		this.setState({
 			selections: newSelections
 		});
@@ -140,23 +151,27 @@ class SignUpBox extends React.Component<{}, State> {
 		inputIndex: number,
 		tierIndex: number
 	) {
-		const newSelections = this.state.selections.slice();
-		const currentSelection = newSelections[tierIndex][inputIndex];
-		newSelections[tierIndex][inputIndex] = {
-			...currentSelection,
+		const tierSelection = this.state.selections[tierIndex].slice();
+		const replacedSel = tierSelection[inputIndex];
+		tierSelection.splice(inputIndex, 1, {
+			...replacedSel,
 			challenge
-		};
+		});
+		const newSelections = this.state.selections.slice();
+		newSelections.splice(tierIndex, 1, tierSelection);
 		this.setState({
 			selections: newSelections
 		});
 	}
 	private onSelectAnime(anime: Anime, inputIndex: number, tierIndex: number) {
-		const newSelections = this.state.selections.slice();
-		const currentSelection = newSelections[tierIndex][inputIndex];
-		newSelections[tierIndex][inputIndex] = {
-			...currentSelection,
+		const tierSelection = this.state.selections[tierIndex].slice();
+		const replacedSel = tierSelection[inputIndex];
+		tierSelection.splice(inputIndex, 1, {
+			...replacedSel,
 			anime
-		};
+		});
+		const newSelections = this.state.selections.slice();
+		newSelections.splice(tierIndex, 1, tierSelection);
 		this.setState({
 			selections: newSelections
 		});

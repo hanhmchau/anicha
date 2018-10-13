@@ -31,7 +31,12 @@ class TierBox extends React.Component<Props, {}> {
 	constructor(props: any) {
 		super(props);
 	}
+	shouldComponentUpdate(nextProps: Readonly<Props>) {
+		return this.props.selection !== nextProps.selection;
+	}
 	public render() {
+						// tslint:disable:no-console
+						console.log('rerendering the tier box')
 		return (
 			<div className="">
 				<div>Tier {this.props.index + 1}</div>

@@ -39,6 +39,11 @@ class MultiTierBox extends React.Component<Props, {}> {
 	constructor(props: any) {
 		super(props);
 	}
+	shouldComponentUpdate(nextProps: Readonly<Props>) {
+				// tslint:disable:no-console
+		console.log('rerendering the multitierbox')
+		return this.props.selections !== nextProps.selections;
+	}
 	public render() {
 		return (
 			<div>
