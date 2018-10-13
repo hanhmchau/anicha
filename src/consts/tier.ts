@@ -2,6 +2,7 @@ import Tier from 'src/models/tier';
 
 const tier: Tier[] = [
 	{
+		name: 'Casual',
 		challenges: [
 			{ id: 1, name: 'Watch an ONA' },
 			{
@@ -116,6 +117,7 @@ const tier: Tier[] = [
 		]
 	},
 	{
+		name: 'Seasoned',
 		challenges: [
 			{ id: 34, name: 'Watch a stand-alone OVA' },
 			{
@@ -275,6 +277,7 @@ const tier: Tier[] = [
 		]
 	},
 	{
+		name: 'Advanced',
 		challenges: [
 			{
 				id: 77,
