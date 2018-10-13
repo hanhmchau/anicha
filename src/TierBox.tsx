@@ -35,11 +35,10 @@ class TierBox extends React.Component<Props, {}> {
 		return this.props.selection !== nextProps.selection;
 	}
 	public render() {
-						// tslint:disable:no-console
-						console.log('rerendering the tier box')
+		const tierId = `tier-${this.props.index + 1}`;
 		return (
-			<div className="">
-				<div>Tier {this.props.index + 1}</div>
+			<div id={tierId} className="">
+				<div className="label">Tier {this.props.index + 1}</div>
 				{this.props.selection.map((sel, index) => (
 					<ChallengeItem
 						key={index}

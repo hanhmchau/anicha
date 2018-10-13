@@ -1,11 +1,13 @@
-import { Layout } from 'antd';
+import { Button, Layout, Tooltip } from 'antd';
 import * as React from 'react';
+import CodeDrawer from './CodeDrawer';
 import { difficulties } from './consts';
 import Anime from './models/anime';
 import Challenge from './models/challenge';
 import Difficulty from './models/difficulty';
 import Selection from './models/selection';
 import MultiTierBox from './MultiTierBox';
+import render from './services/render.service';
 import SignUpInfo from './SignUpInfo';
 import './styles/signupbox.css';
 const { Content } = Layout;
@@ -15,6 +17,7 @@ interface State {
 	chosenDiff?: Difficulty;
 	username?: string;
 	selections: Selection[][];
+	showDrawer: boolean;
 }
 
 class SignUpBox extends React.Component<{}, State> {
@@ -23,7 +26,8 @@ class SignUpBox extends React.Component<{}, State> {
 		const selections = [[], [], []];
 		this.state = {
 			difficulties,
-			selections
+			selections,
+			showDrawer: false
 		};
 	}
 	public render() {
@@ -51,6 +55,37 @@ class SignUpBox extends React.Component<{}, State> {
 						/>
 					)}
 				</div>
+				{this.state.chosenDiff && (
+					<div className="fab">
+						<Tooltip title="Get the code">
+							<Button
+								size="large"
+								shape="circle"
+								icon="file-done"
+								type="primary"
+								onClick={() =>
+									this.setState({
+										showDrawer: true
+									})
+								}
+							/>
+						</Tooltip>
+					</div>
+				)}
+				<CodeDrawer
+					onCloseDrawer={() => {
+						this.setState({
+							showDrawer: false
+						});
+					}}
+					username={this.state.username}
+					showDrawer={this.state.showDrawer}
+					signUpForm={render(
+						this.state.chosenDiff,
+						this.state.username,
+						this.state.selections
+					)}
+				/>
 			</Content>
 		);
 	}
@@ -126,22 +161,22 @@ class SignUpBox extends React.Component<{}, State> {
 	private onSort() {
 		const newSelections: Selection[][] = [];
 		this.state.selections.forEach(tierSelections => {
-			const sortedSelections = tierSelections.sort((a, b) => {
-				if (!a.challenge && b.challenge) {
-					return 1;
-				}
-				if (a.challenge && !b.challenge) {
-					return -1;
-				}
-				if (!a.challenge && !b.challenge) {
-					return 0;
-				}
-				return a.challenge!.id - b.challenge!.id;
-			}).slice();
+			const sortedSelections = tierSelections
+				.sort((a, b) => {
+					if (!a.challenge && b.challenge) {
+						return 1;
+					}
+					if (a.challenge && !b.challenge) {
+						return -1;
+					}
+					if (!a.challenge && !b.challenge) {
+						return 0;
+					}
+					return a.challenge!.id - b.challenge!.id;
+				})
+				.slice();
 			newSelections.push(sortedSelections);
 		});
-		// tslint:disable:no-console
-		console.log(newSelections);
 		this.setState({
 			selections: newSelections
 		});

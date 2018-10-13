@@ -1,22 +1,17 @@
 import Difficulty from 'src/models/difficulty';
 import Selection from 'src/models/selection';
 
-const renderInfo = (chosenDiff: Difficulty, username: string = '') => `
-    [right][b]Initial Post Number: [/b] <####>[/right]
-    🎧[b] Challenge Start Date: [/b] 01/01/2018
-    🎤[b] Challenge Finish Date: [/b] 2018 
-    🎖️[b] Link to your list: [/b] http://myanimelist.net/animelist/${username}
-    🎖️[b] Link to your Anime+: [/b] http://graph.anime.plus/${username}/profile 
-    🔗[b] Completed Anime (at sign-up): [/b] ???
-    🔺[b] Difficulty: [/b] [color=#${chosenDiff.color}]${
-	chosenDiff.name
-}[/color]
-                        
-    🔻[b] Legend: [/b]
-    [color=FORESTGREEN][b]Watching[/b][/color] - 
-    [color=MEDIUMSLATEBLUE][b]Completed[/b][/color] - 
-    [color=DIMGRAY][b]Inactive/Plan to Watch[/b]
-    [/color] 
+const renderInfo = (chosenDiff: Difficulty, username: string = '') => `[right][b]Initial Post Number: [/b] <####>[/right]
+🎧[b] Challenge Start Date: [/b] 01/01/2018
+🎤[b] Challenge Finish Date: [/b] 2018 
+🎖️[b] Link to your list: [/b] http://myanimelist.net/animelist/${username}
+🎖️[b] Link to your Anime+: [/b] http://graph.anime.plus/${username}/profile 
+🔗[b] Completed Anime (at sign-up): [/b] ???
+🔺[b] Difficulty: [/b] [color=#${chosenDiff.color}]${chosenDiff.name}[/color]
+	
+🔻[b] Legend: [/b]
+[color=FORESTGREEN][b]Watching[/b][/color] - [color=MEDIUMSLATEBLUE][b]Completed[/b][/color] - [color=DIMGRAY][b]Inactive/Plan to Watch[/b]
+[/color] 
 `;
 
 const renderChallenge = (sel: Selection) => {
@@ -54,25 +49,53 @@ const renderTier = (
 			1}[/b] (${required} items)[/center][/quote][/color]
 
         ${tierString}
-
     `;
 };
 
 const renderMultiTier = (selections: Selection[][], chosenDiff: Difficulty) => {
-	return selections
+	selections = sort(selections);
+	const multiTier = selections
 		.map((sel, index) => renderTier(sel, index, chosenDiff))
 		.join('');
+	return `🔒 [b]Challenge list[/b]
+	[spoiler="Challenge list"][list=1]${multiTier}[/list][/spoiler]
+	`
 };
 
 const render = (
-	chosenDiff: Difficulty,
+	chosenDiff: Difficulty | undefined,
 	username: string | undefined = '',
 	selections: Selection[][]
 ) => {
+	if (!chosenDiff) {
+		return '';
+	}
 	return (
 		renderInfo(chosenDiff, username) +
 		renderMultiTier(selections, chosenDiff)
 	);
+};
+
+const sort = (selections: Selection[][]) => {
+	const newSelections: Selection[][] = [];
+	selections.forEach(tierSelections => {
+		const sortedSelections = tierSelections
+			.sort((a, b) => {
+				if (!a.challenge && b.challenge) {
+					return 1;
+				}
+				if (a.challenge && !b.challenge) {
+					return -1;
+				}
+				if (!a.challenge && !b.challenge) {
+					return 0;
+				}
+				return a.challenge!.id - b.challenge!.id;
+			})
+			.slice();
+		newSelections.push(sortedSelections);
+	});
+	return newSelections;
 };
 
 export default render;

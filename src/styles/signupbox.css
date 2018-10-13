@@ -26,3 +26,17 @@
 .challenge-item .ant-row.ant-form-item {
 	margin-bottom: 5px;
 }
+
+.fab {
+	position: fixed;
+	right: 130px;
+	bottom: 30px;
+	display: flex;
+	flex-direction: column;
+}
+
+.fab button {
+	height: 50px !important;
+	width: 50px !important;
+	font-size: 21px !important;
+}
