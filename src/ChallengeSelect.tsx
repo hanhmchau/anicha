@@ -17,26 +17,22 @@ class ChallengeSelect extends React.Component<Props, {}> {
 		super(props);
 	}
 	public render() {
-		const select = (
-			<FormItem>
-				<Select
-					style={{
-						width: '100%'
-					}}
-					onChange={this.onChange.bind(this)}
-					value={this.props.value ? this.props.value.name : undefined}
-					showSearch
-					filterOption={(input, option) => this.matches(input, option)}>
-					{this.getUnselectedChallenges.call(this)}
-				</Select>
-			</FormItem>
+		let item = (
+			<Select
+				style={{
+					width: '100%'
+				}}
+				onChange={this.onChange.bind(this)}
+				value={this.props.value ? this.props.value.name : undefined}
+				showSearch
+				filterOption={(input, option) => this.matches(input, option)}>
+				{this.getUnselectedChallenges.call(this)}
+			</Select>
 		);
 		if (this.props.value && this.props.value.helptext) {
-			return (
-				<Tooltip title={this.props.value.helptext}>{select}</Tooltip>
-			);
+			item = <Tooltip title={this.props.value.helptext}>{item}</Tooltip>;
 		}
-		return select;
+		return <FormItem>{item}</FormItem>;
 	}
 	private getUnselectedChallenges() {
 		return this.props.allChallenges
