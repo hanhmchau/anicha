@@ -80,6 +80,7 @@ const sort = (selections: Selection[][]) => {
 	const newSelections: Selection[][] = [];
 	selections.forEach(tierSelections => {
 		const sortedSelections = tierSelections
+			.slice()
 			.sort((a, b) => {
 				if (!a.challenge && b.challenge) {
 					return 1;
@@ -91,8 +92,7 @@ const sort = (selections: Selection[][]) => {
 					return 0;
 				}
 				return a.challenge!.id - b.challenge!.id;
-			})
-			.slice();
+			});
 		newSelections.push(sortedSelections);
 	});
 	return newSelections;

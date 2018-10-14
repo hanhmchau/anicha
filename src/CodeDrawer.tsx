@@ -1,13 +1,18 @@
-import { Button, Card, Drawer } from 'antd';
+import { Button, Divider, Drawer } from 'antd';
 import * as React from 'react';
-import * as CopyToClipboard from 'react-copy-to-clipboard';
+import CopyableTextArea from './CopyableTextarea';
+import Difficulty from './models/difficulty';
+import Selection from './models/selection';
 import './styles/signupbox.css';
 
 interface Props {
 	showDrawer: boolean;
+	chosenDiff: Difficulty | undefined;
+	selections: Selection[][];
 	onCloseDrawer: (() => void);
-	signUpForm: string;
 	username: string | undefined;
+	signUpForm: string;
+	turnInForm: string;
 }
 
 class CodeDrawer extends React.Component<Props, {}> {
@@ -24,7 +29,7 @@ class CodeDrawer extends React.Component<Props, {}> {
 				width="500"
 				visible={this.props.showDrawer}>
 				<p>
-					This is your full sign up form. Post it in{' '}
+					This is your full <b>sign up form</b>. Post it in{' '}
 					<a
 						target="_blank"
 						href="https://myanimelist.net/forum/?action=message&topic_id=1696289">
@@ -38,22 +43,24 @@ class CodeDrawer extends React.Component<Props, {}> {
 					<a
 						target="_blank"
 						href={`https://myanimelist.net/forum/search?u=${
-							this.props.username
+							this.props.username || '####'
 						}&q=&uloc=1&loc=-1`}>
 						here
 					</a>
 					.
 				</p>
-				<CopyToClipboard text={this.props.signUpForm}>
-					<Card
-						style={{
-							height: '140px',
-							overflow: 'auto',
-							whiteSpace: 'pre-wrap'
-						}}>
-						{this.props.signUpForm}
-					</Card>
-				</CopyToClipboard>
+				<CopyableTextArea copyableContent={this.props.signUpForm} />
+				<Divider />
+				<p>
+					This is your <b>turn in form</b>. Post it in{' '}
+					<a
+						target="_blank"
+						href="https://myanimelist.net/forum/?action=message&topic_id=1696289">
+						the same topic
+					</a>
+					.
+				</p>
+				<CopyableTextArea copyableContent={this.props.turnInForm} />
 				<div
 					style={{
 						position: 'absolute',

@@ -40,8 +40,6 @@ class MultiTierBox extends React.Component<Props, {}> {
 		super(props);
 	}
 	shouldComponentUpdate(nextProps: Readonly<Props>) {
-		// tslint:disable:no-console
-		console.log('rerendering the multitierbox');
 		return this.props.selections !== nextProps.selections;
 	}
 	public render() {
@@ -53,6 +51,9 @@ class MultiTierBox extends React.Component<Props, {}> {
 						<Col span={1} offset={20}>
 							<FormItem>
 								<Checkbox
+									style={{
+										
+									}}
 									indeterminate={this.props.indeterminate}
 									disabled={this.props.isAllDisabled}
 									onChange={(e: CheckboxChangeEvent) =>

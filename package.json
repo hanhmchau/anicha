@@ -3,13 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "@types/react-addons-css-transition-group": "^15.0.5",
     "@types/react-copy-to-clipboard": "^4.2.6",
     "antd": "^3.10.0",
     "axios": "^0.18.0",
+    "date-fns": "^1.29.0",
     "husky": "^1.1.2",
     "lint-staged": "^7.3.0",
     "prettier": "^1.14.3",
     "react": "^16.5.2",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.5.2",
     "react-scripts-ts": "3.1.0"

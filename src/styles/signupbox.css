@@ -40,3 +40,45 @@
 	width: 50px !important;
 	font-size: 21px !important;
 }
+
+.fade-enter {
+	opacity: 0.01;
+}
+
+.fade-enter.fade-enter-active {
+	opacity: 1;
+	transition: opacity 50ms ease-in;
+}
+
+.fade-leave {
+	opacity: 1;
+}
+
+.fade-leave.fade-leave-active {
+	opacity: 0.01;
+	transition: opacity 200ms ease-in;
+}
+
+.copyable-container {
+	white-space: pre-wrap;
+	cursor: pointer;
+	overflow: hidden;
+	border: 1px solid #e8e8e8;
+	border-radius: 2px;
+	color: rgba(0, 0, 0, 0.65);
+}
+
+.copyable-container:hover, .copyable-container:active {
+	outline: none;
+	border: 1px solid #e8e8e8;
+}
+
+.copyable-container button {
+	width: 100%;
+	border: 0;
+}
+
+.copyable-container button:hover, .copyable-container button:active {
+	border: 0 !important;
+	outline: 0 !important;
+}
