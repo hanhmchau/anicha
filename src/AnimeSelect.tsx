@@ -60,6 +60,8 @@ class AnimeSelect extends React.Component<Props, State> {
 		if (this.state.loading) {
 			return 'validating';
 		}
+		// // tslint:disable:no-console
+		// console.log(this.props.alreadyChosenAnimes.map(anime => anime.id));
 		if (
 			this.props.value &&
 			this.props.alreadyChosenAnimes
@@ -72,20 +74,22 @@ class AnimeSelect extends React.Component<Props, State> {
 	}
 	private onSearch(value: string) {
 		const currentSelection = this.state.latestSuggestion + 1;
-		this.setState({
-			loading: true,
-			latestSuggestion: currentSelection
-		}, () => {
-			animeService.searchAnime(value).then(suggestions => {
-				if (this.state.latestSuggestion === currentSelection) {
-					this.setState({
-						suggestions: suggestions || [],
-						loading: false
-					});
-				}
-			});
-
-		});
+		this.setState(
+			{
+				loading: true,
+				latestSuggestion: currentSelection
+			},
+			() => {
+				animeService.searchAnime(value).then(suggestions => {
+					if (this.state.latestSuggestion === currentSelection) {
+						this.setState({
+							suggestions: suggestions || [],
+							loading: false
+						});
+					}
+				});
+			}
+		);
 	}
 	private onSelect(value: SelectValue) {
 		const chosenAnime = JSON.parse(value.toString());

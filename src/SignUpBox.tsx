@@ -105,8 +105,8 @@ class SignUpBox extends React.Component<{}, State> {
 		});
 	}
 	private checkAll(checked: boolean) {
-		const newSelections: Selection[][] = this.getSelections(this.state.chosenDiff);
-		newSelections.forEach(tierSelections => {
+		const newSelections: Selection[][] = [];
+		this.state.selections.forEach(tierSelections => {
 			const newTierSelection: Selection[] = [];
 			tierSelections.forEach(sel => {
 				if (sel.challenge && sel.anime && sel.completed !== checked) {
@@ -120,6 +120,8 @@ class SignUpBox extends React.Component<{}, State> {
 			});
 			newSelections.push(newTierSelection);
 		});
+		// tslint:disable:no-console
+		console.log(newSelections);
 		this.setState(
 			{
 				selections: newSelections
@@ -157,8 +159,8 @@ class SignUpBox extends React.Component<{}, State> {
 			this.state.selections
 		);
 		const indeterminate =
-			flattenedSelections.some(sel => !sel.completed) &&
-			flattenedSelections.some(sel => sel.completed);
+			flattenedSelections.some(sel => !(sel.anime && sel.challenge && sel.completed)) &&
+			flattenedSelections.some(sel => !!(sel.anime && sel.challenge && sel.completed));
 		return indeterminate;
 	}
 	private onSetStatus(
