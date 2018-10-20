@@ -34,7 +34,7 @@ export default (props: Props) => (
 				}}
 				buttonStyle="solid">
 				{props.difficulties.map(diff => (
-					<Radio.Button key={diff.name} value={diff}>
+					<Radio.Button checked={props.chosenDiff && diff.name === props.chosenDiff.name} key={diff.name} value={diff}>
 						{diff.name}
 					</Radio.Button>
 				))}
