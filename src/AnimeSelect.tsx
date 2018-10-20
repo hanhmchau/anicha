@@ -60,8 +60,6 @@ class AnimeSelect extends React.Component<Props, State> {
 		if (this.state.loading) {
 			return 'validating';
 		}
-		// // tslint:disable:no-console
-		// console.log(this.props.alreadyChosenAnimes.map(anime => anime.id));
 		if (
 			this.props.value &&
 			this.props.alreadyChosenAnimes

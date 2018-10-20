@@ -90,9 +90,8 @@ class AnimeService {
 				idMal: media.idMal,
 				coverImage: media.coverImage.medium
 			}));
-		} catch (error) {
-			// tslint:disable:no-console
-			console.log(error);
+		} catch {
+			return;
 		}
 	};
 }

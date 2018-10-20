@@ -120,8 +120,6 @@ class SignUpBox extends React.Component<{}, State> {
 			});
 			newSelections.push(newTierSelection);
 		});
-		// tslint:disable:no-console
-		console.log(newSelections);
 		this.setState(
 			{
 				selections: newSelections
@@ -159,7 +157,7 @@ class SignUpBox extends React.Component<{}, State> {
 			this.state.selections
 		);
 		const indeterminate =
-			flattenedSelections.some(sel => !(sel.anime && sel.challenge && sel.completed)) &&
+			flattenedSelections.some(sel => !!(sel.anime && sel.challenge && !sel.completed)) &&
 			flattenedSelections.some(sel => !!(sel.anime && sel.challenge && sel.completed));
 		return indeterminate;
 	}
