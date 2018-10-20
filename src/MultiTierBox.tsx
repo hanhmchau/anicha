@@ -51,7 +51,6 @@ class MultiTierBox extends React.Component<Props, {}> {
 						<Col span={1} offset={20}>
 							<FormItem>
 								<Checkbox
-									style={{}}
 									indeterminate={this.props.indeterminate}
 									disabled={this.props.isAllDisabled}
 									onChange={(e: CheckboxChangeEvent) =>
@@ -95,8 +94,6 @@ class MultiTierBox extends React.Component<Props, {}> {
 			.map(sel => sel.challenge) as Challenge[];
 	}
 	private getChosenAnimes(): Anime[] {
-		// tslint:disable:no-console
-		console.log(this.props.selections);
 		const flattenedSelection = [].concat.apply(
 			[],
 			this.props.selections
