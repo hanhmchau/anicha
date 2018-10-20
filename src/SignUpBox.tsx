@@ -7,6 +7,7 @@ import Challenge from './models/challenge';
 import Difficulty from './models/difficulty';
 import Selection from './models/selection';
 import MultiTierBox from './MultiTierBox';
+import animeService from './services/anime.service';
 import render from './services/render.service';
 import turnin from './services/turnin.service';
 import SignUpInfo from './SignUpInfo';
@@ -26,13 +27,15 @@ interface State {
 class SignUpBox extends React.Component<{}, State> {
 	constructor(props: any) {
 		super(props);
-		const selections = [[], [], []];
+		const selections = animeService.getSelectionStorage();
 		this.state = {
 			difficulties,
 			selections,
 			showDrawer: false,
 			signUpForm: '',
-			turnInForm: ''
+			turnInForm: '',
+			chosenDiff: animeService.getDifficultyStorage(),
+			username: animeService.getUsernameStorage()
 		};
 	}
 	public render() {
@@ -40,6 +43,7 @@ class SignUpBox extends React.Component<{}, State> {
 			<Content style={{ padding: '0 100px' }}>
 				<div style={{ background: '#fff', padding: 24 }}>
 					<SignUpInfo
+						chosenDiff={this.state.chosenDiff}
 						username={this.state.username}
 						onSetUsername={this.onSetUsername.bind(this)}
 						onChosenDiff={this.onChosenDiff.bind(this)}
@@ -89,8 +93,11 @@ class SignUpBox extends React.Component<{}, State> {
 			</Content>
 		);
 	}
+	private persistToStorage() {
+		animeService.setSelectionStorage(this.state.selections);
+	}
 	private generateCodeDrawer() {
-		const { chosenDiff, username, selections } = {...this.state};
+		const { chosenDiff, username, selections } = { ...this.state };
 		this.setState({
 			signUpForm: render(chosenDiff, username, selections),
 			turnInForm: turnin(chosenDiff, username),
@@ -98,7 +105,7 @@ class SignUpBox extends React.Component<{}, State> {
 		});
 	}
 	private checkAll(checked: boolean) {
-		const newSelections: Selection[][] = [];
+		const newSelections: Selection[][] = this.getSelections(this.state.chosenDiff);
 		newSelections.forEach(tierSelections => {
 			const newTierSelection: Selection[] = [];
 			tierSelections.forEach(sel => {
@@ -113,9 +120,14 @@ class SignUpBox extends React.Component<{}, State> {
 			});
 			newSelections.push(newTierSelection);
 		});
-		this.setState({
-			selections: newSelections
-		});
+		this.setState(
+			{
+				selections: newSelections
+			},
+			() => {
+				this.persistToStorage();
+			}
+		);
 	}
 	private isAllDisabled() {
 		const flattenedSelections: Selection[] = [].concat.apply(
@@ -162,9 +174,14 @@ class SignUpBox extends React.Component<{}, State> {
 		});
 		const newSelections = this.state.selections.slice();
 		newSelections.splice(tierIndex, 1, tierSelection);
-		this.setState({
-			selections: newSelections
-		});
+		this.setState(
+			{
+				selections: newSelections
+			},
+			() => {
+				this.persistToStorage();
+			}
+		);
 	}
 	private onSort() {
 		const newSelections: Selection[][] = [];
@@ -185,9 +202,14 @@ class SignUpBox extends React.Component<{}, State> {
 				.slice();
 			newSelections.push(sortedSelections);
 		});
-		this.setState({
-			selections: newSelections
-		});
+		this.setState(
+			{
+				selections: newSelections
+			},
+			() => {
+				this.persistToStorage();
+			}
+		);
 	}
 	private onSelectChallenge(
 		challenge: Challenge,
@@ -202,9 +224,14 @@ class SignUpBox extends React.Component<{}, State> {
 		});
 		const newSelections = this.state.selections.slice();
 		newSelections.splice(tierIndex, 1, tierSelection);
-		this.setState({
-			selections: newSelections
-		});
+		this.setState(
+			{
+				selections: newSelections
+			},
+			() => {
+				this.persistToStorage();
+			}
+		);
 	}
 	private onSelectAnime(anime: Anime, inputIndex: number, tierIndex: number) {
 		const tierSelection = this.state.selections[tierIndex].slice();
@@ -215,25 +242,41 @@ class SignUpBox extends React.Component<{}, State> {
 		});
 		const newSelections = this.state.selections.slice();
 		newSelections.splice(tierIndex, 1, tierSelection);
-		this.setState({
-			selections: newSelections
-		});
+		this.setState(
+			{
+				selections: newSelections
+			},
+			() => {
+				this.persistToStorage();
+			}
+		);
 	}
 	private onChosenDiff(chosenDiff: Difficulty): void {
 		const selections = this.getSelections(chosenDiff);
-		this.setState({
-			chosenDiff,
-			selections
-		});
+		this.setState(
+			{
+				chosenDiff,
+				selections
+			},
+			() => {
+				animeService.setDifficultyStorage(chosenDiff);
+				this.persistToStorage();
+			}
+		);
 	}
 	private onSetUsername(username: string): void {
-		this.setState({
-			username
-		});
+		this.setState(
+			{
+				username
+			},
+			() => {
+				animeService.setUsernameStorage(username);
+			}
+		);
 	}
-	private getSelections(chosenDiff: Difficulty) {
+	private getSelections(chosenDiff: Difficulty | undefined) {
 		if (!chosenDiff) {
-			return [[], [], []];
+			return animeService.getDefaultSelection();
 		}
 		const selections: Selection[][] = [];
 		chosenDiff.required.forEach((requiredValue, index) => {

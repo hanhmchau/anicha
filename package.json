@@ -2,6 +2,7 @@
   "name": "anicha",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://hanhmchau.github.io/anicha",
   "dependencies": {
     "@types/date-fns": "^2.6.0",
     "@types/react-addons-css-transition-group": "^15.0.5",
@@ -9,6 +10,7 @@
     "antd": "^3.10.0",
     "axios": "^0.18.0",
     "date-fns": "^1.29.0",
+    "gh-pages": "^2.0.1",
     "husky": "^1.1.2",
     "lint-staged": "^7.3.0",
     "prettier": "^1.14.3",
@@ -34,7 +36,9 @@
         "pre-commit": "lint-staged"
       }
     },
-    "pretty": "prettier src/**/*.{js,jsx,ts,tsx,json,css} --write"
+    "pretty": "prettier src/**/*.{js,jsx,ts,tsx,json,css} --write",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/jest": "^23.3.4",

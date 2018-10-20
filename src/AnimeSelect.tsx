@@ -3,7 +3,7 @@ import FormItem from 'antd/lib/form/FormItem';
 import { SelectValue } from 'antd/lib/select';
 import * as React from 'react';
 import Anime from './models/anime';
-import { searchAnime } from './services/anime.service';
+import animeService from './services/anime.service';
 import './styles/signupbox.css';
 
 interface Props {
@@ -76,7 +76,7 @@ class AnimeSelect extends React.Component<Props, State> {
 			loading: true,
 			latestSuggestion: currentSelection
 		}, () => {
-			searchAnime(value).then(suggestions => {
+			animeService.searchAnime(value).then(suggestions => {
 				if (this.state.latestSuggestion === currentSelection) {
 					this.setState({
 						suggestions: suggestions || [],

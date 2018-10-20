@@ -5,6 +5,7 @@ import Difficulty from './models/difficulty';
 import './styles/signupinfo.css';
 
 interface Props {
+	chosenDiff?: Difficulty,
 	difficulties: Difficulty[];
 	username?: string;
 	onSetUsername: (username: string) => void;

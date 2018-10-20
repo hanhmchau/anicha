@@ -36,7 +36,7 @@ class ChallengeSelect extends React.Component<Props, {}> {
 	}
 	private getUnselectedChallenges() {
 		return this.props.allChallenges
-			.filter(cha => this.props.alreadyChosenChallenges.indexOf(cha) < 0)
+			.filter(cha => this.props.alreadyChosenChallenges.map(c => c.id).indexOf(cha.id) < 0)
 			.map(sug => (
 				<Select.Option key={sug.id} value={sug.id}>
 					{sug.name}
