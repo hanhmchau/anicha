@@ -2,7 +2,7 @@
   "name": "anicha",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anicha.netlify.com/anicha",
+  "homepage": "https://anicha.netlify.com",
   "dependencies": {
     "@types/date-fns": "^2.6.0",
     "@types/react-addons-css-transition-group": "^15.0.5",
