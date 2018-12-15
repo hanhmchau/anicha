@@ -24,7 +24,7 @@ const renderChallenge = (sel: Selection) => {
 	if (!sel.anime) {
 		anime = `[url=http://myanimelist.net/anime/<id_num>]<anime_title>[/url]`;
 	} else {
-		anime = `[url=http://myanimelist.net/anime/${sel.anime!.id}]${
+		anime = `[url=http://myanimelist.net/anime/${sel.anime!.idMal}]${
 			sel.anime!.name
 		}[/url]`;
 	}
